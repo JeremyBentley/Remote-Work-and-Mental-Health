@@ -1,0 +1,5001 @@
+Work_Life_Balance_Rating,Access_to_Mental_Health_Resources,Productivity_Change,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Region
+2,No,Decrease,Unsatisfied,1,Europe
+1,No,Increase,Satisfied,2,Asia
+5,No,No Change,Unsatisfied,5,North America
+4,Yes,Increase,Unsatisfied,3,Europe
+2,Yes,Decrease,Unsatisfied,3,North America
+4,No,Increase,Unsatisfied,1,South America
+3,Yes,Decrease,Neutral,3,Asia
+3,No,Decrease,Satisfied,4,North America
+2,Yes,Decrease,Unsatisfied,4,Europe
+1,Yes,Decrease,Neutral,1,North America
+3,Yes,Decrease,Satisfied,2,Oceania
+4,Yes,No Change,Neutral,3,Africa
+2,Yes,Decrease,Neutral,1,Europe
+1,No,Decrease,Satisfied,5,North America
+3,Yes,Decrease,Neutral,3,Oceania
+4,No,No Change,Satisfied,4,Africa
+2,No,No Change,Satisfied,1,Africa
+3,Yes,Decrease,Neutral,5,Europe
+1,No,No Change,Satisfied,2,Oceania
+3,No,Decrease,Neutral,1,South America
+2,No,Increase,Satisfied,1,South America
+3,No,Decrease,Unsatisfied,4,North America
+3,Yes,Increase,Satisfied,4,Africa
+5,No,No Change,Neutral,3,Asia
+3,No,Increase,Neutral,4,North America
+4,No,No Change,Neutral,3,South America
+3,No,Decrease,Unsatisfied,4,North America
+4,No,No Change,Unsatisfied,4,Oceania
+3,Yes,Decrease,Satisfied,1,Europe
+2,Yes,No Change,Satisfied,1,North America
+1,Yes,No Change,Neutral,2,Asia
+2,No,Decrease,Satisfied,5,North America
+2,Yes,Decrease,Satisfied,5,North America
+3,Yes,No Change,Neutral,4,North America
+4,No,No Change,Unsatisfied,3,Europe
+4,Yes,No Change,Neutral,5,Europe
+1,Yes,Decrease,Satisfied,3,Asia
+2,Yes,Increase,Satisfied,5,Asia
+4,Yes,No Change,Neutral,1,Africa
+3,No,Increase,Unsatisfied,5,Asia
+4,No,Decrease,Neutral,5,Europe
+2,No,No Change,Unsatisfied,5,North America
+3,Yes,Increase,Unsatisfied,3,Europe
+4,Yes,No Change,Unsatisfied,3,Europe
+3,Yes,No Change,Neutral,2,South America
+2,No,No Change,Neutral,3,North America
+1,Yes,Decrease,Unsatisfied,5,South America
+5,No,Decrease,Unsatisfied,4,Oceania
+4,No,Increase,Neutral,3,Africa
+4,No,No Change,Satisfied,3,Europe
+4,Yes,Decrease,Satisfied,4,Europe
+5,No,Decrease,Satisfied,1,South America
+3,No,Decrease,Satisfied,2,South America
+2,Yes,No Change,Neutral,1,Asia
+1,Yes,Decrease,Satisfied,1,Asia
+3,No,Increase,Neutral,5,Africa
+5,Yes,Increase,Neutral,5,Asia
+5,No,No Change,Satisfied,3,South America
+1,No,Decrease,Unsatisfied,3,Oceania
+2,Yes,No Change,Satisfied,5,Oceania
+4,Yes,No Change,Unsatisfied,2,Europe
+2,Yes,Increase,Unsatisfied,5,North America
+3,No,No Change,Satisfied,2,Asia
+3,Yes,No Change,Satisfied,5,South America
+4,No,No Change,Unsatisfied,2,Oceania
+4,Yes,Increase,Satisfied,4,Europe
+1,No,Increase,Satisfied,2,Oceania
+2,Yes,Decrease,Unsatisfied,4,Oceania
+2,Yes,Decrease,Neutral,1,South America
+2,No,No Change,Neutral,1,North America
+4,No,Increase,Satisfied,1,North America
+1,Yes,No Change,Neutral,2,Oceania
+5,Yes,No Change,Unsatisfied,1,Africa
+3,Yes,Decrease,Neutral,1,Africa
+2,No,No Change,Neutral,3,Africa
+5,Yes,No Change,Satisfied,3,Asia
+4,No,No Change,Unsatisfied,2,Europe
+5,Yes,No Change,Satisfied,1,South America
+2,Yes,Increase,Neutral,1,South America
+5,No,No Change,Unsatisfied,3,Asia
+3,No,Decrease,Satisfied,4,Asia
+4,Yes,Increase,Neutral,2,South America
+3,Yes,Increase,Unsatisfied,2,North America
+4,Yes,Increase,Unsatisfied,3,Europe
+4,Yes,Decrease,Unsatisfied,5,Oceania
+4,No,No Change,Unsatisfied,4,Asia
+1,No,Decrease,Satisfied,1,North America
+1,Yes,Increase,Unsatisfied,2,Africa
+5,Yes,Increase,Neutral,2,North America
+4,Yes,Increase,Unsatisfied,4,Oceania
+4,No,No Change,Unsatisfied,2,Africa
+1,No,Decrease,Satisfied,5,South America
+5,No,Increase,Satisfied,5,Asia
+4,Yes,Decrease,Satisfied,4,Europe
+5,No,Decrease,Neutral,4,Africa
+5,No,Decrease,Satisfied,3,Asia
+1,No,Decrease,Neutral,5,Africa
+4,No,Increase,Neutral,3,South America
+1,No,No Change,Satisfied,5,Asia
+2,No,Decrease,Satisfied,4,Africa
+1,No,Increase,Satisfied,1,Asia
+1,No,Increase,Neutral,2,Africa
+4,No,No Change,Satisfied,4,Africa
+4,Yes,Increase,Satisfied,5,Africa
+4,Yes,Decrease,Satisfied,3,Africa
+3,Yes,Increase,Neutral,3,South America
+1,Yes,Decrease,Neutral,2,South America
+2,No,Decrease,Satisfied,5,Europe
+4,No,No Change,Satisfied,2,Oceania
+5,No,No Change,Neutral,5,Asia
+3,Yes,Increase,Unsatisfied,5,Africa
+5,No,Decrease,Unsatisfied,1,Africa
+1,Yes,Increase,Satisfied,5,Europe
+3,Yes,Decrease,Neutral,5,Europe
+2,No,No Change,Neutral,3,Oceania
+3,Yes,No Change,Unsatisfied,3,South America
+3,No,Increase,Satisfied,3,North America
+2,No,Increase,Satisfied,3,Europe
+2,Yes,Increase,Satisfied,3,Europe
+2,Yes,Decrease,Unsatisfied,5,Africa
+2,No,Decrease,Neutral,5,South America
+5,Yes,No Change,Unsatisfied,3,Europe
+2,Yes,No Change,Unsatisfied,1,Africa
+2,Yes,Increase,Satisfied,5,North America
+2,Yes,No Change,Unsatisfied,4,South America
+3,No,Increase,Unsatisfied,4,South America
+2,Yes,Decrease,Unsatisfied,1,North America
+5,Yes,Decrease,Unsatisfied,2,Europe
+4,No,No Change,Unsatisfied,2,Europe
+3,Yes,Decrease,Unsatisfied,3,Oceania
+1,No,No Change,Neutral,5,Africa
+5,Yes,Increase,Unsatisfied,4,Africa
+3,No,No Change,Neutral,2,South America
+1,Yes,Decrease,Satisfied,2,Europe
+4,No,Increase,Unsatisfied,2,Oceania
+5,No,Increase,Unsatisfied,5,Oceania
+2,No,No Change,Neutral,5,South America
+4,Yes,No Change,Satisfied,5,Oceania
+3,No,Increase,Unsatisfied,5,North America
+5,Yes,Decrease,Satisfied,1,Asia
+1,Yes,Decrease,Satisfied,5,Africa
+5,Yes,Decrease,Neutral,4,Asia
+5,No,No Change,Unsatisfied,1,Europe
+5,No,No Change,Satisfied,2,North America
+5,No,No Change,Unsatisfied,2,Asia
+3,Yes,Decrease,Satisfied,4,Europe
+2,No,Increase,Neutral,3,Africa
+1,Yes,No Change,Unsatisfied,5,North America
+4,Yes,Decrease,Satisfied,4,Oceania
+2,Yes,Decrease,Unsatisfied,3,Oceania
+3,Yes,Decrease,Unsatisfied,3,Oceania
+4,No,No Change,Satisfied,4,Oceania
+1,No,Increase,Unsatisfied,2,Africa
+1,Yes,No Change,Unsatisfied,2,Asia
+1,Yes,No Change,Unsatisfied,4,North America
+1,No,Decrease,Neutral,1,North America
+4,No,Decrease,Satisfied,2,South America
+3,No,No Change,Neutral,3,North America
+3,Yes,Increase,Unsatisfied,3,South America
+5,No,Increase,Satisfied,3,Oceania
+4,No,Decrease,Satisfied,1,Africa
+3,Yes,No Change,Neutral,1,Africa
+1,No,Increase,Unsatisfied,2,South America
+1,No,Increase,Neutral,1,Africa
+1,No,Increase,Neutral,1,Oceania
+2,Yes,Increase,Neutral,5,Africa
+2,Yes,No Change,Satisfied,2,Africa
+2,No,No Change,Satisfied,3,Asia
+2,Yes,No Change,Satisfied,2,Europe
+1,Yes,Increase,Satisfied,3,Europe
+1,No,Increase,Neutral,3,North America
+4,No,Decrease,Unsatisfied,4,Europe
+1,No,No Change,Satisfied,3,South America
+2,Yes,Increase,Neutral,4,North America
+2,Yes,Decrease,Unsatisfied,5,Europe
+3,Yes,No Change,Satisfied,4,Europe
+3,No,No Change,Satisfied,4,North America
+1,No,Decrease,Neutral,2,Europe
+4,No,Increase,Satisfied,4,South America
+2,Yes,Decrease,Unsatisfied,1,South America
+1,Yes,Decrease,Neutral,2,Europe
+5,Yes,Decrease,Unsatisfied,4,South America
+2,Yes,Increase,Satisfied,1,Europe
+3,No,No Change,Neutral,2,Africa
+5,No,Decrease,Neutral,2,Europe
+1,No,No Change,Unsatisfied,1,Asia
+5,Yes,Decrease,Unsatisfied,4,Oceania
+5,No,No Change,Neutral,5,Oceania
+5,No,No Change,Unsatisfied,3,Oceania
+1,Yes,No Change,Satisfied,2,North America
+3,No,Decrease,Satisfied,2,Europe
+1,Yes,No Change,Unsatisfied,3,North America
+5,No,No Change,Unsatisfied,2,South America
+2,No,Decrease,Neutral,1,South America
+1,No,No Change,Neutral,4,Africa
+2,No,Decrease,Neutral,4,North America
+1,Yes,Increase,Neutral,5,Oceania
+1,Yes,Decrease,Neutral,4,South America
+4,Yes,Decrease,Unsatisfied,3,Oceania
+3,No,Decrease,Unsatisfied,2,South America
+4,No,Increase,Neutral,1,Oceania
+2,No,Decrease,Neutral,3,Asia
+5,No,Decrease,Satisfied,1,Asia
+3,No,No Change,Neutral,1,South America
+5,No,No Change,Unsatisfied,2,Asia
+5,Yes,Increase,Satisfied,5,Oceania
+3,Yes,No Change,Unsatisfied,5,Africa
+3,No,Decrease,Unsatisfied,2,Europe
+4,Yes,Decrease,Satisfied,4,North America
+2,No,No Change,Unsatisfied,5,Africa
+5,Yes,No Change,Satisfied,4,Europe
+4,No,No Change,Satisfied,4,North America
+1,No,No Change,Satisfied,4,Oceania
+1,Yes,Decrease,Satisfied,5,Europe
+1,No,Increase,Neutral,4,South America
+2,No,Decrease,Neutral,4,Europe
+3,No,Increase,Satisfied,4,Oceania
+2,Yes,Increase,Neutral,2,Europe
+3,No,No Change,Satisfied,4,Asia
+4,No,No Change,Unsatisfied,1,South America
+5,No,Decrease,Satisfied,5,Oceania
+4,No,Increase,Neutral,5,Asia
+3,Yes,No Change,Unsatisfied,2,Asia
+3,Yes,Decrease,Satisfied,1,Africa
+1,No,Increase,Unsatisfied,2,North America
+1,Yes,Increase,Neutral,1,Africa
+5,Yes,Increase,Satisfied,4,South America
+2,Yes,Increase,Satisfied,3,Asia
+3,No,Decrease,Neutral,5,Oceania
+2,Yes,Decrease,Satisfied,1,Europe
+1,No,No Change,Unsatisfied,4,Africa
+4,No,Decrease,Satisfied,2,Oceania
+5,No,Decrease,Unsatisfied,2,Africa
+3,Yes,Increase,Neutral,2,Asia
+4,No,No Change,Neutral,5,Africa
+2,No,No Change,Unsatisfied,4,Oceania
+1,No,Decrease,Neutral,1,Europe
+5,Yes,No Change,Satisfied,4,Europe
+5,Yes,Increase,Neutral,1,North America
+1,No,No Change,Neutral,1,South America
+4,No,No Change,Neutral,2,Oceania
+2,Yes,Increase,Satisfied,3,North America
+1,No,Decrease,Neutral,4,Oceania
+2,No,Decrease,Neutral,1,Europe
+2,Yes,No Change,Neutral,3,North America
+2,Yes,Increase,Satisfied,3,South America
+5,No,Increase,Neutral,1,South America
+1,Yes,Increase,Unsatisfied,4,Oceania
+3,No,Decrease,Neutral,5,Africa
+5,Yes,No Change,Satisfied,2,Africa
+1,Yes,Increase,Satisfied,2,South America
+4,Yes,No Change,Unsatisfied,1,Oceania
+3,Yes,Increase,Neutral,3,Oceania
+3,No,Increase,Unsatisfied,3,Africa
+5,Yes,Decrease,Neutral,2,Africa
+3,Yes,Decrease,Unsatisfied,5,Oceania
+1,No,Increase,Unsatisfied,2,Europe
+3,No,Decrease,Satisfied,3,Oceania
+1,No,No Change,Satisfied,3,Oceania
+2,Yes,Increase,Neutral,5,Asia
+4,No,Increase,Neutral,3,North America
+1,No,No Change,Neutral,1,Asia
+3,No,No Change,Neutral,2,Africa
+5,No,Decrease,Neutral,5,Asia
+1,No,No Change,Satisfied,5,Europe
+4,Yes,No Change,Satisfied,4,Europe
+3,No,Decrease,Satisfied,5,South America
+4,No,Decrease,Unsatisfied,3,South America
+4,No,Increase,Unsatisfied,3,Europe
+4,Yes,Increase,Neutral,4,Africa
+4,Yes,Increase,Satisfied,5,South America
+2,Yes,No Change,Satisfied,2,Oceania
+4,Yes,Decrease,Unsatisfied,4,Asia
+3,No,Decrease,Neutral,2,Asia
+2,No,Decrease,Satisfied,3,Oceania
+4,Yes,No Change,Satisfied,4,Europe
+4,No,Decrease,Satisfied,1,Asia
+3,No,Increase,Neutral,5,Asia
+4,Yes,Decrease,Unsatisfied,4,Africa
+1,No,No Change,Satisfied,5,North America
+1,Yes,No Change,Unsatisfied,1,Asia
+5,No,No Change,Satisfied,3,Europe
+1,No,Decrease,Neutral,4,Asia
+5,Yes,Increase,Unsatisfied,3,Asia
+2,No,Decrease,Neutral,2,Oceania
+4,Yes,Decrease,Unsatisfied,1,Asia
+4,No,Increase,Unsatisfied,2,Africa
+2,Yes,Decrease,Neutral,1,Africa
+4,No,Decrease,Neutral,2,Africa
+4,No,No Change,Neutral,2,North America
+1,No,Decrease,Satisfied,3,Europe
+4,Yes,Decrease,Neutral,1,Asia
+3,Yes,Increase,Neutral,3,Africa
+5,Yes,Decrease,Satisfied,3,Asia
+4,No,Decrease,Unsatisfied,4,Europe
+3,Yes,Decrease,Satisfied,3,North America
+3,No,No Change,Satisfied,2,Europe
+5,No,No Change,Neutral,5,Asia
+2,No,Decrease,Neutral,2,North America
+1,No,Decrease,Satisfied,2,Oceania
+3,Yes,Decrease,Neutral,3,Oceania
+2,Yes,Decrease,Unsatisfied,5,Europe
+3,No,Increase,Satisfied,2,Africa
+1,Yes,No Change,Neutral,2,South America
+4,Yes,Decrease,Satisfied,5,Africa
+5,Yes,No Change,Unsatisfied,5,Europe
+2,Yes,Decrease,Unsatisfied,5,Asia
+4,Yes,Increase,Satisfied,2,North America
+3,Yes,Increase,Satisfied,4,Africa
+2,Yes,No Change,Satisfied,2,Africa
+3,Yes,No Change,Neutral,1,Asia
+1,No,Decrease,Neutral,4,Oceania
+5,Yes,Increase,Neutral,1,South America
+3,Yes,Decrease,Satisfied,5,Africa
+3,Yes,Decrease,Satisfied,4,North America
+5,No,Increase,Neutral,5,Asia
+2,Yes,Decrease,Neutral,1,Asia
+2,Yes,Increase,Unsatisfied,2,Europe
+2,No,No Change,Satisfied,5,Africa
+4,Yes,No Change,Neutral,2,Europe
+2,Yes,Increase,Neutral,3,Africa
+3,No,Increase,Unsatisfied,5,South America
+3,Yes,Decrease,Neutral,5,Asia
+1,Yes,Increase,Unsatisfied,2,Asia
+4,No,Decrease,Unsatisfied,1,Oceania
+2,Yes,Decrease,Satisfied,3,Oceania
+2,No,Increase,Satisfied,4,North America
+2,Yes,Increase,Satisfied,3,Oceania
+1,Yes,Increase,Neutral,4,South America
+5,Yes,Increase,Unsatisfied,5,North America
+5,No,Increase,Satisfied,3,Africa
+5,Yes,Decrease,Satisfied,5,Europe
+4,Yes,Decrease,Neutral,4,Asia
+2,No,Increase,Unsatisfied,4,Oceania
+4,Yes,Increase,Satisfied,3,Africa
+2,Yes,Increase,Satisfied,1,Asia
+4,Yes,Decrease,Unsatisfied,2,South America
+5,No,Increase,Neutral,2,North America
+2,No,Decrease,Unsatisfied,1,Europe
+5,No,No Change,Neutral,5,South America
+1,Yes,No Change,Unsatisfied,2,North America
+2,Yes,Decrease,Satisfied,4,Asia
+5,Yes,Increase,Unsatisfied,3,North America
+3,Yes,No Change,Satisfied,5,South America
+2,No,Decrease,Satisfied,4,Africa
+4,No,Decrease,Unsatisfied,5,North America
+1,Yes,No Change,Unsatisfied,3,Africa
+4,Yes,No Change,Unsatisfied,3,Africa
+3,Yes,Decrease,Neutral,5,Asia
+1,Yes,Decrease,Unsatisfied,4,Africa
+1,Yes,Decrease,Unsatisfied,2,South America
+3,No,Increase,Neutral,3,North America
+1,No,Decrease,Satisfied,2,South America
+2,Yes,Decrease,Unsatisfied,5,Africa
+5,Yes,Increase,Satisfied,3,Africa
+1,Yes,Increase,Satisfied,2,South America
+1,No,Increase,Neutral,2,Asia
+3,Yes,Decrease,Unsatisfied,3,Asia
+3,No,Increase,Neutral,4,South America
+2,Yes,Decrease,Satisfied,2,Europe
+1,No,Increase,Satisfied,5,Asia
+1,Yes,Increase,Satisfied,5,Europe
+4,Yes,Increase,Satisfied,4,South America
+3,Yes,No Change,Unsatisfied,2,South America
+1,No,No Change,Neutral,2,Africa
+4,No,Decrease,Neutral,2,South America
+5,No,Increase,Neutral,2,Europe
+2,No,Decrease,Neutral,1,Europe
+1,Yes,No Change,Satisfied,2,South America
+4,No,No Change,Neutral,5,Africa
+1,Yes,Decrease,Satisfied,5,Oceania
+4,No,Increase,Unsatisfied,4,Europe
+5,No,No Change,Neutral,4,Africa
+3,Yes,Increase,Unsatisfied,2,Oceania
+1,Yes,Increase,Unsatisfied,3,Oceania
+3,No,Decrease,Neutral,2,Oceania
+1,No,Decrease,Neutral,4,South America
+5,No,No Change,Unsatisfied,5,Europe
+5,Yes,Increase,Neutral,1,Africa
+2,No,Decrease,Neutral,1,Oceania
+3,Yes,Increase,Unsatisfied,2,Africa
+2,No,No Change,Neutral,4,South America
+3,No,Decrease,Neutral,2,North America
+3,Yes,No Change,Satisfied,4,Europe
+2,Yes,Increase,Neutral,4,Asia
+1,No,Increase,Unsatisfied,2,Oceania
+3,Yes,No Change,Neutral,5,Africa
+5,No,Decrease,Neutral,3,Africa
+5,Yes,No Change,Neutral,3,South America
+5,No,No Change,Satisfied,1,Europe
+3,No,Decrease,Satisfied,3,North America
+5,No,Increase,Unsatisfied,1,South America
+5,No,No Change,Neutral,4,Africa
+4,Yes,No Change,Satisfied,5,North America
+2,Yes,No Change,Neutral,5,Oceania
+3,No,Increase,Satisfied,5,Africa
+5,No,No Change,Unsatisfied,1,Europe
+1,No,Increase,Neutral,1,Europe
+2,No,No Change,Neutral,5,Europe
+5,Yes,Decrease,Satisfied,3,Africa
+4,Yes,No Change,Neutral,2,Asia
+4,No,Decrease,Satisfied,1,South America
+2,No,Decrease,Neutral,2,Africa
+3,Yes,Increase,Unsatisfied,1,Europe
+4,No,Increase,Unsatisfied,1,Asia
+4,No,No Change,Neutral,1,Europe
+3,Yes,Decrease,Satisfied,3,South America
+4,No,Decrease,Satisfied,1,Oceania
+1,No,Decrease,Satisfied,5,North America
+2,No,No Change,Unsatisfied,3,South America
+2,No,No Change,Unsatisfied,4,Europe
+5,Yes,Decrease,Unsatisfied,2,South America
+1,Yes,No Change,Neutral,3,Europe
+1,No,Decrease,Satisfied,1,South America
+3,No,Increase,Satisfied,5,Oceania
+4,No,Decrease,Satisfied,5,North America
+4,No,No Change,Unsatisfied,3,Asia
+2,No,Increase,Unsatisfied,5,Oceania
+4,No,No Change,Neutral,4,Asia
+2,Yes,No Change,Neutral,1,Africa
+1,Yes,Decrease,Satisfied,2,Asia
+1,Yes,Increase,Satisfied,3,Oceania
+2,No,Decrease,Unsatisfied,4,Europe
+5,Yes,Increase,Neutral,1,North America
+2,Yes,Increase,Neutral,5,Asia
+1,Yes,Decrease,Neutral,1,Asia
+2,Yes,Increase,Neutral,3,Europe
+4,Yes,No Change,Satisfied,5,Oceania
+1,Yes,No Change,Neutral,1,North America
+5,Yes,Increase,Satisfied,5,Europe
+3,Yes,Increase,Unsatisfied,2,Oceania
+3,No,No Change,Unsatisfied,1,North America
+5,Yes,Decrease,Neutral,2,South America
+2,No,Decrease,Neutral,1,Oceania
+5,Yes,Decrease,Satisfied,2,Oceania
+2,Yes,No Change,Satisfied,3,Oceania
+4,No,Increase,Unsatisfied,1,Europe
+2,Yes,Decrease,Neutral,1,Asia
+4,Yes,Increase,Satisfied,3,Europe
+1,No,Decrease,Neutral,1,Asia
+2,No,Decrease,Satisfied,4,South America
+4,Yes,No Change,Neutral,5,North America
+1,Yes,Decrease,Unsatisfied,5,Oceania
+5,No,Increase,Unsatisfied,1,Oceania
+3,No,Increase,Neutral,4,Africa
+2,Yes,No Change,Unsatisfied,1,Africa
+5,No,Increase,Unsatisfied,3,North America
+3,No,Increase,Satisfied,2,South America
+1,No,Decrease,Unsatisfied,5,Asia
+1,Yes,Decrease,Unsatisfied,4,Europe
+5,Yes,No Change,Satisfied,5,North America
+3,No,No Change,Satisfied,5,Oceania
+4,Yes,Increase,Unsatisfied,1,Oceania
+4,No,Decrease,Unsatisfied,3,Asia
+3,No,Decrease,Satisfied,4,Asia
+4,No,Increase,Satisfied,1,South America
+3,Yes,No Change,Neutral,5,Africa
+2,Yes,No Change,Unsatisfied,3,Oceania
+3,No,No Change,Satisfied,3,Asia
+5,Yes,Increase,Unsatisfied,3,Africa
+2,No,Decrease,Satisfied,2,Europe
+5,No,Decrease,Neutral,2,Europe
+1,No,Decrease,Satisfied,3,Europe
+3,No,No Change,Satisfied,5,North America
+4,Yes,No Change,Unsatisfied,2,Europe
+1,No,Decrease,Unsatisfied,2,Europe
+2,Yes,Increase,Neutral,2,Europe
+1,Yes,Decrease,Satisfied,1,Oceania
+1,Yes,Decrease,Satisfied,1,Asia
+4,Yes,No Change,Unsatisfied,3,Africa
+2,No,No Change,Neutral,2,Europe
+2,No,Decrease,Neutral,2,Africa
+3,Yes,Decrease,Satisfied,1,Europe
+2,No,Decrease,Unsatisfied,2,Asia
+2,Yes,Increase,Satisfied,5,Africa
+3,Yes,No Change,Satisfied,5,South America
+2,No,Increase,Unsatisfied,4,Africa
+4,No,Decrease,Satisfied,2,Africa
+1,Yes,Decrease,Unsatisfied,5,South America
+4,Yes,No Change,Unsatisfied,1,Africa
+2,No,Decrease,Neutral,5,North America
+2,Yes,Decrease,Unsatisfied,1,Africa
+3,Yes,Decrease,Neutral,3,Africa
+2,No,Increase,Satisfied,3,Africa
+1,No,Increase,Satisfied,5,Europe
+5,No,No Change,Neutral,2,South America
+1,No,Increase,Neutral,4,Africa
+1,No,No Change,Neutral,4,South America
+3,Yes,Increase,Unsatisfied,1,Asia
+5,Yes,Increase,Unsatisfied,3,Oceania
+2,No,No Change,Satisfied,5,Oceania
+4,Yes,Increase,Neutral,3,North America
+1,Yes,No Change,Neutral,3,South America
+1,Yes,Decrease,Unsatisfied,5,Europe
+4,No,Decrease,Neutral,5,North America
+2,Yes,No Change,Neutral,2,Europe
+4,Yes,No Change,Unsatisfied,3,North America
+4,Yes,No Change,Neutral,2,North America
+4,No,Increase,Unsatisfied,5,North America
+3,Yes,Decrease,Neutral,3,Asia
+5,No,Decrease,Unsatisfied,1,Europe
+1,No,No Change,Unsatisfied,5,Oceania
+3,No,Increase,Unsatisfied,2,Africa
+3,No,Decrease,Satisfied,5,Europe
+3,No,No Change,Neutral,4,South America
+4,No,No Change,Satisfied,4,Asia
+1,Yes,Decrease,Satisfied,5,North America
+1,No,Increase,Unsatisfied,2,Europe
+1,Yes,No Change,Neutral,5,Africa
+2,No,Increase,Neutral,1,Oceania
+4,Yes,Decrease,Satisfied,4,Oceania
+2,Yes,Decrease,Satisfied,5,Asia
+3,Yes,Increase,Neutral,5,Oceania
+4,Yes,Increase,Unsatisfied,3,North America
+1,Yes,Decrease,Unsatisfied,5,Africa
+1,No,Increase,Neutral,5,Asia
+2,Yes,Increase,Neutral,3,Europe
+4,No,No Change,Neutral,5,Asia
+5,Yes,No Change,Satisfied,4,Oceania
+3,Yes,Decrease,Neutral,4,Asia
+5,Yes,Decrease,Unsatisfied,3,South America
+1,Yes,Increase,Neutral,4,Oceania
+3,No,Increase,Unsatisfied,5,Europe
+2,Yes,Decrease,Satisfied,3,Oceania
+2,No,Increase,Unsatisfied,4,Oceania
+2,Yes,No Change,Unsatisfied,1,South America
+3,Yes,Increase,Unsatisfied,5,North America
+3,No,Increase,Unsatisfied,3,Africa
+2,Yes,No Change,Satisfied,1,North America
+3,No,Increase,Satisfied,5,Europe
+3,No,No Change,Unsatisfied,3,Oceania
+1,Yes,Decrease,Unsatisfied,5,South America
+3,No,No Change,Satisfied,5,South America
+3,No,Increase,Unsatisfied,1,Africa
+5,Yes,Decrease,Unsatisfied,5,Africa
+1,Yes,Increase,Neutral,4,South America
+5,Yes,No Change,Neutral,1,Europe
+3,Yes,No Change,Unsatisfied,3,North America
+3,No,No Change,Satisfied,3,North America
+4,No,No Change,Neutral,1,North America
+2,No,No Change,Neutral,4,Oceania
+4,No,Increase,Unsatisfied,3,Oceania
+5,No,No Change,Satisfied,5,South America
+3,No,Decrease,Unsatisfied,5,Europe
+1,Yes,Decrease,Unsatisfied,3,Europe
+4,Yes,No Change,Unsatisfied,2,South America
+3,Yes,No Change,Satisfied,5,North America
+3,Yes,No Change,Unsatisfied,5,Oceania
+4,Yes,No Change,Unsatisfied,4,Europe
+3,Yes,Decrease,Neutral,3,South America
+2,Yes,No Change,Unsatisfied,1,Oceania
+3,No,Decrease,Satisfied,1,Oceania
+4,Yes,Decrease,Satisfied,1,South America
+4,No,Increase,Neutral,3,North America
+5,Yes,Decrease,Unsatisfied,2,Africa
+4,No,Decrease,Satisfied,5,North America
+1,Yes,Increase,Neutral,3,Asia
+3,Yes,Decrease,Unsatisfied,3,Europe
+3,No,No Change,Satisfied,4,Oceania
+5,Yes,Decrease,Neutral,1,North America
+5,Yes,No Change,Unsatisfied,4,Asia
+2,Yes,Decrease,Satisfied,4,North America
+5,No,Increase,Unsatisfied,5,Asia
+2,Yes,Decrease,Neutral,1,South America
+4,No,No Change,Satisfied,1,Oceania
+2,No,Decrease,Satisfied,5,Africa
+1,Yes,No Change,Satisfied,1,South America
+5,Yes,Decrease,Satisfied,4,North America
+5,Yes,Increase,Neutral,4,Oceania
+1,Yes,Increase,Unsatisfied,2,Asia
+2,Yes,No Change,Satisfied,2,South America
+3,No,Decrease,Satisfied,3,Africa
+1,Yes,Decrease,Unsatisfied,4,South America
+2,No,Decrease,Neutral,1,North America
+4,Yes,Increase,Satisfied,3,Oceania
+2,Yes,Decrease,Satisfied,4,Oceania
+3,Yes,Increase,Unsatisfied,5,South America
+4,No,Increase,Satisfied,4,Europe
+3,No,Increase,Unsatisfied,1,Europe
+4,No,Decrease,Neutral,4,North America
+5,Yes,No Change,Satisfied,5,Oceania
+5,Yes,Decrease,Unsatisfied,3,Europe
+1,Yes,Decrease,Unsatisfied,4,Oceania
+1,No,Decrease,Neutral,1,South America
+1,No,No Change,Neutral,4,North America
+3,No,No Change,Neutral,1,Europe
+5,Yes,Increase,Unsatisfied,2,Africa
+3,No,Increase,Satisfied,2,South America
+5,No,Decrease,Satisfied,5,South America
+4,No,Decrease,Satisfied,2,Asia
+5,No,Decrease,Unsatisfied,4,North America
+3,Yes,Increase,Neutral,5,South America
+2,Yes,No Change,Unsatisfied,3,Africa
+5,Yes,Decrease,Neutral,3,Oceania
+1,No,No Change,Unsatisfied,3,Europe
+2,Yes,No Change,Unsatisfied,1,Oceania
+5,No,Decrease,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,4,South America
+5,Yes,Decrease,Neutral,3,South America
+1,Yes,Decrease,Neutral,5,Oceania
+1,Yes,Decrease,Neutral,1,Africa
+3,No,Decrease,Neutral,1,Asia
+1,No,Decrease,Satisfied,1,Asia
+3,Yes,Decrease,Satisfied,3,Asia
+4,No,Decrease,Satisfied,3,Asia
+1,Yes,No Change,Unsatisfied,4,Africa
+5,Yes,Decrease,Satisfied,4,South America
+3,No,Increase,Neutral,2,North America
+3,Yes,Increase,Unsatisfied,1,North America
+5,Yes,No Change,Satisfied,5,North America
+4,Yes,Decrease,Unsatisfied,3,South America
+3,No,Decrease,Neutral,1,Asia
+4,No,Decrease,Satisfied,3,Asia
+2,Yes,No Change,Unsatisfied,4,Oceania
+4,No,No Change,Unsatisfied,3,Asia
+3,No,No Change,Unsatisfied,4,Europe
+1,No,No Change,Satisfied,2,Asia
+4,No,Decrease,Unsatisfied,4,Oceania
+2,No,Decrease,Satisfied,4,South America
+5,No,Decrease,Unsatisfied,4,North America
+3,No,Decrease,Neutral,3,Africa
+5,Yes,Increase,Unsatisfied,1,Oceania
+5,No,No Change,Neutral,5,South America
+5,Yes,No Change,Unsatisfied,1,South America
+4,Yes,No Change,Satisfied,2,Europe
+1,No,Decrease,Unsatisfied,1,Oceania
+2,Yes,Decrease,Satisfied,3,Asia
+1,Yes,Increase,Unsatisfied,1,Africa
+1,Yes,No Change,Satisfied,3,Oceania
+4,Yes,Increase,Unsatisfied,4,North America
+5,No,Decrease,Satisfied,4,Asia
+2,Yes,Decrease,Unsatisfied,4,North America
+3,Yes,Increase,Unsatisfied,3,North America
+3,No,No Change,Neutral,1,Oceania
+1,No,Increase,Unsatisfied,3,Asia
+2,No,Increase,Neutral,2,Africa
+1,Yes,Increase,Unsatisfied,3,Asia
+3,No,Increase,Unsatisfied,4,Europe
+3,Yes,Decrease,Satisfied,1,Africa
+5,Yes,No Change,Satisfied,2,North America
+2,No,No Change,Unsatisfied,5,North America
+5,Yes,Decrease,Satisfied,1,North America
+1,Yes,Increase,Neutral,4,Oceania
+3,Yes,No Change,Satisfied,2,Europe
+3,Yes,Decrease,Satisfied,5,Oceania
+1,Yes,No Change,Unsatisfied,5,South America
+3,Yes,No Change,Satisfied,4,North America
+3,No,Decrease,Satisfied,4,North America
+3,No,Decrease,Satisfied,5,Asia
+5,No,Increase,Satisfied,3,Asia
+4,Yes,Decrease,Unsatisfied,5,Africa
+2,Yes,Decrease,Satisfied,5,Oceania
+1,No,No Change,Unsatisfied,4,North America
+3,Yes,No Change,Neutral,5,Europe
+2,Yes,Increase,Satisfied,1,Asia
+5,Yes,Decrease,Neutral,4,North America
+1,No,Decrease,Unsatisfied,4,Oceania
+1,Yes,Increase,Neutral,2,Oceania
+5,Yes,No Change,Satisfied,4,Europe
+4,Yes,Decrease,Neutral,3,Europe
+3,Yes,Increase,Satisfied,3,Africa
+1,Yes,Decrease,Satisfied,1,Asia
+5,No,Increase,Satisfied,5,South America
+1,No,No Change,Unsatisfied,5,Africa
+1,Yes,Decrease,Unsatisfied,3,South America
+5,No,No Change,Neutral,1,Oceania
+5,Yes,Increase,Neutral,2,Asia
+4,No,No Change,Neutral,3,North America
+5,Yes,No Change,Unsatisfied,4,Oceania
+2,No,No Change,Neutral,2,Africa
+5,Yes,Decrease,Unsatisfied,4,Europe
+4,Yes,Increase,Satisfied,2,Europe
+3,Yes,Increase,Unsatisfied,1,Asia
+2,No,Decrease,Neutral,2,Asia
+4,No,Increase,Satisfied,2,Europe
+2,Yes,No Change,Unsatisfied,2,Oceania
+1,No,Decrease,Neutral,5,North America
+2,Yes,Increase,Neutral,3,Africa
+3,Yes,Increase,Satisfied,3,South America
+4,No,No Change,Unsatisfied,1,Europe
+5,No,No Change,Satisfied,3,Oceania
+4,Yes,Increase,Neutral,4,Oceania
+5,Yes,No Change,Satisfied,4,North America
+4,No,No Change,Neutral,2,Africa
+1,No,Decrease,Satisfied,2,Africa
+2,Yes,No Change,Unsatisfied,4,Africa
+4,No,Increase,Unsatisfied,2,Asia
+3,No,Increase,Satisfied,1,Africa
+4,Yes,Increase,Neutral,2,South America
+1,Yes,Decrease,Satisfied,4,Asia
+3,Yes,No Change,Satisfied,3,South America
+3,No,Increase,Neutral,5,Oceania
+5,No,No Change,Unsatisfied,3,Oceania
+5,Yes,Decrease,Unsatisfied,1,Europe
+3,Yes,Increase,Unsatisfied,1,Oceania
+5,No,Increase,Neutral,3,North America
+1,No,Decrease,Satisfied,1,Europe
+1,No,Decrease,Neutral,2,Africa
+3,No,No Change,Unsatisfied,5,Africa
+3,No,Increase,Satisfied,5,Oceania
+3,No,Increase,Satisfied,3,South America
+2,No,No Change,Neutral,3,North America
+1,Yes,Increase,Unsatisfied,1,North America
+1,Yes,Increase,Neutral,4,South America
+2,No,Decrease,Satisfied,3,Oceania
+3,Yes,Increase,Satisfied,2,Africa
+2,No,Decrease,Neutral,4,Africa
+4,Yes,Decrease,Unsatisfied,1,Asia
+3,No,Decrease,Neutral,4,North America
+4,Yes,Decrease,Satisfied,1,Asia
+3,No,No Change,Satisfied,5,Oceania
+4,Yes,Increase,Neutral,4,Europe
+3,No,No Change,Neutral,3,Asia
+1,No,No Change,Neutral,5,Asia
+5,Yes,No Change,Satisfied,5,North America
+4,Yes,No Change,Unsatisfied,5,North America
+1,No,Increase,Unsatisfied,3,Asia
+3,No,Decrease,Neutral,1,South America
+2,Yes,Decrease,Satisfied,3,Africa
+5,Yes,Decrease,Satisfied,1,Asia
+2,Yes,No Change,Unsatisfied,4,Europe
+5,No,No Change,Neutral,1,Europe
+4,Yes,No Change,Neutral,5,Europe
+2,Yes,Increase,Unsatisfied,4,Europe
+2,Yes,Decrease,Satisfied,5,South America
+4,No,No Change,Unsatisfied,3,Oceania
+1,No,Increase,Unsatisfied,3,Europe
+3,No,Increase,Unsatisfied,1,Asia
+2,Yes,Increase,Neutral,5,Asia
+1,Yes,Decrease,Satisfied,2,Europe
+4,Yes,No Change,Unsatisfied,2,Asia
+2,Yes,No Change,Neutral,4,Oceania
+3,Yes,Decrease,Unsatisfied,3,Europe
+5,Yes,Decrease,Satisfied,4,Asia
+3,No,Decrease,Satisfied,1,Asia
+5,Yes,Decrease,Satisfied,2,Oceania
+4,No,No Change,Satisfied,4,South America
+4,No,Increase,Unsatisfied,5,Africa
+5,Yes,Decrease,Satisfied,2,Africa
+3,No,Decrease,Satisfied,3,Asia
+1,No,Increase,Satisfied,3,South America
+3,No,Decrease,Satisfied,2,Africa
+5,Yes,Decrease,Unsatisfied,4,Asia
+2,Yes,No Change,Satisfied,2,North America
+1,No,Increase,Satisfied,2,North America
+4,No,Increase,Satisfied,2,South America
+1,No,Decrease,Unsatisfied,5,Europe
+2,Yes,No Change,Satisfied,4,Asia
+1,Yes,Decrease,Satisfied,1,North America
+4,No,Decrease,Unsatisfied,5,South America
+3,Yes,Increase,Neutral,5,South America
+5,No,Increase,Unsatisfied,2,Asia
+5,No,No Change,Satisfied,1,South America
+2,No,Decrease,Satisfied,4,Oceania
+1,Yes,Decrease,Unsatisfied,4,North America
+1,Yes,Increase,Satisfied,3,South America
+2,No,No Change,Unsatisfied,5,South America
+3,No,Increase,Neutral,4,South America
+5,No,Increase,Neutral,1,South America
+5,Yes,Increase,Neutral,1,Africa
+2,Yes,No Change,Neutral,1,Europe
+1,Yes,Decrease,Unsatisfied,1,Africa
+3,Yes,Decrease,Neutral,5,South America
+1,Yes,Decrease,Neutral,4,North America
+1,Yes,Decrease,Neutral,3,North America
+2,Yes,Increase,Neutral,1,Europe
+5,No,Increase,Satisfied,1,Europe
+2,Yes,Decrease,Neutral,3,Europe
+4,Yes,No Change,Satisfied,1,South America
+5,No,Increase,Neutral,5,Oceania
+4,Yes,Decrease,Neutral,1,North America
+1,No,Increase,Satisfied,2,Asia
+3,No,Increase,Satisfied,1,Europe
+1,Yes,Decrease,Unsatisfied,3,South America
+2,No,Increase,Unsatisfied,3,North America
+1,Yes,Increase,Satisfied,2,North America
+5,Yes,Increase,Unsatisfied,5,North America
+2,No,Decrease,Satisfied,4,Asia
+5,Yes,Increase,Neutral,4,Africa
+3,Yes,Increase,Unsatisfied,1,Asia
+2,Yes,Decrease,Satisfied,5,North America
+3,No,Increase,Neutral,5,Oceania
+1,Yes,Increase,Satisfied,4,Africa
+2,No,No Change,Unsatisfied,3,Africa
+3,No,Decrease,Satisfied,3,Europe
+3,Yes,Decrease,Neutral,2,South America
+4,No,Increase,Satisfied,2,Asia
+3,Yes,Decrease,Neutral,5,Africa
+2,Yes,Decrease,Satisfied,4,South America
+5,Yes,Decrease,Satisfied,2,Asia
+5,No,No Change,Neutral,1,North America
+1,Yes,Increase,Unsatisfied,2,Africa
+1,No,No Change,Satisfied,5,Oceania
+2,No,Decrease,Neutral,3,Asia
+5,Yes,No Change,Satisfied,1,Europe
+4,No,No Change,Unsatisfied,1,Africa
+3,No,No Change,Unsatisfied,4,Europe
+4,Yes,No Change,Unsatisfied,1,Africa
+4,Yes,Decrease,Satisfied,4,Europe
+1,Yes,Decrease,Unsatisfied,3,Africa
+5,Yes,Decrease,Satisfied,4,Europe
+2,Yes,No Change,Unsatisfied,4,Africa
+5,Yes,Increase,Satisfied,5,Oceania
+1,Yes,No Change,Unsatisfied,5,Oceania
+4,No,Increase,Neutral,4,Asia
+5,Yes,Increase,Unsatisfied,5,Asia
+5,No,Decrease,Neutral,1,Asia
+5,Yes,Decrease,Unsatisfied,5,Europe
+4,No,Increase,Neutral,1,Asia
+3,No,No Change,Satisfied,3,Oceania
+5,No,No Change,Unsatisfied,3,Europe
+5,No,No Change,Neutral,5,South America
+5,Yes,Decrease,Unsatisfied,5,Asia
+5,No,Increase,Neutral,2,Asia
+1,No,No Change,Neutral,3,Europe
+5,No,Decrease,Unsatisfied,4,North America
+4,No,No Change,Unsatisfied,3,Africa
+2,Yes,No Change,Satisfied,1,South America
+3,Yes,Decrease,Neutral,2,Africa
+4,Yes,No Change,Neutral,3,Asia
+2,No,Decrease,Satisfied,3,Asia
+3,Yes,Increase,Unsatisfied,3,Asia
+3,No,No Change,Neutral,3,Asia
+5,Yes,Decrease,Neutral,2,Oceania
+4,Yes,Decrease,Neutral,5,Europe
+5,No,No Change,Satisfied,3,South America
+4,No,No Change,Satisfied,5,Oceania
+4,Yes,No Change,Satisfied,2,South America
+3,Yes,No Change,Neutral,3,South America
+4,Yes,Decrease,Unsatisfied,2,Oceania
+1,Yes,Increase,Unsatisfied,1,Europe
+4,Yes,No Change,Neutral,4,Oceania
+2,Yes,Decrease,Satisfied,3,Asia
+3,Yes,Increase,Unsatisfied,1,Asia
+5,Yes,Decrease,Satisfied,5,North America
+5,No,No Change,Neutral,5,Europe
+1,No,No Change,Satisfied,5,North America
+3,Yes,Increase,Neutral,2,North America
+4,No,Decrease,Neutral,4,Asia
+1,Yes,Decrease,Unsatisfied,1,Oceania
+5,Yes,Increase,Unsatisfied,5,North America
+3,No,Decrease,Satisfied,2,South America
+2,Yes,Decrease,Neutral,2,Asia
+2,Yes,Decrease,Unsatisfied,3,Oceania
+1,Yes,No Change,Unsatisfied,5,Oceania
+5,No,Decrease,Unsatisfied,1,Africa
+5,No,No Change,Neutral,5,Asia
+5,Yes,Increase,Unsatisfied,1,Europe
+3,Yes,Decrease,Neutral,2,Oceania
+2,No,Increase,Neutral,1,North America
+1,No,No Change,Neutral,4,Africa
+3,No,Decrease,Satisfied,1,Oceania
+2,No,Increase,Neutral,1,Oceania
+1,No,No Change,Neutral,4,Asia
+1,No,Increase,Satisfied,1,Europe
+1,No,Increase,Unsatisfied,1,Asia
+1,Yes,No Change,Satisfied,2,Oceania
+1,No,Increase,Unsatisfied,4,South America
+5,Yes,No Change,Neutral,4,Asia
+1,Yes,No Change,Satisfied,2,Europe
+3,No,No Change,Unsatisfied,4,Europe
+1,Yes,Increase,Neutral,4,South America
+3,No,Increase,Neutral,1,North America
+2,Yes,No Change,Satisfied,1,Asia
+3,Yes,No Change,Unsatisfied,4,North America
+2,Yes,No Change,Unsatisfied,3,South America
+3,No,Decrease,Unsatisfied,1,Africa
+4,Yes,Decrease,Unsatisfied,1,North America
+1,No,No Change,Neutral,1,Africa
+3,Yes,Decrease,Neutral,4,North America
+5,Yes,No Change,Unsatisfied,1,South America
+1,Yes,Decrease,Satisfied,2,Asia
+1,No,Increase,Neutral,2,Europe
+1,Yes,No Change,Neutral,1,Africa
+4,No,No Change,Neutral,3,North America
+3,Yes,Decrease,Satisfied,5,North America
+3,No,No Change,Satisfied,2,Europe
+3,No,No Change,Neutral,4,Africa
+4,No,No Change,Satisfied,4,South America
+5,No,Decrease,Unsatisfied,1,Africa
+2,No,Increase,Satisfied,4,Africa
+5,Yes,Increase,Unsatisfied,5,Oceania
+1,Yes,Increase,Unsatisfied,5,Africa
+1,Yes,Increase,Unsatisfied,1,Oceania
+2,No,Increase,Unsatisfied,2,South America
+1,No,No Change,Unsatisfied,2,North America
+5,No,No Change,Neutral,2,Asia
+2,Yes,Increase,Neutral,5,Oceania
+4,Yes,Decrease,Unsatisfied,4,Africa
+4,No,Decrease,Satisfied,5,Africa
+4,Yes,Increase,Neutral,5,Oceania
+1,No,Increase,Satisfied,1,North America
+2,Yes,No Change,Neutral,1,Oceania
+1,Yes,Decrease,Unsatisfied,5,Europe
+4,Yes,Increase,Neutral,2,South America
+2,No,Increase,Neutral,2,Asia
+1,Yes,No Change,Satisfied,3,North America
+3,No,Increase,Neutral,3,South America
+4,No,No Change,Satisfied,5,Asia
+4,No,Increase,Satisfied,2,Europe
+3,No,Decrease,Unsatisfied,1,Europe
+2,No,No Change,Neutral,1,Africa
+3,Yes,Increase,Satisfied,5,Asia
+4,Yes,No Change,Neutral,1,Asia
+4,No,Decrease,Unsatisfied,1,Africa
+5,No,No Change,Neutral,1,North America
+5,Yes,Decrease,Neutral,3,Africa
+5,Yes,Increase,Unsatisfied,3,Africa
+2,No,Increase,Satisfied,5,Africa
+3,Yes,Decrease,Neutral,2,South America
+5,Yes,No Change,Unsatisfied,1,Europe
+5,Yes,No Change,Satisfied,5,Asia
+3,No,No Change,Satisfied,1,Asia
+5,Yes,No Change,Satisfied,3,Asia
+3,Yes,Decrease,Satisfied,3,North America
+5,No,Decrease,Satisfied,1,Africa
+5,No,Increase,Neutral,5,North America
+5,No,Decrease,Neutral,1,Asia
+5,Yes,Increase,Unsatisfied,3,Europe
+1,Yes,Increase,Unsatisfied,2,Asia
+4,No,Increase,Neutral,1,Africa
+5,Yes,Decrease,Satisfied,5,Oceania
+5,No,Increase,Satisfied,1,Asia
+3,Yes,Decrease,Satisfied,4,Oceania
+3,Yes,Increase,Unsatisfied,5,Africa
+5,No,No Change,Unsatisfied,3,South America
+5,Yes,Decrease,Satisfied,3,South America
+4,No,Decrease,Neutral,4,Asia
+4,No,Increase,Satisfied,4,Oceania
+4,No,No Change,Neutral,1,South America
+1,No,No Change,Neutral,2,Asia
+2,No,Increase,Neutral,3,Oceania
+4,Yes,No Change,Neutral,3,Africa
+2,No,Increase,Satisfied,5,South America
+2,No,Decrease,Satisfied,2,Asia
+1,No,No Change,Satisfied,5,North America
+3,Yes,Increase,Unsatisfied,4,South America
+1,No,Increase,Satisfied,5,Asia
+2,Yes,Decrease,Neutral,5,North America
+4,No,Increase,Neutral,3,North America
+2,Yes,Decrease,Neutral,4,North America
+3,Yes,Decrease,Neutral,1,South America
+3,Yes,No Change,Satisfied,1,Oceania
+5,No,No Change,Satisfied,2,Asia
+2,No,Increase,Satisfied,3,Africa
+1,Yes,Increase,Neutral,2,Africa
+2,Yes,No Change,Satisfied,5,North America
+5,No,Decrease,Unsatisfied,5,Africa
+4,No,Decrease,Neutral,2,Asia
+4,No,Decrease,Satisfied,5,Oceania
+4,No,Decrease,Unsatisfied,2,North America
+5,Yes,Decrease,Neutral,2,South America
+3,Yes,No Change,Unsatisfied,2,North America
+5,No,Decrease,Satisfied,3,Oceania
+2,Yes,Increase,Neutral,1,North America
+2,No,Increase,Neutral,1,Asia
+2,Yes,No Change,Unsatisfied,3,Europe
+5,Yes,Increase,Neutral,1,Asia
+3,Yes,Decrease,Satisfied,4,Europe
+4,Yes,Increase,Neutral,2,North America
+1,Yes,Increase,Satisfied,2,Oceania
+2,Yes,Increase,Unsatisfied,2,Asia
+4,Yes,Increase,Unsatisfied,3,Europe
+3,Yes,Increase,Unsatisfied,2,South America
+4,No,No Change,Satisfied,4,Oceania
+3,No,Decrease,Satisfied,3,North America
+2,No,Decrease,Unsatisfied,1,Oceania
+2,No,No Change,Neutral,3,Oceania
+1,Yes,Decrease,Neutral,5,Oceania
+3,Yes,Increase,Neutral,1,North America
+4,Yes,Decrease,Unsatisfied,3,Africa
+1,No,Increase,Satisfied,3,Europe
+3,No,Increase,Unsatisfied,4,Asia
+2,No,Decrease,Unsatisfied,3,South America
+4,Yes,Increase,Satisfied,5,Europe
+4,Yes,Increase,Satisfied,2,Europe
+3,Yes,Increase,Satisfied,5,South America
+4,No,Increase,Unsatisfied,2,Africa
+3,Yes,Increase,Satisfied,3,Oceania
+5,Yes,No Change,Unsatisfied,3,Europe
+2,Yes,Decrease,Neutral,4,South America
+3,Yes,Decrease,Unsatisfied,1,Europe
+2,No,No Change,Unsatisfied,3,Europe
+3,Yes,No Change,Satisfied,2,North America
+4,Yes,No Change,Unsatisfied,3,South America
+5,No,No Change,Unsatisfied,5,Europe
+2,No,Increase,Neutral,5,Europe
+5,No,Increase,Unsatisfied,1,Africa
+2,No,No Change,Neutral,3,Oceania
+3,Yes,Increase,Satisfied,4,South America
+4,Yes,Decrease,Unsatisfied,5,North America
+5,No,Increase,Satisfied,1,Asia
+5,Yes,No Change,Neutral,1,North America
+3,No,No Change,Satisfied,3,Africa
+3,Yes,Increase,Satisfied,3,Oceania
+1,No,Decrease,Neutral,2,Europe
+3,No,No Change,Neutral,5,Africa
+4,No,Decrease,Satisfied,2,South America
+4,Yes,No Change,Unsatisfied,3,Oceania
+1,Yes,Increase,Neutral,1,South America
+4,Yes,No Change,Neutral,4,Oceania
+1,Yes,Increase,Neutral,4,Asia
+4,No,Decrease,Unsatisfied,2,Africa
+5,Yes,Decrease,Neutral,4,Africa
+2,No,Increase,Unsatisfied,2,Asia
+4,Yes,Decrease,Neutral,5,South America
+5,Yes,Decrease,Satisfied,3,South America
+1,No,Increase,Unsatisfied,2,Oceania
+2,No,Decrease,Unsatisfied,4,Oceania
+4,Yes,Decrease,Unsatisfied,2,South America
+5,Yes,Decrease,Neutral,3,Africa
+3,Yes,No Change,Neutral,5,Oceania
+3,No,No Change,Unsatisfied,3,Africa
+1,No,No Change,Satisfied,4,Europe
+2,Yes,No Change,Satisfied,5,Africa
+3,Yes,Decrease,Unsatisfied,5,Africa
+5,No,Increase,Neutral,5,Europe
+5,Yes,Decrease,Satisfied,5,Asia
+2,Yes,No Change,Neutral,3,Africa
+4,Yes,Increase,Unsatisfied,1,Asia
+2,Yes,No Change,Satisfied,3,North America
+3,No,No Change,Satisfied,3,Europe
+4,No,Increase,Unsatisfied,3,Africa
+3,Yes,No Change,Neutral,1,Europe
+4,No,Increase,Satisfied,3,Oceania
+4,Yes,No Change,Neutral,4,South America
+3,Yes,No Change,Satisfied,4,South America
+3,No,Decrease,Satisfied,4,Africa
+4,No,Increase,Neutral,4,Africa
+3,No,Increase,Neutral,4,Oceania
+4,Yes,Decrease,Unsatisfied,4,South America
+4,Yes,Increase,Neutral,4,Oceania
+2,Yes,Decrease,Unsatisfied,5,Oceania
+2,Yes,Decrease,Neutral,3,South America
+4,Yes,No Change,Neutral,3,Africa
+4,Yes,No Change,Satisfied,5,Asia
+5,Yes,Increase,Unsatisfied,3,Asia
+4,No,Increase,Unsatisfied,2,Oceania
+4,Yes,Decrease,Unsatisfied,4,North America
+3,No,No Change,Unsatisfied,1,Oceania
+1,No,No Change,Neutral,5,North America
+3,Yes,Increase,Satisfied,3,North America
+4,Yes,Increase,Satisfied,1,North America
+5,Yes,No Change,Neutral,3,Oceania
+2,Yes,Increase,Neutral,3,Oceania
+1,Yes,Decrease,Neutral,3,Asia
+2,No,Increase,Unsatisfied,1,Europe
+2,Yes,No Change,Unsatisfied,3,Africa
+4,Yes,No Change,Satisfied,3,Oceania
+1,Yes,No Change,Satisfied,5,North America
+2,No,Decrease,Unsatisfied,2,Europe
+2,Yes,Increase,Satisfied,2,Europe
+3,No,No Change,Unsatisfied,4,Africa
+2,Yes,No Change,Satisfied,2,Europe
+4,No,No Change,Neutral,3,Europe
+1,No,Decrease,Satisfied,1,North America
+1,Yes,No Change,Satisfied,5,Europe
+4,No,Decrease,Unsatisfied,1,South America
+4,Yes,No Change,Neutral,1,Oceania
+5,Yes,No Change,Unsatisfied,4,South America
+2,Yes,Decrease,Unsatisfied,2,Africa
+3,Yes,No Change,Neutral,2,North America
+1,No,Decrease,Unsatisfied,1,South America
+3,Yes,Decrease,Unsatisfied,4,North America
+5,No,No Change,Unsatisfied,5,Asia
+5,No,No Change,Unsatisfied,1,Oceania
+1,Yes,Decrease,Unsatisfied,2,Africa
+1,No,No Change,Satisfied,3,Asia
+5,No,Increase,Satisfied,2,Oceania
+4,Yes,No Change,Unsatisfied,1,North America
+5,Yes,No Change,Satisfied,5,Europe
+1,No,No Change,Neutral,2,North America
+2,Yes,Decrease,Neutral,2,Asia
+3,No,No Change,Neutral,2,Africa
+1,Yes,No Change,Unsatisfied,3,South America
+3,Yes,Decrease,Neutral,2,Oceania
+3,No,Decrease,Neutral,2,Asia
+2,Yes,Increase,Satisfied,5,Africa
+4,Yes,No Change,Unsatisfied,2,Africa
+1,Yes,Increase,Neutral,4,Europe
+2,No,Increase,Neutral,5,Oceania
+1,No,Increase,Unsatisfied,5,Africa
+2,Yes,No Change,Satisfied,4,Asia
+3,No,No Change,Unsatisfied,4,South America
+4,Yes,Decrease,Satisfied,1,Africa
+2,No,No Change,Satisfied,2,South America
+4,No,Decrease,Neutral,1,Europe
+1,No,Increase,Satisfied,5,North America
+4,No,Decrease,Unsatisfied,5,Africa
+1,No,Decrease,Neutral,4,South America
+4,No,Increase,Unsatisfied,1,Oceania
+4,Yes,Decrease,Neutral,4,South America
+3,No,Increase,Unsatisfied,3,Africa
+4,No,Decrease,Neutral,3,North America
+1,Yes,No Change,Satisfied,5,North America
+3,No,Decrease,Satisfied,5,Africa
+1,No,Decrease,Neutral,4,Oceania
+3,No,Increase,Neutral,3,Europe
+2,No,No Change,Neutral,3,Asia
+3,Yes,Decrease,Unsatisfied,3,Asia
+5,No,Decrease,Satisfied,5,Europe
+2,Yes,Decrease,Satisfied,5,Oceania
+4,No,Increase,Neutral,5,Europe
+3,No,No Change,Neutral,4,Asia
+5,Yes,No Change,Neutral,5,Oceania
+3,No,Decrease,Satisfied,5,Africa
+4,Yes,Decrease,Unsatisfied,4,Asia
+3,No,Increase,Neutral,4,South America
+4,Yes,Decrease,Neutral,5,Europe
+3,No,Decrease,Satisfied,4,North America
+1,No,No Change,Satisfied,2,Oceania
+4,No,No Change,Satisfied,2,Oceania
+1,No,Decrease,Unsatisfied,4,Oceania
+3,No,No Change,Neutral,5,South America
+5,Yes,No Change,Neutral,2,Africa
+2,Yes,Increase,Satisfied,4,North America
+4,Yes,Increase,Neutral,2,Asia
+1,Yes,Decrease,Unsatisfied,1,Oceania
+2,No,Increase,Neutral,5,North America
+5,Yes,Decrease,Satisfied,3,North America
+5,Yes,Increase,Satisfied,2,South America
+5,Yes,No Change,Satisfied,1,North America
+5,Yes,Decrease,Satisfied,1,South America
+3,No,Increase,Satisfied,3,South America
+4,Yes,Decrease,Unsatisfied,5,Africa
+1,No,Decrease,Satisfied,5,South America
+5,No,No Change,Satisfied,5,South America
+1,Yes,Decrease,Neutral,1,Africa
+3,No,Increase,Satisfied,1,Africa
+5,No,Increase,Unsatisfied,4,South America
+4,No,No Change,Satisfied,4,North America
+3,No,Increase,Unsatisfied,5,Oceania
+2,Yes,Increase,Unsatisfied,3,Oceania
+5,Yes,No Change,Unsatisfied,4,Europe
+4,Yes,No Change,Satisfied,3,Europe
+5,Yes,Decrease,Satisfied,2,Europe
+5,Yes,Decrease,Neutral,4,North America
+4,Yes,Increase,Unsatisfied,1,Asia
+5,No,No Change,Neutral,5,North America
+5,Yes,Decrease,Neutral,1,Africa
+2,Yes,Increase,Unsatisfied,3,South America
+1,No,Decrease,Neutral,3,North America
+3,Yes,No Change,Satisfied,5,Europe
+5,Yes,No Change,Satisfied,1,Asia
+4,No,Decrease,Unsatisfied,1,Europe
+3,No,No Change,Satisfied,4,Africa
+1,Yes,No Change,Unsatisfied,1,South America
+3,Yes,Decrease,Satisfied,2,Asia
+3,Yes,Increase,Neutral,4,Africa
+5,No,No Change,Satisfied,3,Europe
+3,Yes,Increase,Unsatisfied,5,North America
+1,No,No Change,Neutral,5,Africa
+5,No,Increase,Neutral,2,North America
+3,No,No Change,Neutral,2,Oceania
+2,No,Increase,Neutral,4,South America
+2,Yes,Increase,Unsatisfied,2,Asia
+1,No,Decrease,Unsatisfied,4,North America
+1,Yes,Increase,Unsatisfied,4,Oceania
+2,No,No Change,Neutral,5,Asia
+3,Yes,Increase,Neutral,1,South America
+1,No,Increase,Unsatisfied,4,South America
+3,No,Decrease,Neutral,2,Oceania
+2,Yes,No Change,Neutral,5,North America
+1,No,Decrease,Satisfied,1,South America
+1,Yes,No Change,Unsatisfied,2,South America
+1,No,Increase,Neutral,2,North America
+3,No,Decrease,Unsatisfied,2,North America
+2,Yes,No Change,Neutral,4,Asia
+2,Yes,No Change,Neutral,3,Africa
+5,No,Decrease,Unsatisfied,5,South America
+3,Yes,No Change,Neutral,3,Africa
+3,Yes,No Change,Satisfied,2,North America
+3,Yes,Decrease,Satisfied,4,Europe
+2,No,Decrease,Neutral,3,South America
+2,No,No Change,Unsatisfied,1,Oceania
+1,No,Increase,Neutral,1,Oceania
+4,No,No Change,Satisfied,3,Asia
+5,Yes,Increase,Neutral,4,Oceania
+4,No,Increase,Unsatisfied,3,Oceania
+5,Yes,No Change,Unsatisfied,2,Europe
+3,No,Increase,Neutral,5,Asia
+1,No,Decrease,Satisfied,1,North America
+5,No,Increase,Unsatisfied,4,Asia
+3,Yes,Decrease,Satisfied,4,Africa
+1,No,Decrease,Satisfied,1,Europe
+5,Yes,Decrease,Unsatisfied,4,North America
+5,No,No Change,Unsatisfied,3,Europe
+3,No,Decrease,Unsatisfied,2,Oceania
+4,No,Increase,Satisfied,4,South America
+1,No,No Change,Satisfied,2,Africa
+5,Yes,No Change,Unsatisfied,5,Oceania
+1,Yes,Decrease,Neutral,4,Asia
+5,No,Decrease,Neutral,4,Europe
+5,No,Decrease,Satisfied,5,Europe
+3,Yes,Decrease,Satisfied,5,Asia
+5,No,Decrease,Unsatisfied,4,Asia
+2,No,Increase,Neutral,1,Oceania
+2,No,No Change,Neutral,3,North America
+2,Yes,Increase,Neutral,3,Asia
+4,No,Increase,Neutral,2,South America
+1,No,No Change,Neutral,4,South America
+5,Yes,No Change,Satisfied,3,South America
+1,Yes,Decrease,Satisfied,4,Europe
+2,Yes,No Change,Unsatisfied,3,Africa
+4,No,Increase,Unsatisfied,4,Europe
+3,Yes,No Change,Neutral,1,Asia
+2,No,Decrease,Satisfied,4,Africa
+5,Yes,Decrease,Satisfied,2,Africa
+2,No,No Change,Satisfied,4,Asia
+4,Yes,Decrease,Unsatisfied,4,Oceania
+5,No,Decrease,Unsatisfied,4,North America
+1,No,Increase,Unsatisfied,5,Europe
+4,No,No Change,Unsatisfied,2,South America
+5,Yes,Decrease,Unsatisfied,4,North America
+2,No,Increase,Neutral,2,South America
+1,No,No Change,Satisfied,5,South America
+3,Yes,No Change,Unsatisfied,4,North America
+2,Yes,No Change,Satisfied,1,Europe
+2,No,Increase,Neutral,3,Oceania
+1,Yes,Increase,Satisfied,3,Oceania
+5,Yes,Increase,Unsatisfied,1,South America
+5,No,No Change,Unsatisfied,3,Africa
+2,No,Increase,Unsatisfied,2,Europe
+1,No,Increase,Neutral,1,Africa
+3,Yes,Decrease,Satisfied,5,Africa
+4,No,Increase,Neutral,3,Oceania
+3,Yes,Decrease,Neutral,2,South America
+1,Yes,Decrease,Neutral,5,Oceania
+5,No,Increase,Neutral,5,Oceania
+3,No,No Change,Satisfied,3,Europe
+3,No,No Change,Satisfied,4,Africa
+1,No,Decrease,Satisfied,5,South America
+1,No,Increase,Satisfied,2,Africa
+1,No,Increase,Unsatisfied,2,South America
+2,Yes,Increase,Neutral,3,North America
+2,No,Increase,Satisfied,4,South America
+4,Yes,Decrease,Satisfied,1,North America
+3,Yes,Increase,Neutral,4,Europe
+5,Yes,No Change,Neutral,5,Europe
+5,Yes,Increase,Neutral,4,South America
+1,No,Increase,Unsatisfied,5,Oceania
+5,Yes,Increase,Satisfied,2,North America
+2,No,Decrease,Satisfied,5,Oceania
+1,No,No Change,Unsatisfied,2,South America
+4,Yes,Decrease,Satisfied,3,Africa
+5,Yes,No Change,Unsatisfied,1,North America
+2,No,No Change,Neutral,5,Oceania
+4,Yes,Increase,Satisfied,1,North America
+5,No,No Change,Unsatisfied,3,Africa
+3,Yes,Decrease,Neutral,4,Africa
+2,No,Increase,Neutral,4,South America
+1,Yes,Decrease,Neutral,4,South America
+4,No,Increase,Satisfied,5,Oceania
+3,No,Increase,Neutral,2,Europe
+2,No,No Change,Neutral,4,Asia
+3,Yes,Decrease,Unsatisfied,3,Oceania
+3,Yes,No Change,Satisfied,3,South America
+5,No,Decrease,Neutral,2,Africa
+3,Yes,No Change,Satisfied,4,Europe
+1,No,No Change,Neutral,4,Asia
+5,Yes,Increase,Satisfied,4,Asia
+1,Yes,No Change,Unsatisfied,4,South America
+2,Yes,Increase,Neutral,3,South America
+4,No,Decrease,Satisfied,1,Asia
+4,Yes,Increase,Neutral,2,Asia
+5,No,Decrease,Neutral,4,Asia
+2,No,Increase,Unsatisfied,2,North America
+4,No,No Change,Neutral,5,Europe
+1,No,No Change,Neutral,3,North America
+3,Yes,No Change,Unsatisfied,5,South America
+4,No,Decrease,Unsatisfied,5,Africa
+5,No,Increase,Unsatisfied,2,Asia
+2,Yes,No Change,Unsatisfied,5,North America
+1,No,Decrease,Neutral,4,Europe
+2,No,Decrease,Neutral,3,North America
+4,Yes,No Change,Unsatisfied,5,North America
+3,No,Decrease,Satisfied,5,Europe
+1,No,No Change,Neutral,2,South America
+1,Yes,No Change,Neutral,5,Europe
+1,No,No Change,Satisfied,4,Europe
+1,Yes,Decrease,Neutral,2,North America
+2,No,Increase,Neutral,5,Oceania
+2,No,No Change,Satisfied,2,Oceania
+3,No,No Change,Unsatisfied,2,North America
+3,No,No Change,Satisfied,5,Asia
+1,Yes,Decrease,Unsatisfied,2,Africa
+4,No,Decrease,Unsatisfied,4,Africa
+4,No,Increase,Unsatisfied,3,South America
+1,No,Decrease,Neutral,1,Africa
+4,Yes,No Change,Unsatisfied,2,Europe
+2,No,No Change,Satisfied,4,North America
+4,Yes,Increase,Neutral,2,South America
+1,No,Decrease,Satisfied,2,Europe
+3,No,No Change,Satisfied,2,Europe
+4,No,Increase,Unsatisfied,3,Oceania
+2,No,No Change,Unsatisfied,1,North America
+2,No,Decrease,Unsatisfied,2,Africa
+3,No,Increase,Neutral,4,Africa
+2,No,No Change,Neutral,3,Europe
+3,No,Decrease,Satisfied,5,South America
+4,Yes,Increase,Satisfied,5,Oceania
+4,No,Decrease,Satisfied,3,Oceania
+1,Yes,Decrease,Unsatisfied,5,Asia
+2,No,Decrease,Satisfied,1,Europe
+1,No,No Change,Unsatisfied,5,Africa
+3,Yes,No Change,Unsatisfied,2,Asia
+1,No,Increase,Unsatisfied,2,South America
+3,Yes,Increase,Unsatisfied,2,Oceania
+2,Yes,No Change,Unsatisfied,1,Oceania
+4,Yes,No Change,Neutral,3,Oceania
+1,No,Increase,Satisfied,4,Asia
+2,Yes,Decrease,Unsatisfied,3,North America
+4,Yes,No Change,Neutral,2,Oceania
+2,Yes,Increase,Satisfied,4,North America
+5,No,No Change,Neutral,3,Oceania
+3,Yes,Decrease,Unsatisfied,5,Oceania
+1,Yes,No Change,Satisfied,5,South America
+3,Yes,No Change,Unsatisfied,2,Asia
+3,No,No Change,Satisfied,2,Africa
+2,Yes,Decrease,Satisfied,2,South America
+1,No,Increase,Neutral,1,North America
+3,No,No Change,Neutral,3,Africa
+5,Yes,Increase,Neutral,4,Oceania
+2,Yes,Decrease,Unsatisfied,4,North America
+2,Yes,Decrease,Unsatisfied,4,South America
+4,Yes,Decrease,Neutral,3,South America
+5,No,Increase,Neutral,2,Oceania
+2,No,No Change,Unsatisfied,2,Oceania
+1,Yes,Increase,Neutral,4,North America
+5,No,Increase,Neutral,4,Europe
+4,No,Decrease,Satisfied,4,Oceania
+5,Yes,Increase,Unsatisfied,2,Asia
+5,Yes,Decrease,Unsatisfied,1,Oceania
+3,Yes,No Change,Neutral,1,South America
+2,No,Increase,Neutral,4,North America
+4,Yes,Increase,Neutral,4,Europe
+3,Yes,Increase,Satisfied,3,Asia
+2,No,Decrease,Satisfied,5,Africa
+3,Yes,Increase,Unsatisfied,4,Asia
+2,Yes,Decrease,Satisfied,2,South America
+2,No,Decrease,Unsatisfied,1,Africa
+3,No,Decrease,Satisfied,1,Europe
+3,No,Decrease,Neutral,3,Oceania
+2,No,No Change,Neutral,2,North America
+1,Yes,Increase,Unsatisfied,3,Africa
+2,No,Increase,Neutral,4,North America
+1,No,No Change,Satisfied,2,Africa
+5,Yes,No Change,Satisfied,3,Africa
+4,Yes,Increase,Satisfied,5,Oceania
+5,Yes,Increase,Neutral,1,South America
+1,No,No Change,Satisfied,3,Oceania
+4,No,No Change,Unsatisfied,4,Asia
+3,No,Decrease,Unsatisfied,2,Europe
+3,Yes,Increase,Unsatisfied,5,Europe
+5,Yes,Increase,Unsatisfied,5,Africa
+5,No,No Change,Neutral,3,Europe
+3,Yes,Decrease,Unsatisfied,4,Europe
+5,No,Increase,Neutral,1,Europe
+5,Yes,Decrease,Unsatisfied,1,Africa
+2,No,Decrease,Neutral,4,Oceania
+1,No,Increase,Neutral,3,North America
+2,Yes,Increase,Satisfied,3,Europe
+4,No,No Change,Neutral,1,South America
+5,No,Decrease,Unsatisfied,1,South America
+1,Yes,Increase,Unsatisfied,2,North America
+4,No,Decrease,Unsatisfied,1,Oceania
+4,No,Increase,Unsatisfied,3,Asia
+3,No,No Change,Unsatisfied,5,Oceania
+1,No,Decrease,Satisfied,1,South America
+2,No,Increase,Satisfied,1,Asia
+5,No,Increase,Satisfied,4,Asia
+2,Yes,No Change,Neutral,2,Oceania
+5,Yes,No Change,Unsatisfied,5,Asia
+5,Yes,Decrease,Satisfied,2,South America
+3,Yes,No Change,Satisfied,4,South America
+5,No,Increase,Neutral,3,South America
+4,Yes,Increase,Neutral,5,South America
+2,No,Increase,Unsatisfied,5,Africa
+3,Yes,No Change,Satisfied,4,Africa
+1,No,Increase,Satisfied,3,Africa
+5,No,Increase,Satisfied,4,Asia
+5,Yes,Decrease,Unsatisfied,2,Africa
+2,No,Increase,Neutral,2,North America
+2,No,Increase,Satisfied,3,Oceania
+3,Yes,Decrease,Neutral,4,Europe
+5,Yes,Decrease,Neutral,3,Africa
+3,No,Increase,Unsatisfied,1,North America
+5,Yes,Decrease,Neutral,4,Africa
+5,No,Increase,Satisfied,2,Africa
+1,No,Increase,Neutral,4,Africa
+3,No,Increase,Unsatisfied,4,North America
+1,No,Decrease,Neutral,2,Asia
+3,Yes,Increase,Unsatisfied,3,North America
+5,No,Decrease,Neutral,2,Oceania
+4,Yes,Decrease,Neutral,1,North America
+4,No,No Change,Unsatisfied,2,North America
+1,No,Increase,Unsatisfied,5,South America
+5,No,Increase,Unsatisfied,5,Africa
+2,No,Decrease,Unsatisfied,2,North America
+1,Yes,Decrease,Neutral,3,Oceania
+5,No,No Change,Unsatisfied,1,South America
+3,Yes,Decrease,Unsatisfied,5,South America
+4,Yes,Decrease,Neutral,5,Europe
+1,Yes,No Change,Neutral,5,Oceania
+4,No,Decrease,Satisfied,5,North America
+3,No,Decrease,Satisfied,3,Europe
+3,No,Decrease,Neutral,1,South America
+5,No,No Change,Satisfied,1,South America
+2,Yes,Increase,Unsatisfied,1,Asia
+3,Yes,No Change,Neutral,3,North America
+3,No,Decrease,Satisfied,4,Africa
+5,No,Decrease,Unsatisfied,1,South America
+3,Yes,No Change,Satisfied,4,Oceania
+2,No,Increase,Unsatisfied,3,Europe
+4,Yes,No Change,Satisfied,3,North America
+1,No,Increase,Neutral,2,Oceania
+5,Yes,No Change,Satisfied,3,South America
+5,No,No Change,Satisfied,4,South America
+2,Yes,Increase,Satisfied,4,Africa
+3,Yes,No Change,Neutral,2,Asia
+1,No,No Change,Satisfied,1,Oceania
+5,No,No Change,Unsatisfied,5,Africa
+4,No,Increase,Unsatisfied,1,South America
+4,Yes,Decrease,Neutral,4,Asia
+4,Yes,Increase,Neutral,3,North America
+3,Yes,Increase,Neutral,1,Asia
+3,No,Increase,Neutral,3,Oceania
+3,Yes,Increase,Neutral,1,Africa
+2,Yes,Decrease,Unsatisfied,4,North America
+5,No,No Change,Satisfied,4,North America
+4,No,Decrease,Satisfied,5,Oceania
+3,No,No Change,Satisfied,4,South America
+4,No,No Change,Unsatisfied,1,South America
+1,Yes,Decrease,Neutral,3,Europe
+2,Yes,Increase,Neutral,4,North America
+4,No,Increase,Satisfied,5,South America
+4,No,Increase,Neutral,3,Oceania
+2,Yes,No Change,Unsatisfied,2,South America
+4,No,No Change,Unsatisfied,2,Africa
+2,No,Increase,Unsatisfied,3,Europe
+3,No,Decrease,Satisfied,1,Asia
+3,Yes,Increase,Satisfied,4,Oceania
+1,Yes,Decrease,Satisfied,5,North America
+1,No,No Change,Neutral,1,Europe
+3,Yes,Decrease,Neutral,5,North America
+3,No,Increase,Satisfied,1,Africa
+2,Yes,No Change,Satisfied,1,Asia
+1,No,Increase,Unsatisfied,5,Asia
+1,Yes,Decrease,Unsatisfied,4,South America
+1,Yes,No Change,Satisfied,5,Europe
+3,No,No Change,Neutral,1,Africa
+3,Yes,No Change,Neutral,2,South America
+1,No,Increase,Satisfied,5,South America
+5,No,Increase,Unsatisfied,1,Oceania
+2,No,No Change,Unsatisfied,5,Africa
+1,Yes,Decrease,Neutral,3,Oceania
+5,No,Decrease,Unsatisfied,4,Oceania
+4,No,Increase,Satisfied,5,South America
+4,No,Increase,Neutral,2,North America
+1,Yes,Increase,Satisfied,4,South America
+4,Yes,Increase,Satisfied,1,Asia
+4,No,No Change,Satisfied,2,Oceania
+4,No,No Change,Unsatisfied,3,Europe
+2,No,No Change,Unsatisfied,3,North America
+3,Yes,No Change,Satisfied,5,Europe
+1,Yes,Decrease,Unsatisfied,1,North America
+2,No,Increase,Neutral,3,Africa
+2,Yes,Decrease,Neutral,2,Asia
+1,No,No Change,Neutral,2,Africa
+4,Yes,Increase,Neutral,3,Oceania
+5,No,No Change,Satisfied,5,Europe
+1,Yes,No Change,Neutral,5,South America
+5,Yes,No Change,Satisfied,2,North America
+1,Yes,Decrease,Unsatisfied,4,Africa
+3,No,Decrease,Neutral,5,South America
+3,Yes,Increase,Neutral,3,Asia
+2,Yes,Increase,Satisfied,1,North America
+1,No,Increase,Unsatisfied,3,Europe
+3,Yes,Decrease,Unsatisfied,3,Europe
+4,Yes,No Change,Unsatisfied,2,Europe
+3,Yes,No Change,Neutral,4,Asia
+2,No,No Change,Unsatisfied,1,North America
+3,Yes,Increase,Neutral,2,Europe
+3,No,Increase,Unsatisfied,5,South America
+2,No,Decrease,Unsatisfied,5,Asia
+3,Yes,Decrease,Unsatisfied,1,Oceania
+3,No,No Change,Satisfied,1,Asia
+1,Yes,No Change,Satisfied,3,North America
+1,No,Decrease,Satisfied,1,Europe
+5,Yes,No Change,Satisfied,3,Oceania
+3,Yes,Decrease,Unsatisfied,5,Asia
+5,Yes,Decrease,Satisfied,4,Oceania
+5,No,Decrease,Neutral,3,Asia
+1,No,Increase,Satisfied,1,Africa
+3,Yes,Decrease,Satisfied,1,North America
+1,Yes,Increase,Neutral,4,Africa
+4,Yes,No Change,Satisfied,5,Asia
+3,No,Increase,Satisfied,5,South America
+2,Yes,Increase,Unsatisfied,3,Africa
+4,No,No Change,Unsatisfied,5,South America
+4,No,Decrease,Neutral,3,Europe
+5,No,Decrease,Neutral,2,Oceania
+2,Yes,Decrease,Satisfied,2,Europe
+3,No,Increase,Satisfied,5,Asia
+5,Yes,Increase,Neutral,5,Africa
+2,No,No Change,Satisfied,5,Europe
+3,No,No Change,Unsatisfied,1,Asia
+5,Yes,No Change,Satisfied,2,Oceania
+3,Yes,Decrease,Unsatisfied,2,South America
+3,Yes,Increase,Unsatisfied,2,Oceania
+3,Yes,Increase,Unsatisfied,3,South America
+4,No,No Change,Satisfied,3,Europe
+4,No,Increase,Neutral,4,North America
+5,Yes,Decrease,Neutral,3,North America
+3,Yes,Increase,Satisfied,2,Africa
+1,No,No Change,Unsatisfied,2,South America
+1,No,Decrease,Satisfied,1,Africa
+3,No,No Change,Neutral,2,Europe
+3,No,No Change,Unsatisfied,5,Africa
+4,Yes,Increase,Satisfied,1,Asia
+3,No,Decrease,Neutral,4,Africa
+1,Yes,No Change,Neutral,1,South America
+1,No,Decrease,Neutral,3,Europe
+3,No,Decrease,Unsatisfied,4,South America
+3,No,Increase,Neutral,3,North America
+2,No,Decrease,Unsatisfied,1,Europe
+5,Yes,No Change,Neutral,4,Oceania
+4,Yes,Decrease,Neutral,3,Europe
+5,No,Increase,Unsatisfied,3,Europe
+4,Yes,Increase,Satisfied,2,Asia
+3,Yes,Increase,Neutral,3,Africa
+3,Yes,Increase,Unsatisfied,3,South America
+5,No,No Change,Neutral,2,Africa
+4,Yes,No Change,Neutral,1,Africa
+5,Yes,Decrease,Neutral,5,Europe
+1,No,No Change,Neutral,4,Oceania
+4,Yes,No Change,Neutral,3,Oceania
+3,Yes,No Change,Neutral,4,North America
+2,Yes,Increase,Neutral,5,Europe
+5,Yes,Increase,Neutral,3,Africa
+2,No,Increase,Unsatisfied,4,Africa
+3,Yes,Decrease,Unsatisfied,4,Europe
+3,Yes,Decrease,Satisfied,1,Asia
+2,No,Decrease,Satisfied,5,North America
+2,Yes,No Change,Satisfied,2,Oceania
+3,Yes,Increase,Unsatisfied,5,North America
+3,No,Decrease,Satisfied,5,Oceania
+3,No,Decrease,Satisfied,4,Europe
+1,No,Increase,Unsatisfied,5,South America
+3,Yes,No Change,Unsatisfied,1,Oceania
+5,No,No Change,Neutral,2,Africa
+1,Yes,Decrease,Satisfied,4,South America
+4,Yes,No Change,Neutral,2,Europe
+4,No,No Change,Unsatisfied,3,Europe
+3,No,Increase,Neutral,1,Asia
+4,Yes,No Change,Neutral,5,Europe
+4,No,Increase,Satisfied,2,Europe
+3,Yes,Increase,Satisfied,3,Oceania
+3,Yes,No Change,Unsatisfied,1,Asia
+4,No,No Change,Unsatisfied,4,Oceania
+3,Yes,Decrease,Satisfied,1,Europe
+4,Yes,Decrease,Satisfied,3,Africa
+3,Yes,No Change,Satisfied,5,South America
+5,No,Decrease,Unsatisfied,4,Africa
+5,No,Decrease,Satisfied,4,Oceania
+1,No,Decrease,Unsatisfied,2,Europe
+2,Yes,No Change,Unsatisfied,5,North America
+3,No,Decrease,Neutral,5,Europe
+2,No,Increase,Neutral,5,Oceania
+2,Yes,Decrease,Satisfied,3,Asia
+1,Yes,Decrease,Unsatisfied,2,South America
+5,Yes,Decrease,Neutral,1,Oceania
+3,No,No Change,Unsatisfied,4,Asia
+1,No,Increase,Neutral,3,Oceania
+4,Yes,Decrease,Neutral,5,Oceania
+1,Yes,No Change,Unsatisfied,4,Europe
+5,Yes,No Change,Satisfied,5,Africa
+2,No,Decrease,Neutral,3,Europe
+4,Yes,Decrease,Satisfied,5,Asia
+4,Yes,Decrease,Neutral,4,South America
+1,No,No Change,Satisfied,3,Asia
+2,No,Decrease,Neutral,1,Europe
+3,Yes,Decrease,Satisfied,5,Asia
+5,No,Increase,Satisfied,2,Europe
+1,No,Decrease,Unsatisfied,4,Asia
+2,Yes,Decrease,Unsatisfied,5,Africa
+2,Yes,No Change,Unsatisfied,5,South America
+1,Yes,No Change,Unsatisfied,3,Oceania
+1,Yes,No Change,Neutral,5,Asia
+5,No,No Change,Satisfied,4,Africa
+4,No,No Change,Unsatisfied,5,Asia
+1,No,Decrease,Neutral,4,Oceania
+1,Yes,No Change,Satisfied,3,Europe
+1,No,No Change,Neutral,5,North America
+1,No,Increase,Neutral,3,North America
+5,No,No Change,Unsatisfied,3,Oceania
+3,Yes,Decrease,Neutral,3,Africa
+2,Yes,Increase,Neutral,2,Africa
+5,Yes,No Change,Neutral,5,Africa
+4,No,Decrease,Satisfied,5,North America
+5,No,No Change,Neutral,3,Oceania
+3,No,Increase,Satisfied,3,North America
+1,Yes,Decrease,Neutral,4,South America
+1,Yes,Increase,Unsatisfied,3,Asia
+5,No,No Change,Satisfied,1,Oceania
+3,No,No Change,Neutral,4,Asia
+1,Yes,Increase,Satisfied,4,Asia
+2,Yes,Decrease,Neutral,3,South America
+5,No,Increase,Neutral,5,Europe
+3,No,Increase,Neutral,4,Africa
+4,No,Decrease,Neutral,3,North America
+5,No,No Change,Unsatisfied,2,North America
+2,No,Increase,Satisfied,4,Asia
+3,No,Increase,Satisfied,1,South America
+4,Yes,Increase,Satisfied,4,Europe
+5,Yes,Decrease,Unsatisfied,5,South America
+1,No,Decrease,Satisfied,5,Oceania
+4,Yes,No Change,Unsatisfied,3,Africa
+5,No,No Change,Satisfied,5,Africa
+1,Yes,No Change,Satisfied,4,Europe
+3,Yes,Decrease,Neutral,5,South America
+5,Yes,Decrease,Unsatisfied,4,North America
+2,No,No Change,Neutral,3,Asia
+2,Yes,Decrease,Neutral,4,Asia
+2,No,No Change,Unsatisfied,4,Africa
+4,Yes,No Change,Unsatisfied,3,North America
+4,No,Decrease,Unsatisfied,5,Africa
+4,Yes,No Change,Neutral,2,South America
+2,Yes,Decrease,Satisfied,5,North America
+5,Yes,No Change,Unsatisfied,3,Asia
+4,No,Increase,Neutral,5,Africa
+3,Yes,Decrease,Satisfied,2,Europe
+4,No,Increase,Neutral,2,North America
+5,Yes,No Change,Unsatisfied,3,North America
+4,Yes,Decrease,Satisfied,4,Oceania
+3,Yes,Increase,Unsatisfied,3,South America
+3,No,Decrease,Unsatisfied,4,South America
+3,Yes,No Change,Unsatisfied,3,North America
+4,No,No Change,Satisfied,3,Africa
+3,No,Decrease,Unsatisfied,3,Europe
+3,Yes,No Change,Satisfied,2,North America
+1,Yes,Decrease,Neutral,1,Asia
+1,Yes,No Change,Neutral,4,South America
+5,Yes,No Change,Satisfied,5,Africa
+3,Yes,Decrease,Satisfied,5,North America
+1,Yes,Increase,Neutral,1,Europe
+1,No,No Change,Neutral,4,Africa
+5,No,No Change,Neutral,3,Oceania
+3,Yes,Increase,Unsatisfied,2,South America
+2,Yes,No Change,Neutral,3,Asia
+1,Yes,Increase,Unsatisfied,4,South America
+1,Yes,Increase,Neutral,3,Oceania
+4,No,No Change,Neutral,1,Africa
+5,Yes,Increase,Neutral,3,Asia
+3,No,Decrease,Neutral,2,Africa
+3,No,Decrease,Satisfied,4,South America
+4,Yes,Decrease,Neutral,5,South America
+1,Yes,Increase,Neutral,2,Africa
+3,No,Decrease,Unsatisfied,5,North America
+3,No,Increase,Unsatisfied,3,Europe
+3,No,Decrease,Neutral,3,South America
+3,No,Decrease,Satisfied,3,Oceania
+2,No,No Change,Satisfied,5,Oceania
+4,Yes,Decrease,Unsatisfied,1,Africa
+4,Yes,Increase,Satisfied,3,Europe
+4,Yes,No Change,Neutral,2,South America
+3,Yes,Decrease,Neutral,2,South America
+1,Yes,No Change,Neutral,1,North America
+5,Yes,No Change,Neutral,4,South America
+3,Yes,No Change,Neutral,2,South America
+3,No,No Change,Satisfied,5,South America
+5,No,No Change,Satisfied,2,Europe
+4,Yes,No Change,Unsatisfied,2,Africa
+4,No,No Change,Unsatisfied,1,South America
+4,Yes,No Change,Satisfied,3,Asia
+2,Yes,No Change,Satisfied,4,Oceania
+4,No,Decrease,Unsatisfied,4,Africa
+1,Yes,No Change,Unsatisfied,4,Asia
+5,No,Increase,Unsatisfied,2,Oceania
+1,Yes,Decrease,Satisfied,5,Asia
+4,No,No Change,Satisfied,4,Europe
+5,Yes,Decrease,Unsatisfied,1,South America
+2,Yes,No Change,Neutral,3,Europe
+5,No,Decrease,Satisfied,4,Oceania
+3,Yes,Decrease,Neutral,1,Asia
+5,Yes,Decrease,Satisfied,4,Africa
+1,No,Decrease,Unsatisfied,2,Asia
+2,No,Decrease,Satisfied,1,Asia
+3,No,No Change,Neutral,2,Africa
+5,No,Decrease,Unsatisfied,4,Asia
+4,No,Decrease,Neutral,1,Oceania
+3,No,No Change,Satisfied,5,Africa
+5,Yes,Increase,Neutral,2,Asia
+5,No,Increase,Unsatisfied,1,North America
+1,Yes,Decrease,Neutral,2,Europe
+1,No,Decrease,Neutral,2,Europe
+4,Yes,Increase,Neutral,5,Asia
+3,No,No Change,Satisfied,1,Oceania
+4,No,Decrease,Satisfied,3,Europe
+5,Yes,Increase,Neutral,5,Oceania
+3,No,No Change,Satisfied,5,Asia
+2,No,Decrease,Satisfied,3,Asia
+4,Yes,No Change,Unsatisfied,4,Africa
+2,No,Increase,Unsatisfied,4,Asia
+3,No,No Change,Neutral,4,Europe
+3,Yes,Decrease,Neutral,5,Asia
+4,Yes,Decrease,Satisfied,2,Oceania
+1,Yes,Decrease,Satisfied,5,Africa
+5,Yes,No Change,Neutral,5,North America
+1,No,Decrease,Neutral,4,Europe
+2,No,Increase,Satisfied,3,Europe
+5,No,No Change,Neutral,4,South America
+3,No,Decrease,Unsatisfied,4,Asia
+1,Yes,Decrease,Unsatisfied,3,Africa
+4,Yes,Decrease,Neutral,4,South America
+4,Yes,Increase,Neutral,2,Asia
+1,No,Increase,Satisfied,1,South America
+1,Yes,Increase,Neutral,1,North America
+5,No,No Change,Neutral,3,Africa
+2,No,Increase,Unsatisfied,3,North America
+4,Yes,Increase,Satisfied,2,South America
+4,Yes,No Change,Neutral,5,Africa
+3,No,Increase,Satisfied,1,North America
+3,No,Increase,Satisfied,4,North America
+5,No,Decrease,Neutral,4,Asia
+3,No,Decrease,Satisfied,4,Europe
+3,No,No Change,Satisfied,1,Europe
+4,No,Decrease,Satisfied,3,North America
+3,No,Decrease,Satisfied,2,Europe
+1,No,Decrease,Unsatisfied,5,Africa
+5,Yes,Increase,Unsatisfied,1,Europe
+4,No,No Change,Unsatisfied,5,Asia
+5,No,Decrease,Satisfied,1,Africa
+1,No,Increase,Neutral,2,North America
+2,Yes,Decrease,Neutral,5,South America
+3,Yes,Increase,Satisfied,4,Europe
+3,Yes,Increase,Satisfied,1,Africa
+5,Yes,Increase,Unsatisfied,5,North America
+3,No,Increase,Unsatisfied,2,Oceania
+4,Yes,Increase,Neutral,5,Africa
+3,Yes,No Change,Neutral,4,Oceania
+3,No,Increase,Unsatisfied,1,Asia
+4,Yes,No Change,Unsatisfied,2,North America
+3,Yes,Decrease,Unsatisfied,2,Asia
+2,Yes,Increase,Unsatisfied,4,South America
+1,No,Decrease,Unsatisfied,2,North America
+5,No,No Change,Unsatisfied,5,Africa
+5,Yes,No Change,Satisfied,1,Asia
+4,No,Increase,Neutral,5,North America
+2,Yes,Increase,Neutral,3,North America
+1,No,Increase,Satisfied,3,Africa
+2,No,Decrease,Satisfied,5,North America
+5,No,Decrease,Satisfied,3,Africa
+4,Yes,No Change,Satisfied,2,Africa
+2,No,Increase,Unsatisfied,4,Africa
+2,Yes,Increase,Neutral,1,North America
+5,Yes,Decrease,Satisfied,4,South America
+3,No,Increase,Satisfied,2,North America
+4,No,Increase,Neutral,5,South America
+2,No,Decrease,Unsatisfied,5,Oceania
+4,No,No Change,Satisfied,2,Africa
+2,No,No Change,Neutral,5,Asia
+5,Yes,Increase,Satisfied,1,Oceania
+1,Yes,Increase,Satisfied,3,Oceania
+4,Yes,Decrease,Satisfied,3,South America
+1,No,Increase,Neutral,1,South America
+1,No,No Change,Satisfied,3,Africa
+3,No,No Change,Neutral,3,Oceania
+3,No,Increase,Unsatisfied,5,South America
+4,Yes,Increase,Satisfied,4,Oceania
+3,Yes,Decrease,Satisfied,1,Europe
+4,Yes,Decrease,Unsatisfied,4,Asia
+4,Yes,Increase,Unsatisfied,1,South America
+5,Yes,Decrease,Unsatisfied,3,Asia
+5,No,No Change,Unsatisfied,2,South America
+5,No,No Change,Neutral,1,South America
+5,Yes,No Change,Satisfied,4,Oceania
+5,Yes,Decrease,Neutral,4,Europe
+3,No,Increase,Satisfied,2,Asia
+3,Yes,Decrease,Neutral,1,South America
+1,Yes,No Change,Unsatisfied,5,Oceania
+1,Yes,Increase,Neutral,3,Oceania
+4,No,Decrease,Unsatisfied,1,Asia
+5,Yes,No Change,Satisfied,1,Europe
+3,Yes,Decrease,Satisfied,3,Europe
+4,No,No Change,Satisfied,2,South America
+4,No,Increase,Satisfied,2,Oceania
+1,No,Decrease,Neutral,5,Asia
+1,No,No Change,Neutral,5,Europe
+1,Yes,No Change,Unsatisfied,5,Europe
+2,Yes,Decrease,Neutral,1,Europe
+3,No,Decrease,Unsatisfied,1,Europe
+4,Yes,Decrease,Neutral,5,Europe
+3,No,Increase,Unsatisfied,1,Asia
+2,No,No Change,Unsatisfied,5,Asia
+1,Yes,No Change,Unsatisfied,3,Africa
+1,Yes,No Change,Satisfied,5,Asia
+4,No,Increase,Neutral,1,Asia
+1,No,Increase,Satisfied,3,Asia
+2,No,Increase,Neutral,3,Africa
+3,Yes,No Change,Unsatisfied,4,Asia
+2,No,Increase,Unsatisfied,5,North America
+3,No,Decrease,Satisfied,1,Asia
+3,No,Decrease,Satisfied,1,Europe
+1,No,No Change,Unsatisfied,1,Africa
+3,Yes,No Change,Satisfied,1,Africa
+5,No,Increase,Neutral,5,Europe
+4,No,No Change,Unsatisfied,4,Europe
+2,No,No Change,Satisfied,2,South America
+2,No,Increase,Neutral,1,Europe
+4,Yes,No Change,Neutral,3,South America
+2,Yes,Increase,Satisfied,3,Asia
+1,Yes,Increase,Neutral,2,Europe
+2,No,Increase,Unsatisfied,1,Africa
+2,No,Increase,Satisfied,5,Europe
+2,Yes,Increase,Neutral,5,Oceania
+3,Yes,Decrease,Satisfied,3,Europe
+1,Yes,Decrease,Neutral,3,Europe
+4,No,Decrease,Satisfied,4,Asia
+3,No,Increase,Unsatisfied,2,Asia
+4,No,No Change,Satisfied,4,South America
+2,No,Decrease,Neutral,1,South America
+4,No,Decrease,Satisfied,3,Asia
+5,Yes,No Change,Unsatisfied,5,North America
+2,Yes,Decrease,Neutral,3,South America
+2,Yes,Increase,Satisfied,4,Oceania
+1,No,Decrease,Unsatisfied,4,Asia
+1,Yes,No Change,Neutral,1,North America
+3,Yes,No Change,Neutral,3,North America
+4,No,Increase,Unsatisfied,3,Europe
+3,No,No Change,Satisfied,5,Asia
+2,Yes,Decrease,Unsatisfied,4,Europe
+2,Yes,Increase,Satisfied,3,South America
+2,No,Decrease,Unsatisfied,5,Europe
+5,Yes,Increase,Neutral,3,Asia
+1,Yes,No Change,Unsatisfied,4,Africa
+5,No,No Change,Unsatisfied,3,Africa
+3,Yes,No Change,Neutral,2,Oceania
+3,No,No Change,Unsatisfied,5,Oceania
+4,No,No Change,Neutral,3,Africa
+4,Yes,No Change,Satisfied,2,Europe
+4,No,No Change,Neutral,2,Europe
+5,Yes,Decrease,Satisfied,4,North America
+2,Yes,Decrease,Neutral,4,Europe
+4,No,Decrease,Satisfied,5,Oceania
+3,Yes,Increase,Neutral,5,Asia
+2,Yes,Decrease,Neutral,5,Oceania
+5,No,Decrease,Neutral,5,Africa
+1,No,No Change,Satisfied,2,Oceania
+3,Yes,Decrease,Satisfied,4,North America
+3,Yes,No Change,Satisfied,3,South America
+3,No,Increase,Neutral,3,North America
+2,Yes,No Change,Satisfied,4,Europe
+1,No,Decrease,Neutral,1,Europe
+4,No,Increase,Satisfied,2,Oceania
+2,No,No Change,Satisfied,4,Asia
+5,No,Increase,Satisfied,5,Asia
+3,Yes,No Change,Neutral,3,North America
+5,Yes,No Change,Satisfied,4,Africa
+2,No,No Change,Unsatisfied,4,Africa
+2,Yes,Increase,Neutral,1,Oceania
+5,Yes,No Change,Satisfied,4,Africa
+5,Yes,No Change,Neutral,3,Africa
+2,Yes,Increase,Satisfied,3,North America
+1,No,Decrease,Unsatisfied,3,Europe
+2,Yes,No Change,Satisfied,3,North America
+4,No,Decrease,Satisfied,2,Europe
+2,No,No Change,Satisfied,4,Oceania
+1,Yes,Increase,Satisfied,2,Asia
+4,Yes,No Change,Unsatisfied,3,North America
+5,No,Increase,Unsatisfied,1,South America
+4,No,Increase,Unsatisfied,2,Europe
+2,Yes,No Change,Unsatisfied,3,Oceania
+2,Yes,Increase,Satisfied,2,Oceania
+4,No,Decrease,Satisfied,3,Europe
+5,Yes,Decrease,Unsatisfied,4,North America
+5,Yes,Increase,Neutral,1,Africa
+5,Yes,No Change,Unsatisfied,3,North America
+2,No,No Change,Satisfied,5,South America
+2,No,Decrease,Satisfied,5,South America
+3,Yes,No Change,Unsatisfied,2,Asia
+3,No,No Change,Unsatisfied,4,Asia
+2,Yes,No Change,Neutral,3,Africa
+3,No,No Change,Unsatisfied,4,North America
+5,Yes,Decrease,Neutral,2,Oceania
+5,Yes,Decrease,Unsatisfied,3,Europe
+5,No,No Change,Neutral,5,Africa
+1,No,No Change,Unsatisfied,3,Africa
+2,Yes,Decrease,Neutral,2,Oceania
+5,No,Increase,Neutral,5,Asia
+3,Yes,Decrease,Neutral,4,Asia
+1,No,Decrease,Satisfied,5,Africa
+3,No,No Change,Neutral,1,Africa
+4,No,No Change,Neutral,5,Africa
+5,No,Decrease,Unsatisfied,5,North America
+4,Yes,No Change,Neutral,4,Africa
+2,No,Decrease,Satisfied,3,North America
+2,Yes,No Change,Unsatisfied,4,North America
+1,No,No Change,Neutral,4,Asia
+4,No,No Change,Satisfied,2,South America
+4,Yes,Decrease,Unsatisfied,1,Africa
+3,No,Decrease,Satisfied,3,Oceania
+5,No,Increase,Unsatisfied,5,Europe
+2,No,No Change,Neutral,3,Oceania
+2,No,Increase,Neutral,1,North America
+5,Yes,Increase,Satisfied,4,South America
+5,No,Increase,Satisfied,1,Oceania
+1,No,Decrease,Unsatisfied,5,Europe
+3,No,Decrease,Neutral,4,Africa
+1,Yes,No Change,Satisfied,4,Europe
+3,Yes,No Change,Satisfied,5,Asia
+2,Yes,No Change,Neutral,3,Oceania
+2,No,Decrease,Unsatisfied,3,Asia
+2,No,No Change,Satisfied,4,Oceania
+2,Yes,Increase,Satisfied,5,North America
+5,No,Decrease,Satisfied,3,South America
+3,No,Increase,Unsatisfied,2,South America
+5,Yes,Increase,Satisfied,1,Asia
+1,No,No Change,Neutral,1,Europe
+2,Yes,No Change,Unsatisfied,2,Asia
+2,Yes,Decrease,Unsatisfied,2,Oceania
+3,Yes,Decrease,Unsatisfied,2,South America
+2,No,No Change,Satisfied,2,North America
+3,Yes,Decrease,Satisfied,1,Europe
+1,Yes,Increase,Unsatisfied,3,Oceania
+3,No,Increase,Neutral,1,North America
+4,No,Increase,Satisfied,4,Oceania
+5,Yes,Decrease,Satisfied,3,South America
+5,No,No Change,Neutral,3,Asia
+5,No,Decrease,Neutral,5,Europe
+2,No,Increase,Neutral,1,Europe
+1,Yes,No Change,Neutral,1,Asia
+5,No,Increase,Unsatisfied,5,Europe
+3,Yes,No Change,Satisfied,1,South America
+5,Yes,No Change,Neutral,4,Africa
+5,No,No Change,Neutral,1,Oceania
+5,No,Decrease,Satisfied,4,Oceania
+1,Yes,Increase,Satisfied,3,South America
+4,Yes,Decrease,Satisfied,4,Africa
+5,No,Decrease,Unsatisfied,2,Europe
+4,No,No Change,Satisfied,1,Oceania
+2,Yes,Decrease,Satisfied,3,Oceania
+4,No,No Change,Neutral,3,South America
+1,No,No Change,Neutral,1,Africa
+5,Yes,Increase,Unsatisfied,5,Asia
+2,No,Increase,Satisfied,2,Oceania
+3,Yes,Decrease,Unsatisfied,3,Europe
+4,No,Decrease,Unsatisfied,3,Africa
+3,Yes,No Change,Unsatisfied,3,North America
+5,Yes,Decrease,Unsatisfied,5,Asia
+1,No,Decrease,Unsatisfied,3,Europe
+4,Yes,No Change,Neutral,5,Europe
+1,No,Increase,Unsatisfied,4,North America
+5,No,Increase,Unsatisfied,4,Oceania
+3,No,No Change,Satisfied,1,South America
+5,No,Increase,Unsatisfied,2,South America
+4,No,No Change,Unsatisfied,3,Asia
+5,Yes,Increase,Unsatisfied,1,North America
+5,Yes,No Change,Neutral,1,Europe
+5,Yes,No Change,Satisfied,4,Africa
+5,Yes,Decrease,Satisfied,2,Africa
+2,Yes,Decrease,Neutral,5,Europe
+5,No,Decrease,Unsatisfied,4,Africa
+3,Yes,Increase,Unsatisfied,3,Oceania
+3,No,No Change,Unsatisfied,4,Oceania
+3,No,Increase,Unsatisfied,2,South America
+3,No,Increase,Neutral,1,Europe
+3,Yes,Increase,Neutral,2,North America
+1,No,No Change,Neutral,5,North America
+2,No,No Change,Unsatisfied,1,Asia
+3,No,Increase,Satisfied,5,Oceania
+1,Yes,Increase,Satisfied,5,Asia
+1,No,Decrease,Unsatisfied,2,South America
+1,No,No Change,Unsatisfied,4,Asia
+3,Yes,Increase,Neutral,5,Africa
+5,No,No Change,Satisfied,3,Europe
+1,Yes,Increase,Unsatisfied,4,Oceania
+5,No,Decrease,Satisfied,4,Europe
+5,Yes,Increase,Unsatisfied,4,Africa
+3,No,Decrease,Neutral,3,Asia
+2,Yes,Increase,Satisfied,1,North America
+1,No,Decrease,Neutral,3,South America
+5,No,Decrease,Satisfied,2,South America
+2,No,No Change,Satisfied,4,Europe
+5,No,Decrease,Neutral,4,North America
+1,No,Decrease,Satisfied,5,Asia
+5,No,Decrease,Unsatisfied,2,South America
+1,Yes,Decrease,Unsatisfied,3,Oceania
+5,No,No Change,Unsatisfied,4,Africa
+3,No,Increase,Neutral,2,Africa
+1,No,Decrease,Satisfied,1,Europe
+2,Yes,Decrease,Unsatisfied,3,Asia
+5,Yes,Decrease,Satisfied,4,Asia
+1,No,Increase,Neutral,1,North America
+4,No,No Change,Unsatisfied,2,Europe
+1,No,Decrease,Neutral,3,Europe
+2,Yes,Increase,Neutral,1,Europe
+3,No,Decrease,Unsatisfied,5,Asia
+3,Yes,Increase,Unsatisfied,1,Africa
+2,No,Decrease,Unsatisfied,1,Africa
+5,No,Increase,Unsatisfied,1,North America
+4,No,Decrease,Neutral,2,North America
+3,No,Increase,Satisfied,1,South America
+3,No,No Change,Satisfied,5,Oceania
+4,No,Decrease,Satisfied,4,Asia
+2,No,Increase,Neutral,5,Europe
+1,No,Decrease,Neutral,4,North America
+3,Yes,No Change,Satisfied,5,Oceania
+2,Yes,Decrease,Unsatisfied,2,Asia
+1,Yes,Decrease,Unsatisfied,3,North America
+5,Yes,No Change,Neutral,2,South America
+3,Yes,Increase,Neutral,1,Europe
+4,Yes,Increase,Unsatisfied,5,North America
+5,Yes,No Change,Unsatisfied,5,Oceania
+2,No,Increase,Unsatisfied,1,Asia
+1,Yes,Increase,Unsatisfied,2,Asia
+5,No,Increase,Neutral,4,Africa
+2,No,No Change,Unsatisfied,5,Europe
+3,Yes,Increase,Unsatisfied,2,South America
+1,Yes,Increase,Neutral,2,Europe
+2,Yes,Increase,Neutral,1,Oceania
+4,Yes,Decrease,Neutral,3,Oceania
+2,No,No Change,Neutral,2,Europe
+3,Yes,No Change,Satisfied,2,South America
+4,No,Decrease,Unsatisfied,3,North America
+1,No,Increase,Neutral,2,Oceania
+5,Yes,Decrease,Unsatisfied,2,Africa
+2,No,Decrease,Neutral,4,Asia
+2,No,Increase,Unsatisfied,5,South America
+1,Yes,No Change,Unsatisfied,3,North America
+1,Yes,Increase,Neutral,2,Asia
+2,Yes,No Change,Unsatisfied,4,Asia
+1,No,No Change,Unsatisfied,3,South America
+4,No,Decrease,Neutral,4,Oceania
+1,No,Decrease,Neutral,5,Oceania
+5,No,Decrease,Satisfied,3,Africa
+4,No,Decrease,Unsatisfied,1,North America
+1,Yes,Increase,Satisfied,5,Asia
+5,Yes,Increase,Unsatisfied,2,North America
+5,No,Increase,Unsatisfied,3,Europe
+2,Yes,No Change,Neutral,4,South America
+4,Yes,No Change,Unsatisfied,3,Asia
+3,No,Increase,Satisfied,5,Europe
+1,No,Decrease,Satisfied,1,Oceania
+2,No,Increase,Neutral,3,Asia
+3,No,No Change,Satisfied,2,North America
+5,No,Increase,Unsatisfied,1,South America
+2,No,Decrease,Neutral,5,Oceania
+3,No,Increase,Neutral,4,South America
+1,No,Increase,Neutral,3,South America
+5,Yes,No Change,Satisfied,1,Africa
+3,Yes,Decrease,Neutral,1,North America
+1,Yes,Decrease,Neutral,2,Oceania
+4,Yes,Increase,Satisfied,3,Oceania
+1,Yes,Increase,Neutral,4,Europe
+3,Yes,No Change,Satisfied,3,Oceania
+1,Yes,Increase,Satisfied,1,Oceania
+1,Yes,Increase,Neutral,4,Africa
+3,Yes,Decrease,Neutral,5,Oceania
+2,No,No Change,Neutral,4,Africa
+4,Yes,No Change,Satisfied,1,Asia
+3,No,Decrease,Unsatisfied,5,Oceania
+3,Yes,No Change,Unsatisfied,5,Africa
+5,Yes,Decrease,Satisfied,3,Africa
+3,Yes,Decrease,Satisfied,4,South America
+4,No,Decrease,Neutral,3,Oceania
+1,Yes,Decrease,Neutral,5,North America
+5,Yes,No Change,Neutral,2,Europe
+4,No,Decrease,Satisfied,3,Oceania
+3,No,Increase,Satisfied,2,North America
+5,No,Increase,Unsatisfied,1,South America
+2,Yes,Increase,Neutral,3,Africa
+3,No,No Change,Satisfied,1,South America
+3,Yes,Increase,Unsatisfied,3,South America
+3,No,No Change,Unsatisfied,2,Oceania
+5,No,No Change,Unsatisfied,4,Asia
+4,No,No Change,Unsatisfied,4,Asia
+2,Yes,Increase,Satisfied,3,North America
+2,Yes,No Change,Satisfied,3,Asia
+5,No,Increase,Neutral,4,Oceania
+3,No,Decrease,Neutral,1,Europe
+3,No,Increase,Neutral,2,North America
+2,No,Increase,Unsatisfied,2,Africa
+1,Yes,Decrease,Neutral,1,Asia
+1,Yes,Increase,Neutral,4,Europe
+2,No,Decrease,Neutral,4,Oceania
+5,Yes,Increase,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,5,Africa
+5,No,Increase,Unsatisfied,1,Oceania
+3,No,Decrease,Satisfied,3,North America
+5,Yes,Decrease,Unsatisfied,4,South America
+3,Yes,Increase,Satisfied,3,Europe
+2,Yes,Increase,Satisfied,3,Oceania
+2,No,Decrease,Neutral,4,Europe
+3,No,Decrease,Neutral,3,Oceania
+5,No,No Change,Satisfied,4,North America
+3,Yes,Increase,Satisfied,4,Asia
+1,No,Decrease,Satisfied,5,Europe
+2,No,Decrease,Satisfied,5,South America
+5,Yes,No Change,Satisfied,2,Africa
+5,No,No Change,Neutral,3,Africa
+3,Yes,Decrease,Satisfied,3,South America
+5,No,Increase,Neutral,1,North America
+3,Yes,Decrease,Unsatisfied,5,South America
+5,No,No Change,Neutral,5,Asia
+1,No,No Change,Unsatisfied,4,Africa
+2,Yes,Decrease,Neutral,5,Europe
+3,Yes,No Change,Satisfied,3,North America
+4,No,Increase,Neutral,5,South America
+5,No,Decrease,Unsatisfied,3,Oceania
+3,No,No Change,Satisfied,4,Africa
+1,No,Decrease,Neutral,3,Asia
+1,Yes,Increase,Satisfied,2,South America
+1,Yes,No Change,Neutral,4,Asia
+1,Yes,Increase,Unsatisfied,1,Europe
+4,Yes,Increase,Neutral,2,Asia
+5,Yes,Increase,Satisfied,2,South America
+4,Yes,No Change,Satisfied,2,Europe
+1,No,No Change,Neutral,3,South America
+3,No,No Change,Unsatisfied,2,Europe
+2,Yes,Decrease,Unsatisfied,2,South America
+3,Yes,No Change,Unsatisfied,3,Asia
+5,Yes,Increase,Satisfied,1,Oceania
+3,Yes,No Change,Unsatisfied,1,Oceania
+5,Yes,No Change,Unsatisfied,5,Asia
+3,No,Increase,Unsatisfied,3,Asia
+5,No,No Change,Satisfied,5,Africa
+1,Yes,Decrease,Unsatisfied,4,Oceania
+4,Yes,Increase,Satisfied,3,Africa
+4,No,Decrease,Unsatisfied,4,Asia
+3,Yes,Increase,Neutral,3,Europe
+3,Yes,Increase,Neutral,4,Europe
+2,Yes,No Change,Satisfied,5,North America
+2,No,Increase,Satisfied,3,South America
+4,No,No Change,Satisfied,1,South America
+3,Yes,No Change,Unsatisfied,2,South America
+4,Yes,Decrease,Neutral,4,Europe
+2,No,Decrease,Unsatisfied,1,Asia
+5,Yes,No Change,Neutral,4,Europe
+5,Yes,Decrease,Neutral,2,North America
+4,No,Increase,Satisfied,4,Oceania
+1,No,No Change,Neutral,3,North America
+3,No,Increase,Neutral,5,South America
+2,Yes,Decrease,Satisfied,4,South America
+3,No,Decrease,Satisfied,3,Asia
+2,Yes,Decrease,Satisfied,3,South America
+3,No,Decrease,Neutral,1,North America
+1,Yes,Decrease,Unsatisfied,4,Africa
+4,Yes,Decrease,Unsatisfied,3,Asia
+3,Yes,Increase,Neutral,5,Europe
+1,No,Decrease,Unsatisfied,4,South America
+4,No,No Change,Satisfied,2,Oceania
+4,No,Increase,Unsatisfied,2,Africa
+1,Yes,Decrease,Neutral,3,North America
+3,No,No Change,Unsatisfied,3,Europe
+5,Yes,Decrease,Neutral,4,Europe
+3,No,Increase,Neutral,4,South America
+4,Yes,Increase,Unsatisfied,4,South America
+1,No,Increase,Neutral,5,Asia
+3,No,Decrease,Satisfied,4,South America
+3,No,Increase,Neutral,1,South America
+1,Yes,Increase,Unsatisfied,5,Asia
+3,No,No Change,Unsatisfied,5,South America
+4,Yes,Increase,Neutral,2,Europe
+1,Yes,Decrease,Satisfied,5,Africa
+4,No,No Change,Satisfied,5,Asia
+2,No,Decrease,Satisfied,4,Europe
+1,No,No Change,Neutral,3,Asia
+4,Yes,Decrease,Unsatisfied,3,South America
+2,Yes,No Change,Unsatisfied,4,South America
+4,No,Increase,Unsatisfied,4,Africa
+3,No,No Change,Neutral,3,Africa
+4,Yes,Increase,Satisfied,4,North America
+2,No,Increase,Unsatisfied,2,Oceania
+5,No,Increase,Neutral,4,Europe
+5,No,Decrease,Unsatisfied,5,North America
+4,Yes,Decrease,Neutral,2,Africa
+2,No,Decrease,Unsatisfied,1,Oceania
+3,No,No Change,Satisfied,3,Africa
+3,Yes,Decrease,Satisfied,2,Africa
+4,Yes,Increase,Neutral,3,South America
+4,No,No Change,Unsatisfied,4,Europe
+5,Yes,Decrease,Neutral,1,Oceania
+3,Yes,Decrease,Unsatisfied,1,Oceania
+1,Yes,Decrease,Satisfied,5,Asia
+2,No,Increase,Unsatisfied,3,North America
+4,No,Decrease,Satisfied,1,Africa
+5,No,Decrease,Unsatisfied,4,Africa
+3,Yes,No Change,Neutral,5,North America
+3,No,Decrease,Satisfied,5,South America
+3,No,Decrease,Satisfied,1,South America
+5,No,Decrease,Satisfied,3,North America
+2,No,Decrease,Satisfied,4,Oceania
+1,No,Increase,Unsatisfied,4,Asia
+2,No,No Change,Neutral,3,Asia
+3,Yes,No Change,Neutral,4,Oceania
+2,No,No Change,Neutral,2,Europe
+3,No,Increase,Neutral,3,Africa
+5,Yes,Decrease,Neutral,3,North America
+3,Yes,Increase,Satisfied,3,South America
+2,Yes,No Change,Unsatisfied,5,Africa
+1,Yes,Increase,Neutral,4,North America
+5,Yes,Decrease,Neutral,1,Asia
+5,No,Increase,Satisfied,1,Europe
+5,No,Decrease,Unsatisfied,3,South America
+3,Yes,Decrease,Neutral,2,Europe
+3,No,Decrease,Satisfied,3,Asia
+3,Yes,Decrease,Satisfied,3,South America
+4,No,Increase,Neutral,1,Oceania
+2,Yes,No Change,Satisfied,3,Africa
+1,Yes,Increase,Neutral,1,Europe
+5,Yes,No Change,Satisfied,3,Asia
+2,Yes,No Change,Neutral,3,South America
+1,No,Increase,Satisfied,5,Europe
+2,No,Decrease,Satisfied,1,North America
+3,No,Increase,Satisfied,2,Europe
+1,Yes,Increase,Satisfied,5,Oceania
+3,Yes,Increase,Unsatisfied,2,Oceania
+2,No,No Change,Neutral,5,Africa
+3,No,Increase,Satisfied,5,Africa
+3,Yes,Decrease,Unsatisfied,3,Africa
+4,No,No Change,Unsatisfied,3,North America
+5,Yes,Decrease,Satisfied,4,South America
+1,No,No Change,Neutral,2,North America
+4,Yes,No Change,Satisfied,3,Asia
+2,No,Decrease,Neutral,5,North America
+3,No,No Change,Unsatisfied,2,South America
+4,No,No Change,Neutral,4,South America
+3,No,Increase,Neutral,1,Africa
+1,Yes,Increase,Unsatisfied,4,Oceania
+4,Yes,No Change,Unsatisfied,1,Asia
+5,No,No Change,Neutral,4,Asia
+3,Yes,Decrease,Satisfied,5,South America
+5,No,No Change,Unsatisfied,2,Oceania
+1,Yes,Increase,Unsatisfied,3,Asia
+5,No,No Change,Satisfied,2,Europe
+2,Yes,No Change,Unsatisfied,4,Oceania
+3,No,No Change,Unsatisfied,5,South America
+3,No,Increase,Unsatisfied,4,South America
+3,Yes,Increase,Satisfied,3,Africa
+2,No,No Change,Satisfied,4,Oceania
+5,No,Increase,Satisfied,3,Europe
+1,No,Increase,Satisfied,2,Africa
+2,Yes,Increase,Satisfied,2,Africa
+5,No,Decrease,Neutral,4,Africa
+1,No,Decrease,Satisfied,1,South America
+2,Yes,Decrease,Unsatisfied,3,Africa
+1,No,Decrease,Unsatisfied,5,Asia
+3,Yes,Increase,Unsatisfied,1,Europe
+4,Yes,Increase,Neutral,2,South America
+1,Yes,Decrease,Unsatisfied,4,Europe
+4,No,Increase,Satisfied,1,Europe
+1,Yes,Increase,Unsatisfied,5,Oceania
+5,Yes,Increase,Unsatisfied,5,Europe
+3,Yes,No Change,Neutral,4,Europe
+5,Yes,Decrease,Neutral,4,Oceania
+5,Yes,Decrease,Neutral,3,North America
+1,No,Increase,Unsatisfied,2,Africa
+1,No,No Change,Unsatisfied,2,South America
+2,Yes,Increase,Satisfied,4,Europe
+2,No,Decrease,Satisfied,5,South America
+4,No,Decrease,Satisfied,1,North America
+1,No,Decrease,Unsatisfied,5,Oceania
+4,Yes,Increase,Neutral,1,Africa
+5,Yes,Increase,Unsatisfied,5,North America
+2,No,No Change,Satisfied,4,Oceania
+2,Yes,Increase,Satisfied,2,South America
+2,No,No Change,Unsatisfied,2,Europe
+4,No,No Change,Unsatisfied,4,Oceania
+1,Yes,Decrease,Neutral,4,Asia
+2,Yes,Increase,Satisfied,1,Europe
+1,No,No Change,Neutral,5,Africa
+1,Yes,No Change,Satisfied,1,North America
+3,Yes,Decrease,Unsatisfied,1,Europe
+2,Yes,No Change,Satisfied,1,Africa
+4,No,Increase,Neutral,1,South America
+4,No,Decrease,Satisfied,3,Europe
+4,Yes,Decrease,Satisfied,2,South America
+2,No,No Change,Satisfied,1,Asia
+4,Yes,No Change,Neutral,1,North America
+1,Yes,No Change,Unsatisfied,5,Asia
+5,Yes,No Change,Unsatisfied,2,South America
+4,Yes,No Change,Unsatisfied,3,Oceania
+3,No,No Change,Unsatisfied,1,Europe
+2,No,Decrease,Unsatisfied,2,Africa
+3,No,Decrease,Neutral,3,Europe
+4,No,Increase,Satisfied,3,Asia
+1,Yes,No Change,Neutral,2,Oceania
+2,Yes,No Change,Neutral,5,South America
+4,No,Increase,Satisfied,5,Africa
+2,No,No Change,Satisfied,5,Asia
+3,No,No Change,Unsatisfied,4,Oceania
+5,Yes,No Change,Satisfied,2,Europe
+2,Yes,Increase,Neutral,1,Asia
+1,No,Increase,Unsatisfied,1,Oceania
+4,No,Increase,Satisfied,5,North America
+2,Yes,No Change,Unsatisfied,1,South America
+4,No,No Change,Satisfied,1,Africa
+5,No,Increase,Unsatisfied,1,South America
+3,Yes,Increase,Unsatisfied,2,Europe
+5,No,Increase,Unsatisfied,5,Oceania
+2,No,Decrease,Satisfied,2,Africa
+5,No,Increase,Satisfied,4,Oceania
+5,No,Decrease,Neutral,1,North America
+1,Yes,No Change,Neutral,3,Europe
+5,No,Increase,Unsatisfied,5,Europe
+2,No,Decrease,Satisfied,2,Asia
+5,Yes,Decrease,Neutral,2,South America
+3,No,Decrease,Satisfied,5,Africa
+3,No,Decrease,Neutral,5,North America
+4,No,No Change,Satisfied,5,South America
+1,No,Increase,Neutral,2,South America
+3,No,No Change,Unsatisfied,1,Oceania
+3,Yes,No Change,Unsatisfied,5,Europe
+4,Yes,No Change,Neutral,2,Europe
+3,No,Increase,Satisfied,1,South America
+1,Yes,Increase,Neutral,4,Africa
+2,Yes,No Change,Unsatisfied,2,Asia
+5,Yes,No Change,Neutral,1,Oceania
+4,No,Decrease,Unsatisfied,2,North America
+1,Yes,Decrease,Satisfied,2,North America
+1,Yes,No Change,Satisfied,2,Europe
+5,No,Increase,Neutral,4,North America
+2,No,Increase,Satisfied,2,Oceania
+1,Yes,No Change,Neutral,1,South America
+3,No,Decrease,Satisfied,1,North America
+3,Yes,Decrease,Satisfied,2,Oceania
+5,No,No Change,Unsatisfied,2,Europe
+1,No,Decrease,Unsatisfied,3,Oceania
+2,Yes,Decrease,Satisfied,4,South America
+4,No,Decrease,Unsatisfied,1,Oceania
+3,No,Decrease,Unsatisfied,2,Oceania
+1,Yes,No Change,Unsatisfied,1,Oceania
+2,No,Increase,Satisfied,1,Oceania
+2,Yes,Decrease,Neutral,4,Oceania
+2,Yes,No Change,Satisfied,1,Oceania
+5,No,Decrease,Unsatisfied,4,Oceania
+4,Yes,No Change,Neutral,4,South America
+2,No,Decrease,Unsatisfied,5,North America
+2,No,Decrease,Unsatisfied,3,South America
+1,Yes,Increase,Neutral,1,North America
+1,Yes,Decrease,Satisfied,4,Asia
+4,No,No Change,Neutral,4,Africa
+2,No,Decrease,Neutral,5,Asia
+2,Yes,Decrease,Satisfied,1,North America
+3,Yes,Increase,Unsatisfied,5,Oceania
+5,Yes,Decrease,Satisfied,3,Europe
+4,Yes,No Change,Unsatisfied,2,Europe
+5,No,Increase,Satisfied,3,Europe
+3,Yes,No Change,Neutral,2,South America
+5,No,No Change,Unsatisfied,2,Asia
+2,Yes,Increase,Neutral,5,Africa
+2,No,Increase,Neutral,5,Asia
+2,No,No Change,Unsatisfied,1,Africa
+1,No,Decrease,Unsatisfied,5,North America
+5,No,Decrease,Satisfied,3,Asia
+4,Yes,Decrease,Unsatisfied,4,Asia
+5,No,Decrease,Neutral,2,Asia
+5,No,No Change,Neutral,4,Europe
+1,Yes,Decrease,Unsatisfied,3,North America
+5,No,Decrease,Unsatisfied,1,Asia
+4,No,Decrease,Satisfied,2,Asia
+3,No,No Change,Satisfied,5,Europe
+5,Yes,Decrease,Unsatisfied,1,Europe
+4,No,No Change,Unsatisfied,3,Oceania
+1,No,No Change,Satisfied,5,South America
+3,No,Increase,Satisfied,2,Africa
+2,Yes,Decrease,Unsatisfied,3,North America
+3,No,No Change,Satisfied,1,Asia
+1,No,No Change,Unsatisfied,4,North America
+4,Yes,Increase,Neutral,4,North America
+5,Yes,Increase,Unsatisfied,2,Asia
+2,No,Increase,Unsatisfied,1,Africa
+5,Yes,Decrease,Satisfied,5,Africa
+1,No,Decrease,Unsatisfied,1,Africa
+5,Yes,No Change,Satisfied,5,Europe
+4,Yes,No Change,Unsatisfied,2,South America
+3,Yes,No Change,Neutral,3,Asia
+1,Yes,Decrease,Unsatisfied,1,South America
+2,No,Increase,Neutral,1,South America
+3,No,Decrease,Unsatisfied,4,North America
+5,No,Decrease,Unsatisfied,2,South America
+5,No,Decrease,Neutral,3,North America
+1,No,No Change,Neutral,2,North America
+4,No,Decrease,Unsatisfied,1,Oceania
+5,No,Increase,Neutral,5,Africa
+3,No,No Change,Satisfied,3,Africa
+2,No,Increase,Satisfied,4,Europe
+3,Yes,Decrease,Unsatisfied,1,Europe
+4,Yes,Increase,Unsatisfied,4,Africa
+2,Yes,No Change,Unsatisfied,1,Oceania
+2,Yes,Increase,Neutral,2,North America
+4,No,Increase,Unsatisfied,1,Oceania
+3,Yes,No Change,Satisfied,1,Europe
+5,No,Decrease,Neutral,3,Asia
+3,No,Decrease,Satisfied,5,Europe
+3,Yes,Decrease,Unsatisfied,3,Africa
+1,No,Decrease,Unsatisfied,5,Africa
+3,Yes,Decrease,Unsatisfied,3,Europe
+5,Yes,No Change,Neutral,5,Africa
+5,Yes,No Change,Unsatisfied,1,North America
+4,Yes,Increase,Satisfied,3,Oceania
+2,No,Increase,Satisfied,2,Europe
+3,No,No Change,Neutral,1,Asia
+1,Yes,No Change,Unsatisfied,1,Europe
+2,No,No Change,Satisfied,5,North America
+3,Yes,Increase,Satisfied,5,South America
+3,Yes,Decrease,Satisfied,5,Oceania
+5,No,Increase,Satisfied,4,Asia
+1,No,Increase,Unsatisfied,4,Europe
+4,Yes,No Change,Unsatisfied,1,Europe
+1,No,Decrease,Unsatisfied,2,Oceania
+3,Yes,Increase,Neutral,4,South America
+3,No,Increase,Neutral,5,Oceania
+5,No,No Change,Satisfied,2,Europe
+2,Yes,No Change,Neutral,1,North America
+1,No,Decrease,Neutral,1,Asia
+3,Yes,Decrease,Unsatisfied,5,South America
+2,No,No Change,Satisfied,4,North America
+1,No,Decrease,Neutral,3,Africa
+3,No,No Change,Unsatisfied,4,South America
+3,Yes,No Change,Neutral,3,South America
+5,No,No Change,Neutral,1,Europe
+5,Yes,No Change,Unsatisfied,3,Europe
+3,No,Decrease,Satisfied,3,Asia
+3,Yes,No Change,Satisfied,3,Africa
+3,Yes,No Change,Satisfied,5,South America
+2,No,Increase,Unsatisfied,1,Asia
+4,Yes,Increase,Neutral,5,Asia
+3,No,Decrease,Satisfied,2,South America
+3,Yes,Increase,Neutral,3,Asia
+3,No,Decrease,Satisfied,1,Asia
+2,No,Increase,Satisfied,4,Asia
+5,No,No Change,Satisfied,5,Oceania
+5,Yes,Decrease,Unsatisfied,2,Asia
+4,No,No Change,Neutral,3,Oceania
+2,No,No Change,Satisfied,2,Europe
+2,No,Increase,Satisfied,3,Africa
+1,No,Increase,Satisfied,5,Africa
+5,No,Increase,Satisfied,2,Africa
+1,No,Increase,Unsatisfied,1,South America
+5,No,No Change,Neutral,2,South America
+4,No,Decrease,Unsatisfied,4,North America
+3,No,Decrease,Unsatisfied,2,North America
+4,No,No Change,Satisfied,1,Oceania
+5,Yes,Increase,Satisfied,4,North America
+5,No,Increase,Satisfied,1,Asia
+1,No,Decrease,Satisfied,4,Africa
+5,No,Decrease,Unsatisfied,3,South America
+5,Yes,Decrease,Neutral,2,Africa
+2,No,Decrease,Satisfied,5,South America
+3,No,No Change,Satisfied,2,South America
+2,No,No Change,Unsatisfied,3,South America
+5,No,Decrease,Satisfied,2,Africa
+2,No,No Change,Unsatisfied,5,Africa
+2,Yes,Decrease,Neutral,3,North America
+1,Yes,No Change,Unsatisfied,4,North America
+1,Yes,Increase,Satisfied,2,South America
+3,No,Decrease,Satisfied,2,Oceania
+5,Yes,Decrease,Neutral,2,Asia
+3,Yes,No Change,Neutral,5,Africa
+2,No,Decrease,Unsatisfied,5,Asia
+2,No,No Change,Satisfied,2,Europe
+3,No,Increase,Unsatisfied,3,Europe
+3,Yes,Decrease,Unsatisfied,5,Asia
+1,No,No Change,Satisfied,5,Europe
+4,Yes,No Change,Satisfied,3,Asia
+4,Yes,Increase,Satisfied,2,Africa
+5,Yes,Increase,Unsatisfied,2,Europe
+2,Yes,Increase,Satisfied,1,Europe
+2,Yes,Increase,Satisfied,3,South America
+3,No,No Change,Unsatisfied,5,Africa
+3,No,Increase,Satisfied,5,Oceania
+4,No,No Change,Satisfied,3,North America
+5,Yes,Decrease,Unsatisfied,1,South America
+2,No,Increase,Neutral,4,Asia
+5,Yes,Decrease,Neutral,2,Europe
+3,No,Decrease,Neutral,4,North America
+3,No,Increase,Satisfied,2,Oceania
+1,Yes,No Change,Satisfied,3,North America
+2,Yes,Decrease,Satisfied,5,South America
+1,No,Decrease,Neutral,4,Asia
+1,No,Decrease,Unsatisfied,4,Oceania
+1,Yes,No Change,Unsatisfied,4,Africa
+2,No,Increase,Neutral,1,North America
+1,No,No Change,Neutral,5,Oceania
+2,No,Increase,Unsatisfied,2,North America
+5,No,No Change,Satisfied,1,Oceania
+1,Yes,No Change,Neutral,1,Europe
+5,No,Decrease,Neutral,1,North America
+1,Yes,No Change,Neutral,2,Europe
+3,No,Decrease,Satisfied,3,Asia
+2,Yes,Decrease,Unsatisfied,5,Asia
+5,Yes,Decrease,Unsatisfied,3,Asia
+2,No,No Change,Satisfied,4,South America
+1,Yes,Increase,Unsatisfied,3,Asia
+3,No,No Change,Unsatisfied,5,Oceania
+3,Yes,Increase,Neutral,4,South America
+2,No,Increase,Neutral,3,Oceania
+2,Yes,No Change,Satisfied,3,Oceania
+1,No,No Change,Neutral,2,Europe
+2,No,Increase,Satisfied,2,Asia
+3,No,Decrease,Neutral,3,South America
+3,Yes,Increase,Neutral,5,Oceania
+5,Yes,No Change,Satisfied,3,Oceania
+2,Yes,No Change,Unsatisfied,2,Oceania
+2,No,Decrease,Neutral,1,South America
+5,No,Decrease,Satisfied,3,Asia
+1,No,No Change,Unsatisfied,4,Oceania
+1,No,Increase,Neutral,4,South America
+1,No,No Change,Satisfied,3,Asia
+4,No,Increase,Unsatisfied,3,Asia
+5,Yes,Decrease,Neutral,4,Europe
+1,No,Decrease,Neutral,2,North America
+3,No,Decrease,Unsatisfied,5,South America
+3,Yes,No Change,Satisfied,4,North America
+4,No,Increase,Satisfied,2,Africa
+5,No,Decrease,Satisfied,3,Oceania
+5,No,Decrease,Unsatisfied,1,Asia
+4,Yes,No Change,Neutral,1,Africa
+3,Yes,Increase,Satisfied,3,Oceania
+3,No,No Change,Neutral,1,Europe
+5,No,No Change,Unsatisfied,2,Europe
+5,Yes,Increase,Satisfied,5,Europe
+5,No,Increase,Neutral,4,Asia
+3,Yes,Decrease,Neutral,1,Asia
+3,Yes,No Change,Unsatisfied,5,North America
+1,Yes,Increase,Unsatisfied,4,South America
+5,No,No Change,Neutral,3,North America
+2,Yes,No Change,Neutral,4,Asia
+5,Yes,No Change,Neutral,5,South America
+1,No,Decrease,Unsatisfied,2,South America
+4,No,No Change,Unsatisfied,1,South America
+3,No,Increase,Unsatisfied,4,Europe
+4,Yes,No Change,Neutral,1,Africa
+2,No,Decrease,Satisfied,4,Asia
+2,No,Increase,Satisfied,3,Oceania
+4,Yes,No Change,Neutral,1,Europe
+3,Yes,Decrease,Satisfied,1,North America
+5,No,Increase,Neutral,2,South America
+1,Yes,Increase,Unsatisfied,3,Africa
+5,Yes,Decrease,Satisfied,2,Europe
+2,Yes,No Change,Satisfied,3,Africa
+2,No,Increase,Unsatisfied,1,Europe
+1,No,No Change,Neutral,4,Africa
+2,No,Decrease,Neutral,3,North America
+5,No,Increase,Unsatisfied,1,Oceania
+2,No,Decrease,Unsatisfied,4,South America
+2,Yes,Decrease,Neutral,2,Asia
+2,No,No Change,Satisfied,5,Europe
+2,Yes,Increase,Satisfied,1,Oceania
+5,Yes,No Change,Satisfied,2,Oceania
+5,Yes,Increase,Unsatisfied,5,Africa
+3,Yes,Decrease,Neutral,5,Oceania
+2,No,Increase,Satisfied,4,Africa
+1,No,Increase,Unsatisfied,4,Oceania
+4,Yes,No Change,Satisfied,4,North America
+1,No,Increase,Satisfied,5,Europe
+1,Yes,No Change,Neutral,1,Oceania
+3,No,No Change,Neutral,4,North America
+4,Yes,Decrease,Neutral,1,North America
+2,Yes,Increase,Neutral,4,Oceania
+4,Yes,Decrease,Satisfied,1,South America
+2,No,No Change,Neutral,5,South America
+3,Yes,Decrease,Neutral,1,Africa
+3,No,No Change,Neutral,4,Asia
+1,Yes,Decrease,Satisfied,5,Asia
+1,No,Increase,Satisfied,2,Europe
+5,No,Decrease,Unsatisfied,4,North America
+4,No,No Change,Unsatisfied,5,Africa
+4,Yes,Increase,Satisfied,4,Africa
+1,Yes,Increase,Unsatisfied,3,Europe
+4,Yes,Increase,Neutral,5,Europe
+1,Yes,Decrease,Neutral,4,Europe
+3,No,No Change,Satisfied,4,Europe
+5,Yes,No Change,Unsatisfied,4,South America
+2,No,Increase,Unsatisfied,3,Africa
+5,Yes,No Change,Unsatisfied,4,Europe
+1,No,Increase,Satisfied,2,Asia
+2,Yes,Increase,Neutral,5,North America
+5,No,Decrease,Satisfied,2,Asia
+2,No,No Change,Unsatisfied,3,Africa
+4,Yes,No Change,Neutral,2,North America
+1,Yes,Increase,Satisfied,2,South America
+2,No,No Change,Neutral,4,Africa
+1,Yes,Decrease,Satisfied,3,Africa
+3,Yes,Increase,Satisfied,5,Europe
+3,Yes,Decrease,Satisfied,2,Oceania
+5,No,Decrease,Satisfied,1,Africa
+3,No,No Change,Satisfied,3,Europe
+3,No,Increase,Neutral,1,North America
+2,No,Decrease,Unsatisfied,2,Asia
+4,Yes,Decrease,Neutral,4,Asia
+4,Yes,Decrease,Neutral,3,Oceania
+3,Yes,No Change,Neutral,1,Africa
+5,Yes,No Change,Satisfied,5,Oceania
+2,No,Increase,Unsatisfied,3,Europe
+3,No,Increase,Satisfied,5,North America
+4,Yes,No Change,Unsatisfied,3,Asia
+2,No,No Change,Unsatisfied,5,Oceania
+2,No,Decrease,Satisfied,2,Asia
+2,Yes,Increase,Unsatisfied,5,Asia
+2,No,No Change,Unsatisfied,1,Oceania
+1,No,Increase,Unsatisfied,4,Africa
+5,Yes,Decrease,Unsatisfied,1,Oceania
+5,No,Increase,Neutral,2,Asia
+5,No,No Change,Satisfied,3,Oceania
+2,Yes,No Change,Neutral,1,South America
+5,Yes,Increase,Satisfied,4,Oceania
+3,Yes,Increase,Neutral,3,Asia
+1,No,Decrease,Unsatisfied,3,Africa
+4,Yes,Increase,Unsatisfied,4,North America
+4,No,No Change,Satisfied,1,North America
+1,Yes,Decrease,Neutral,4,Oceania
+5,No,Increase,Neutral,1,Asia
+2,Yes,Increase,Neutral,3,Asia
+2,Yes,Increase,Unsatisfied,5,Asia
+5,No,No Change,Satisfied,2,Europe
+5,No,Decrease,Satisfied,4,Oceania
+1,No,No Change,Neutral,5,South America
+3,No,Decrease,Satisfied,5,Europe
+4,No,No Change,Neutral,5,Oceania
+3,Yes,Decrease,Unsatisfied,5,Africa
+3,Yes,No Change,Unsatisfied,2,Oceania
+1,No,Increase,Satisfied,3,South America
+2,No,No Change,Satisfied,4,South America
+1,No,No Change,Satisfied,5,Oceania
+2,Yes,Increase,Neutral,4,Oceania
+1,Yes,No Change,Neutral,2,Africa
+5,Yes,Decrease,Neutral,3,North America
+1,Yes,Decrease,Neutral,1,Asia
+2,Yes,Decrease,Neutral,3,Europe
+1,Yes,Decrease,Neutral,5,Europe
+5,Yes,Decrease,Neutral,3,Asia
+5,No,Increase,Unsatisfied,1,Asia
+1,No,Increase,Neutral,3,South America
+4,Yes,No Change,Satisfied,1,North America
+4,No,Decrease,Neutral,1,South America
+5,No,No Change,Neutral,5,Asia
+5,No,No Change,Neutral,5,Oceania
+5,Yes,No Change,Satisfied,1,Africa
+4,Yes,Increase,Neutral,3,North America
+3,Yes,Increase,Satisfied,2,Europe
+5,No,Increase,Satisfied,4,North America
+5,Yes,Decrease,Unsatisfied,5,Oceania
+3,No,Decrease,Neutral,2,Africa
+3,No,No Change,Unsatisfied,3,South America
+1,Yes,Decrease,Satisfied,1,Africa
+4,No,No Change,Neutral,2,Asia
+3,Yes,Decrease,Unsatisfied,2,Oceania
+3,No,Increase,Satisfied,2,Europe
+4,Yes,Decrease,Satisfied,1,South America
+4,Yes,Decrease,Neutral,4,South America
+3,Yes,Increase,Neutral,2,Africa
+3,No,No Change,Unsatisfied,1,Asia
+1,No,No Change,Satisfied,4,Asia
+2,No,Increase,Satisfied,2,Oceania
+5,Yes,Increase,Unsatisfied,2,North America
+4,Yes,Decrease,Satisfied,5,North America
+3,No,No Change,Neutral,5,Africa
+4,No,Decrease,Satisfied,1,Europe
+3,No,No Change,Unsatisfied,3,North America
+1,No,No Change,Satisfied,5,Africa
+3,No,No Change,Neutral,3,Asia
+2,Yes,Increase,Neutral,2,Asia
+5,No,Increase,Neutral,4,Asia
+5,Yes,Decrease,Unsatisfied,3,Asia
+4,Yes,Increase,Satisfied,3,South America
+5,Yes,No Change,Neutral,5,North America
+4,Yes,Increase,Satisfied,5,Asia
+3,Yes,Decrease,Neutral,2,Oceania
+4,No,Decrease,Satisfied,5,Europe
+3,Yes,Increase,Satisfied,5,South America
+1,No,Increase,Satisfied,2,North America
+2,No,No Change,Unsatisfied,4,Europe
+5,No,Increase,Satisfied,5,South America
+3,No,No Change,Satisfied,4,Europe
+3,No,Increase,Unsatisfied,1,South America
+4,No,Decrease,Unsatisfied,4,Africa
+1,Yes,Decrease,Satisfied,3,North America
+3,Yes,Increase,Neutral,4,Asia
+1,Yes,Decrease,Satisfied,5,Asia
+5,Yes,Decrease,Satisfied,4,Africa
+2,Yes,Decrease,Satisfied,1,North America
+5,Yes,Decrease,Unsatisfied,5,Africa
+1,No,Increase,Neutral,4,Africa
+3,Yes,Decrease,Unsatisfied,2,North America
+2,No,Increase,Unsatisfied,5,South America
+4,Yes,Decrease,Satisfied,1,Asia
+4,Yes,Increase,Unsatisfied,5,Asia
+2,Yes,No Change,Neutral,4,North America
+5,Yes,No Change,Neutral,5,North America
+3,No,Increase,Unsatisfied,2,Oceania
+2,No,Decrease,Satisfied,4,North America
+3,Yes,Decrease,Satisfied,1,North America
+5,No,Decrease,Unsatisfied,3,Oceania
+5,Yes,Increase,Unsatisfied,3,Oceania
+2,Yes,No Change,Unsatisfied,1,Europe
+3,No,Decrease,Unsatisfied,2,Africa
+5,Yes,Increase,Satisfied,4,North America
+4,Yes,No Change,Satisfied,1,North America
+5,Yes,No Change,Neutral,3,Asia
+4,No,No Change,Unsatisfied,1,North America
+4,Yes,Decrease,Satisfied,3,Africa
+3,No,Decrease,Satisfied,5,Europe
+4,Yes,Decrease,Satisfied,2,Africa
+4,Yes,Decrease,Unsatisfied,5,Europe
+5,Yes,Increase,Unsatisfied,1,South America
+3,Yes,Decrease,Unsatisfied,1,South America
+2,No,Decrease,Satisfied,1,Europe
+1,No,Decrease,Neutral,4,North America
+3,Yes,No Change,Unsatisfied,2,Africa
+5,Yes,No Change,Unsatisfied,4,Africa
+4,No,Decrease,Unsatisfied,3,Oceania
+2,No,No Change,Neutral,5,North America
+4,No,No Change,Satisfied,1,Oceania
+4,No,Increase,Neutral,5,North America
+2,No,Decrease,Neutral,1,North America
+4,Yes,Increase,Satisfied,5,South America
+2,Yes,No Change,Satisfied,2,North America
+1,No,Increase,Neutral,5,Africa
+3,Yes,Decrease,Satisfied,5,Asia
+4,No,No Change,Satisfied,4,Oceania
+1,No,Decrease,Satisfied,3,North America
+2,Yes,Increase,Neutral,3,Africa
+5,Yes,No Change,Unsatisfied,2,South America
+4,Yes,No Change,Unsatisfied,3,Asia
+4,Yes,Increase,Neutral,4,Europe
+1,Yes,No Change,Unsatisfied,1,South America
+1,Yes,Decrease,Neutral,3,Africa
+5,No,Increase,Satisfied,4,Asia
+2,Yes,Decrease,Neutral,5,Asia
+1,Yes,No Change,Unsatisfied,3,North America
+2,No,No Change,Unsatisfied,2,Oceania
+3,Yes,Decrease,Neutral,4,North America
+4,Yes,No Change,Unsatisfied,2,South America
+3,Yes,No Change,Neutral,5,Oceania
+1,No,Increase,Neutral,5,Europe
+5,Yes,Decrease,Neutral,2,Oceania
+1,No,No Change,Neutral,4,Europe
+3,No,Increase,Neutral,1,South America
+4,Yes,Decrease,Neutral,4,Oceania
+5,No,Increase,Unsatisfied,5,Oceania
+3,No,No Change,Satisfied,1,Africa
+5,Yes,Increase,Unsatisfied,4,Africa
+3,Yes,Decrease,Satisfied,1,Europe
+4,No,No Change,Satisfied,3,South America
+5,Yes,No Change,Unsatisfied,3,Oceania
+1,No,No Change,Neutral,2,Oceania
+1,No,No Change,Neutral,2,Africa
+4,Yes,No Change,Neutral,4,North America
+1,No,No Change,Satisfied,3,Oceania
+5,Yes,Increase,Satisfied,2,North America
+5,Yes,No Change,Neutral,1,Oceania
+1,No,Increase,Satisfied,1,Europe
+1,Yes,No Change,Neutral,5,North America
+3,Yes,Decrease,Neutral,1,South America
+2,No,Increase,Satisfied,4,South America
+5,No,Decrease,Satisfied,5,Oceania
+5,Yes,No Change,Unsatisfied,4,North America
+3,Yes,Increase,Unsatisfied,5,Oceania
+4,No,Increase,Unsatisfied,1,Oceania
+5,Yes,Decrease,Unsatisfied,2,Africa
+2,Yes,Decrease,Unsatisfied,4,Africa
+4,Yes,Decrease,Unsatisfied,2,Africa
+4,Yes,Increase,Neutral,4,South America
+5,No,No Change,Unsatisfied,5,South America
+5,No,Increase,Satisfied,4,Oceania
+1,No,No Change,Satisfied,2,North America
+5,No,Decrease,Neutral,1,Africa
+3,Yes,No Change,Neutral,4,Asia
+5,Yes,No Change,Unsatisfied,2,North America
+3,Yes,Increase,Neutral,3,Asia
+4,No,Decrease,Neutral,1,Asia
+3,Yes,Increase,Neutral,3,Africa
+2,No,Decrease,Satisfied,3,Oceania
+3,No,Increase,Unsatisfied,4,Europe
+3,No,Decrease,Satisfied,3,Oceania
+4,Yes,No Change,Neutral,1,Oceania
+1,No,Increase,Unsatisfied,4,Africa
+1,Yes,No Change,Satisfied,1,South America
+1,Yes,Decrease,Unsatisfied,1,Asia
+4,No,Increase,Neutral,3,Africa
+5,No,No Change,Unsatisfied,5,Asia
+5,Yes,Increase,Unsatisfied,2,Africa
+1,Yes,Decrease,Unsatisfied,4,Oceania
+3,No,No Change,Unsatisfied,4,Asia
+3,No,Decrease,Satisfied,5,Oceania
+1,No,No Change,Unsatisfied,1,Europe
+5,Yes,Decrease,Unsatisfied,3,South America
+1,Yes,Increase,Satisfied,1,Africa
+3,No,Increase,Satisfied,4,Oceania
+3,No,No Change,Neutral,5,Africa
+2,Yes,Increase,Satisfied,2,South America
+4,No,No Change,Neutral,4,Europe
+5,Yes,No Change,Unsatisfied,5,South America
+5,No,No Change,Unsatisfied,3,Africa
+2,Yes,Decrease,Unsatisfied,1,South America
+2,No,Decrease,Unsatisfied,5,North America
+3,No,Increase,Satisfied,2,Africa
+2,No,No Change,Unsatisfied,1,Oceania
+1,Yes,Increase,Neutral,3,Europe
+5,No,Decrease,Unsatisfied,3,South America
+1,No,Increase,Satisfied,1,Asia
+4,Yes,No Change,Satisfied,1,Africa
+4,Yes,No Change,Unsatisfied,3,Africa
+5,No,Decrease,Unsatisfied,2,Oceania
+3,Yes,No Change,Neutral,5,South America
+1,No,Increase,Neutral,3,Africa
+3,Yes,No Change,Unsatisfied,1,Europe
+2,No,No Change,Satisfied,1,Europe
+4,No,No Change,Neutral,4,Asia
+2,Yes,No Change,Neutral,1,North America
+1,Yes,Increase,Satisfied,1,Oceania
+1,Yes,Decrease,Unsatisfied,3,Oceania
+3,No,Decrease,Unsatisfied,4,Oceania
+5,Yes,Increase,Neutral,4,Asia
+2,Yes,Decrease,Unsatisfied,5,Africa
+1,Yes,Increase,Unsatisfied,5,Africa
+4,No,Decrease,Satisfied,2,Europe
+3,No,No Change,Neutral,1,Oceania
+1,Yes,Decrease,Satisfied,2,Oceania
+5,Yes,Increase,Neutral,2,Europe
+5,Yes,No Change,Unsatisfied,2,Asia
+4,Yes,Decrease,Unsatisfied,3,South America
+5,Yes,Decrease,Neutral,4,Africa
+4,No,No Change,Unsatisfied,4,South America
+2,Yes,Decrease,Neutral,2,Oceania
+4,Yes,Decrease,Unsatisfied,1,Asia
+2,No,Decrease,Satisfied,2,South America
+4,No,No Change,Neutral,5,South America
+1,Yes,No Change,Satisfied,5,Asia
+4,Yes,No Change,Unsatisfied,4,Africa
+5,No,Increase,Unsatisfied,4,North America
+5,Yes,Decrease,Unsatisfied,2,Asia
+3,No,Increase,Neutral,3,Oceania
+3,No,No Change,Neutral,4,South America
+2,Yes,No Change,Unsatisfied,3,Europe
+5,Yes,Increase,Neutral,3,Asia
+5,Yes,Decrease,Satisfied,1,Africa
+5,Yes,Decrease,Unsatisfied,3,South America
+5,Yes,Decrease,Unsatisfied,1,North America
+5,Yes,No Change,Neutral,2,Asia
+4,Yes,No Change,Neutral,1,North America
+2,No,No Change,Satisfied,5,South America
+2,Yes,Increase,Satisfied,5,Africa
+4,Yes,Increase,Neutral,5,Oceania
+2,No,Increase,Satisfied,5,Africa
+5,No,Decrease,Unsatisfied,1,South America
+2,No,No Change,Unsatisfied,1,South America
+2,No,Decrease,Neutral,3,South America
+1,Yes,No Change,Satisfied,5,Asia
+4,Yes,No Change,Neutral,2,Europe
+1,Yes,Increase,Satisfied,4,South America
+2,No,Decrease,Unsatisfied,3,North America
+3,Yes,Increase,Satisfied,2,Asia
+4,Yes,No Change,Satisfied,3,Europe
+4,No,No Change,Neutral,1,Europe
+3,Yes,Increase,Neutral,5,Asia
+5,Yes,No Change,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,1,Asia
+2,Yes,Increase,Satisfied,5,North America
+5,Yes,No Change,Satisfied,1,Asia
+5,Yes,Increase,Satisfied,3,Oceania
+1,No,Decrease,Satisfied,1,South America
+3,Yes,Decrease,Unsatisfied,3,Oceania
+1,Yes,Increase,Neutral,5,North America
+5,No,Decrease,Unsatisfied,4,South America
+5,Yes,Decrease,Satisfied,4,Oceania
+5,Yes,Increase,Unsatisfied,2,North America
+2,Yes,No Change,Satisfied,2,North America
+4,Yes,Decrease,Unsatisfied,1,South America
+5,No,No Change,Neutral,3,Asia
+1,No,Increase,Unsatisfied,3,Oceania
+4,Yes,No Change,Neutral,1,Oceania
+2,No,Increase,Satisfied,4,Asia
+4,No,Increase,Satisfied,2,South America
+4,Yes,Increase,Unsatisfied,3,South America
+1,No,Increase,Satisfied,5,Asia
+3,No,Decrease,Neutral,3,Europe
+5,No,No Change,Satisfied,2,South America
+1,Yes,No Change,Neutral,2,Africa
+5,Yes,Decrease,Satisfied,1,Asia
+4,No,No Change,Satisfied,4,South America
+4,Yes,No Change,Unsatisfied,1,North America
+1,No,Increase,Neutral,2,South America
+2,Yes,No Change,Neutral,5,Africa
+4,No,No Change,Neutral,4,Asia
+5,No,Decrease,Neutral,5,South America
+4,Yes,Decrease,Neutral,5,Europe
+2,Yes,Decrease,Unsatisfied,5,Europe
+3,No,Decrease,Neutral,4,North America
+5,Yes,Increase,Unsatisfied,3,South America
+3,No,No Change,Unsatisfied,5,Europe
+1,No,Increase,Satisfied,5,North America
+3,No,Decrease,Satisfied,2,South America
+4,No,Increase,Satisfied,2,Asia
+5,Yes,Decrease,Neutral,4,Asia
+1,No,Decrease,Neutral,2,North America
+4,No,No Change,Unsatisfied,2,Oceania
+3,No,Decrease,Unsatisfied,5,Asia
+3,Yes,Increase,Unsatisfied,1,North America
+1,Yes,No Change,Neutral,2,Asia
+2,Yes,Decrease,Satisfied,5,Europe
+3,No,Decrease,Satisfied,3,South America
+4,No,Decrease,Unsatisfied,3,North America
+1,Yes,No Change,Unsatisfied,1,Africa
+1,Yes,Decrease,Neutral,1,Africa
+4,No,Decrease,Satisfied,3,South America
+2,Yes,No Change,Unsatisfied,5,Asia
+4,No,No Change,Neutral,4,Oceania
+4,Yes,Increase,Neutral,4,Oceania
+5,Yes,No Change,Satisfied,4,Oceania
+1,Yes,No Change,Satisfied,2,North America
+3,Yes,Increase,Neutral,5,North America
+3,Yes,No Change,Neutral,1,Asia
+1,No,No Change,Neutral,4,South America
+4,No,No Change,Unsatisfied,5,South America
+1,Yes,Decrease,Unsatisfied,3,South America
+1,Yes,No Change,Satisfied,5,South America
+1,No,Decrease,Unsatisfied,5,South America
+4,No,Decrease,Neutral,3,Asia
+2,No,Decrease,Unsatisfied,5,Africa
+4,No,Increase,Satisfied,3,Africa
+3,No,Decrease,Neutral,4,Oceania
+3,Yes,No Change,Unsatisfied,1,Oceania
+2,Yes,Decrease,Neutral,2,Oceania
+2,No,No Change,Unsatisfied,2,Africa
+3,Yes,No Change,Unsatisfied,4,Asia
+5,No,Decrease,Satisfied,3,Oceania
+3,Yes,No Change,Satisfied,3,North America
+2,No,Decrease,Neutral,5,Asia
+2,No,No Change,Neutral,1,Oceania
+4,No,No Change,Neutral,3,Africa
+5,No,Increase,Satisfied,1,North America
+1,No,Decrease,Satisfied,3,South America
+3,No,Increase,Unsatisfied,1,South America
+3,No,Decrease,Satisfied,1,South America
+5,Yes,Decrease,Satisfied,5,Oceania
+4,Yes,Increase,Satisfied,2,South America
+5,Yes,No Change,Neutral,1,Oceania
+5,Yes,No Change,Satisfied,5,Oceania
+4,No,No Change,Unsatisfied,3,North America
+2,No,Increase,Satisfied,3,North America
+3,Yes,No Change,Satisfied,2,Europe
+4,No,No Change,Unsatisfied,2,Oceania
+2,No,Decrease,Neutral,5,Asia
+2,Yes,Decrease,Unsatisfied,3,Africa
+4,No,No Change,Unsatisfied,1,North America
+1,No,Increase,Unsatisfied,2,North America
+5,No,Decrease,Unsatisfied,2,South America
+4,Yes,Increase,Unsatisfied,1,Europe
+2,Yes,Decrease,Unsatisfied,5,South America
+3,Yes,Increase,Neutral,2,North America
+5,Yes,Decrease,Unsatisfied,4,Oceania
+5,No,Increase,Unsatisfied,2,Europe
+5,No,Decrease,Unsatisfied,4,Africa
+4,No,Increase,Unsatisfied,3,Africa
+4,No,No Change,Neutral,3,Oceania
+2,Yes,Decrease,Satisfied,3,North America
+4,No,No Change,Satisfied,4,Africa
+5,No,No Change,Neutral,2,Europe
+5,No,No Change,Satisfied,2,Africa
+2,Yes,No Change,Satisfied,3,Africa
+5,No,No Change,Neutral,2,South America
+1,No,Decrease,Satisfied,1,Africa
+2,No,Decrease,Unsatisfied,4,South America
+3,Yes,Decrease,Unsatisfied,5,South America
+2,No,No Change,Neutral,2,North America
+1,No,Decrease,Neutral,1,Africa
+1,No,No Change,Unsatisfied,3,North America
+1,Yes,No Change,Satisfied,3,South America
+4,Yes,Increase,Neutral,1,Africa
+3,Yes,Increase,Neutral,4,Asia
+1,Yes,Decrease,Unsatisfied,4,Africa
+1,Yes,Decrease,Unsatisfied,2,Oceania
+4,No,Increase,Satisfied,2,Europe
+2,Yes,Decrease,Unsatisfied,3,North America
+5,No,No Change,Satisfied,5,Oceania
+3,Yes,No Change,Unsatisfied,4,Oceania
+1,No,No Change,Unsatisfied,5,Asia
+1,Yes,Increase,Neutral,1,Oceania
+1,No,Increase,Satisfied,5,South America
+1,Yes,Decrease,Neutral,3,South America
+1,Yes,No Change,Satisfied,3,South America
+5,Yes,No Change,Satisfied,1,Africa
+5,Yes,Increase,Unsatisfied,4,Africa
+5,No,No Change,Neutral,4,Africa
+2,No,Increase,Satisfied,2,South America
+1,No,Decrease,Satisfied,3,Africa
+3,No,Decrease,Satisfied,5,Asia
+2,No,Increase,Satisfied,1,South America
+3,Yes,No Change,Satisfied,3,Asia
+4,Yes,Decrease,Satisfied,2,South America
+2,No,No Change,Neutral,2,Oceania
+5,No,Decrease,Satisfied,2,South America
+1,No,Increase,Neutral,1,Africa
+4,Yes,No Change,Neutral,3,North America
+4,No,No Change,Satisfied,1,Oceania
+2,Yes,No Change,Satisfied,5,Europe
+1,Yes,No Change,Neutral,3,North America
+2,No,Increase,Neutral,5,Europe
+5,No,Increase,Neutral,2,Oceania
+2,Yes,Increase,Neutral,4,Africa
+2,No,Decrease,Satisfied,2,North America
+1,No,Increase,Neutral,4,South America
+2,Yes,Decrease,Neutral,5,Europe
+5,No,No Change,Satisfied,5,Oceania
+4,Yes,Decrease,Satisfied,2,South America
+1,Yes,Decrease,Satisfied,3,South America
+5,Yes,No Change,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,2,Asia
+1,No,Increase,Neutral,2,Europe
+1,No,No Change,Unsatisfied,1,Europe
+3,Yes,Increase,Satisfied,5,South America
+4,No,Increase,Unsatisfied,5,Africa
+1,No,Increase,Neutral,2,Oceania
+2,No,Increase,Neutral,5,North America
+1,No,Decrease,Neutral,2,North America
+2,Yes,Decrease,Satisfied,5,Europe
+3,No,No Change,Satisfied,1,Asia
+3,No,Increase,Unsatisfied,2,Africa
+3,No,No Change,Unsatisfied,5,Europe
+5,Yes,Decrease,Unsatisfied,1,Oceania
+3,No,No Change,Unsatisfied,4,Africa
+1,No,No Change,Unsatisfied,5,Asia
+4,Yes,No Change,Neutral,3,Europe
+1,Yes,Increase,Neutral,5,Africa
+1,No,Decrease,Satisfied,3,Oceania
+5,Yes,Decrease,Satisfied,1,Oceania
+4,Yes,Decrease,Unsatisfied,3,North America
+1,Yes,No Change,Satisfied,5,Oceania
+5,No,No Change,Neutral,2,North America
+1,Yes,No Change,Satisfied,3,North America
+3,Yes,Decrease,Neutral,2,Africa
+3,No,Increase,Unsatisfied,5,Oceania
+3,No,No Change,Satisfied,5,Europe
+3,Yes,No Change,Neutral,4,Asia
+4,Yes,No Change,Unsatisfied,2,South America
+2,No,Decrease,Neutral,1,Oceania
+1,Yes,Decrease,Unsatisfied,4,Asia
+4,Yes,No Change,Satisfied,4,Europe
+1,No,No Change,Neutral,5,South America
+1,Yes,Increase,Neutral,2,Europe
+1,No,Decrease,Unsatisfied,5,North America
+5,No,No Change,Satisfied,3,Africa
+1,Yes,No Change,Unsatisfied,4,Asia
+1,Yes,Increase,Unsatisfied,3,South America
+1,No,No Change,Neutral,2,Africa
+1,Yes,Decrease,Neutral,2,South America
+1,No,Decrease,Unsatisfied,1,Oceania
+1,Yes,No Change,Neutral,5,North America
+2,Yes,No Change,Satisfied,2,Oceania
+1,Yes,No Change,Neutral,4,Europe
+2,No,Decrease,Neutral,5,Europe
+5,Yes,No Change,Neutral,3,Asia
+3,Yes,Decrease,Unsatisfied,4,North America
+3,No,Increase,Unsatisfied,4,Africa
+2,Yes,Decrease,Unsatisfied,2,South America
+4,No,Decrease,Unsatisfied,5,South America
+1,Yes,Decrease,Unsatisfied,2,Oceania
+2,No,No Change,Neutral,1,Africa
+2,No,Increase,Unsatisfied,2,Asia
+4,No,Decrease,Neutral,4,Europe
+4,Yes,Decrease,Neutral,3,South America
+4,Yes,Decrease,Unsatisfied,1,Asia
+4,No,No Change,Satisfied,3,Asia
+5,No,No Change,Neutral,3,Oceania
+1,Yes,Increase,Unsatisfied,2,Oceania
+4,No,Increase,Unsatisfied,1,South America
+1,No,Increase,Satisfied,4,Oceania
+5,Yes,Decrease,Satisfied,2,Europe
+2,Yes,No Change,Neutral,3,Africa
+4,Yes,Increase,Unsatisfied,1,Africa
+2,Yes,Increase,Unsatisfied,4,Asia
+4,Yes,Increase,Unsatisfied,2,Europe
+5,Yes,No Change,Satisfied,4,Europe
+4,No,No Change,Satisfied,2,Oceania
+1,Yes,No Change,Neutral,3,North America
+4,Yes,Increase,Neutral,3,Asia
+4,No,Decrease,Neutral,5,Europe
+4,No,Decrease,Neutral,5,Asia
+4,Yes,Decrease,Neutral,3,Europe
+4,Yes,Decrease,Neutral,4,Asia
+3,No,Decrease,Unsatisfied,2,Europe
+2,No,Increase,Unsatisfied,2,North America
+5,No,Decrease,Neutral,4,North America
+5,No,No Change,Neutral,1,North America
+5,Yes,No Change,Unsatisfied,3,Africa
+1,No,Increase,Satisfied,2,South America
+3,Yes,Decrease,Unsatisfied,2,South America
+4,Yes,Decrease,Neutral,4,North America
+2,No,Decrease,Neutral,2,South America
+4,Yes,Decrease,Satisfied,2,Europe
+1,No,Increase,Satisfied,3,South America
+1,Yes,No Change,Satisfied,1,Asia
+3,Yes,No Change,Neutral,2,Oceania
+3,No,Increase,Satisfied,1,North America
+5,No,Decrease,Neutral,2,Oceania
+3,Yes,Increase,Neutral,1,South America
+3,No,Decrease,Neutral,2,Oceania
+3,No,Increase,Satisfied,1,Europe
+5,No,Decrease,Neutral,3,Europe
+4,Yes,Increase,Satisfied,2,Asia
+3,Yes,No Change,Neutral,1,Oceania
+2,No,Increase,Unsatisfied,2,South America
+4,Yes,Decrease,Unsatisfied,4,Africa
+2,No,Increase,Neutral,5,Africa
+3,No,No Change,Neutral,3,Africa
+1,Yes,Decrease,Unsatisfied,2,Asia
+2,No,No Change,Unsatisfied,1,Europe
+1,Yes,Increase,Neutral,3,South America
+3,Yes,No Change,Satisfied,4,South America
+2,No,No Change,Unsatisfied,5,Europe
+4,No,Decrease,Unsatisfied,3,Asia
+1,Yes,Decrease,Unsatisfied,1,Europe
+1,Yes,Decrease,Unsatisfied,5,Oceania
+1,Yes,Increase,Unsatisfied,3,Africa
+1,Yes,Increase,Neutral,3,Oceania
+1,Yes,No Change,Neutral,2,Africa
+2,No,Increase,Satisfied,1,South America
+2,No,Increase,Unsatisfied,1,Africa
+1,No,No Change,Satisfied,1,Asia
+2,No,Decrease,Unsatisfied,2,North America
+4,Yes,No Change,Neutral,2,Oceania
+3,No,Increase,Unsatisfied,5,Oceania
+1,No,Increase,Neutral,2,North America
+1,No,Increase,Satisfied,3,Europe
+4,No,Increase,Neutral,5,South America
+4,Yes,Decrease,Satisfied,1,Oceania
+1,No,Increase,Neutral,1,Oceania
+4,Yes,Increase,Neutral,2,North America
+1,Yes,No Change,Unsatisfied,5,Africa
+4,No,No Change,Unsatisfied,3,Africa
+4,Yes,Decrease,Neutral,2,Oceania
+2,Yes,Decrease,Unsatisfied,4,South America
+3,Yes,Decrease,Neutral,1,Africa
+2,Yes,Increase,Unsatisfied,3,Africa
+4,No,Increase,Unsatisfied,4,Oceania
+2,No,Decrease,Satisfied,1,Europe
+2,Yes,No Change,Unsatisfied,1,Asia
+5,Yes,No Change,Unsatisfied,3,South America
+1,No,Increase,Satisfied,1,Oceania
+3,No,Increase,Satisfied,5,Africa
+1,Yes,Decrease,Satisfied,3,Oceania
+1,Yes,No Change,Neutral,5,Europe
+3,Yes,Increase,Neutral,3,Europe
+2,Yes,Increase,Satisfied,3,Africa
+5,Yes,Increase,Satisfied,4,Oceania
+4,No,Decrease,Unsatisfied,2,Asia
+2,Yes,Increase,Unsatisfied,4,Africa
+2,No,Decrease,Satisfied,1,Europe
+1,No,Increase,Satisfied,2,North America
+1,Yes,No Change,Unsatisfied,4,Oceania
+4,No,Increase,Satisfied,1,Oceania
+5,No,Decrease,Unsatisfied,2,South America
+2,No,Decrease,Unsatisfied,1,Oceania
+1,No,No Change,Unsatisfied,5,South America
+3,No,No Change,Satisfied,3,Oceania
+3,No,Decrease,Satisfied,4,North America
+1,Yes,Increase,Neutral,2,Asia
+2,Yes,Decrease,Satisfied,4,Africa
+3,No,Increase,Satisfied,5,Oceania
+1,No,No Change,Satisfied,4,Africa
+2,Yes,Decrease,Neutral,1,Europe
+4,No,Increase,Satisfied,2,Africa
+5,No,Increase,Neutral,4,Africa
+3,Yes,Decrease,Unsatisfied,3,Oceania
+3,Yes,No Change,Neutral,2,Africa
+4,No,No Change,Satisfied,3,North America
+2,No,Increase,Neutral,1,Africa
+5,No,Decrease,Neutral,5,South America
+1,No,Decrease,Satisfied,5,Europe
+2,No,No Change,Satisfied,3,Asia
+4,No,No Change,Unsatisfied,1,South America
+2,Yes,No Change,Neutral,1,Africa
+5,No,Increase,Unsatisfied,5,Asia
+3,No,No Change,Satisfied,4,North America
+1,Yes,Increase,Neutral,5,Asia
+5,No,Increase,Unsatisfied,5,Europe
+3,Yes,Decrease,Unsatisfied,4,South America
+2,Yes,No Change,Satisfied,5,Africa
+3,No,Increase,Unsatisfied,5,North America
+5,No,Increase,Neutral,5,Europe
+3,Yes,No Change,Neutral,1,Asia
+1,No,Increase,Satisfied,3,Africa
+2,Yes,Decrease,Unsatisfied,3,Africa
+5,No,No Change,Satisfied,5,Europe
+1,No,No Change,Satisfied,3,Africa
+2,No,Increase,Neutral,4,Asia
+3,No,Decrease,Unsatisfied,2,North America
+1,Yes,Increase,Neutral,5,Europe
+1,No,No Change,Satisfied,5,Oceania
+2,Yes,Decrease,Satisfied,5,Asia
+1,No,No Change,Unsatisfied,4,Africa
+3,No,Increase,Satisfied,2,North America
+4,Yes,Decrease,Neutral,2,Oceania
+4,Yes,Decrease,Unsatisfied,4,Asia
+3,Yes,Decrease,Unsatisfied,3,Asia
+4,Yes,No Change,Unsatisfied,2,Asia
+3,Yes,Decrease,Unsatisfied,1,Oceania
+4,No,Increase,Neutral,3,Oceania
+5,No,Decrease,Neutral,3,North America
+3,No,No Change,Unsatisfied,3,South America
+5,No,Decrease,Unsatisfied,5,South America
+2,Yes,Decrease,Unsatisfied,2,Europe
+4,Yes,Increase,Satisfied,3,Oceania
+3,Yes,Increase,Satisfied,3,Oceania
+1,No,Decrease,Unsatisfied,3,Europe
+1,Yes,Increase,Unsatisfied,1,North America
+3,Yes,No Change,Satisfied,3,North America
+5,Yes,Decrease,Satisfied,5,Asia
+1,Yes,Decrease,Satisfied,4,North America
+5,No,Increase,Unsatisfied,1,South America
+2,Yes,Increase,Satisfied,2,Africa
+1,No,No Change,Satisfied,3,North America
+1,No,Decrease,Satisfied,5,Oceania
+2,Yes,Decrease,Neutral,5,Europe
+5,Yes,Decrease,Neutral,3,South America
+1,No,Decrease,Neutral,3,Africa
+4,No,No Change,Satisfied,5,North America
+3,Yes,No Change,Unsatisfied,4,South America
+4,Yes,Decrease,Satisfied,4,Europe
+2,No,Decrease,Neutral,4,Asia
+3,Yes,No Change,Satisfied,3,Asia
+3,Yes,Increase,Unsatisfied,1,Europe
+2,No,Decrease,Neutral,4,Oceania
+4,Yes,Decrease,Satisfied,5,Europe
+2,Yes,Decrease,Neutral,3,North America
+3,Yes,Decrease,Satisfied,4,Africa
+2,Yes,Decrease,Neutral,1,Asia
+4,No,No Change,Satisfied,4,Europe
+2,Yes,Decrease,Satisfied,1,South America
+5,Yes,Decrease,Neutral,1,North America
+5,No,Decrease,Satisfied,5,South America
+2,Yes,Decrease,Satisfied,4,Africa
+1,No,Increase,Satisfied,1,Asia
+4,Yes,Decrease,Satisfied,2,Europe
+2,No,Increase,Unsatisfied,1,South America
+1,Yes,No Change,Satisfied,4,Europe
+5,Yes,Increase,Neutral,4,Europe
+4,Yes,Decrease,Satisfied,2,Oceania
+5,Yes,No Change,Satisfied,1,Oceania
+2,No,Increase,Unsatisfied,2,Europe
+1,Yes,Increase,Neutral,2,Europe
+3,Yes,Increase,Unsatisfied,2,Europe
+1,No,Decrease,Satisfied,3,North America
+5,Yes,No Change,Satisfied,1,Europe
+2,Yes,No Change,Satisfied,4,Africa
+1,No,Increase,Neutral,5,South America
+4,Yes,Increase,Neutral,5,South America
+2,Yes,No Change,Unsatisfied,4,Asia
+1,No,No Change,Unsatisfied,5,Asia
+2,No,Decrease,Neutral,4,Asia
+2,No,No Change,Unsatisfied,4,North America
+2,No,No Change,Satisfied,4,South America
+5,Yes,Decrease,Satisfied,3,Africa
+2,Yes,Decrease,Unsatisfied,2,North America
+3,No,Decrease,Satisfied,4,Asia
+5,Yes,Increase,Neutral,5,Asia
+3,Yes,No Change,Neutral,5,North America
+4,Yes,Increase,Neutral,3,South America
+5,Yes,No Change,Neutral,5,South America
+2,Yes,Decrease,Satisfied,5,North America
+3,Yes,Decrease,Unsatisfied,1,North America
+1,No,Increase,Neutral,4,Europe
+2,Yes,Increase,Unsatisfied,4,Europe
+5,No,Decrease,Unsatisfied,2,South America
+1,No,No Change,Neutral,2,Oceania
+3,No,No Change,Neutral,3,Asia
+4,No,Decrease,Satisfied,5,Africa
+1,Yes,Decrease,Satisfied,1,Oceania
+2,Yes,No Change,Satisfied,5,South America
+5,No,No Change,Unsatisfied,5,South America
+4,Yes,Decrease,Satisfied,3,Oceania
+4,Yes,Decrease,Unsatisfied,4,North America
+3,No,No Change,Unsatisfied,5,Asia
+2,No,Increase,Satisfied,3,Europe
+2,No,Increase,Unsatisfied,1,Africa
+2,No,No Change,Unsatisfied,5,South America
+2,Yes,Increase,Neutral,3,Africa
+1,No,Decrease,Neutral,3,Oceania
+3,No,Increase,Unsatisfied,1,Europe
+3,No,No Change,Unsatisfied,1,Oceania
+2,Yes,Increase,Satisfied,3,Asia
+2,No,No Change,Neutral,5,Asia
+1,Yes,Decrease,Unsatisfied,1,Asia
+3,No,Increase,Satisfied,4,Europe
+1,Yes,Decrease,Neutral,1,Europe
+1,Yes,Increase,Satisfied,3,Europe
+1,Yes,Increase,Satisfied,3,Europe
+3,Yes,Increase,Neutral,2,Europe
+5,Yes,Decrease,Unsatisfied,1,Europe
+5,Yes,No Change,Unsatisfied,1,Africa
+1,No,No Change,Unsatisfied,2,Europe
+3,No,Decrease,Unsatisfied,1,Asia
+1,Yes,Increase,Satisfied,2,South America
+5,Yes,No Change,Neutral,1,Europe
+3,Yes,Increase,Neutral,3,Europe
+5,No,No Change,Neutral,3,Oceania
+3,No,No Change,Unsatisfied,1,South America
+1,No,Decrease,Neutral,5,Europe
+1,Yes,No Change,Satisfied,1,Africa
+1,No,Increase,Unsatisfied,3,Europe
+4,No,Decrease,Neutral,3,Europe
+1,No,No Change,Satisfied,3,Africa
+3,No,Increase,Unsatisfied,3,South America
+1,No,Increase,Satisfied,3,Africa
+3,Yes,No Change,Satisfied,5,Africa
+4,No,No Change,Unsatisfied,4,South America
+5,Yes,Decrease,Neutral,3,North America
+2,No,No Change,Satisfied,1,South America
+5,Yes,Decrease,Neutral,4,Asia
+3,No,Decrease,Unsatisfied,2,North America
+1,No,No Change,Satisfied,5,Oceania
+5,Yes,Increase,Neutral,5,Oceania
+2,Yes,No Change,Satisfied,1,North America
+2,No,Increase,Unsatisfied,3,Oceania
+4,No,Decrease,Unsatisfied,4,Asia
+5,Yes,Decrease,Unsatisfied,3,Africa
+3,No,Decrease,Satisfied,4,Europe
+3,No,No Change,Neutral,1,North America
+5,No,Decrease,Neutral,3,Asia
+4,No,No Change,Unsatisfied,5,Oceania
+3,No,Decrease,Satisfied,5,Africa
+2,No,No Change,Unsatisfied,2,North America
+4,Yes,Increase,Unsatisfied,4,Oceania
+2,Yes,Decrease,Neutral,1,Africa
+1,Yes,No Change,Neutral,3,South America
+1,Yes,Decrease,Unsatisfied,1,Africa
+4,Yes,No Change,Unsatisfied,5,South America
+4,Yes,Decrease,Satisfied,4,North America
+3,No,Decrease,Unsatisfied,3,Europe
+3,No,Increase,Unsatisfied,5,North America
+1,Yes,No Change,Satisfied,1,Europe
+4,Yes,Decrease,Satisfied,1,Asia
+5,No,Decrease,Satisfied,4,North America
+3,Yes,Decrease,Neutral,5,North America
+3,No,Increase,Neutral,1,Africa
+2,No,Increase,Neutral,2,Oceania
+2,No,Increase,Neutral,5,South America
+1,No,Decrease,Unsatisfied,3,North America
+1,No,No Change,Neutral,1,South America
+4,No,Increase,Satisfied,1,Europe
+2,No,Decrease,Unsatisfied,3,Africa
+3,Yes,Increase,Satisfied,3,Africa
+4,No,Decrease,Unsatisfied,1,North America
+2,Yes,No Change,Neutral,5,South America
+5,Yes,Decrease,Neutral,2,Oceania
+2,Yes,No Change,Satisfied,5,Oceania
+3,No,No Change,Unsatisfied,2,Africa
+4,Yes,Decrease,Unsatisfied,2,Asia
+3,No,No Change,Unsatisfied,5,South America
+5,No,Decrease,Neutral,5,South America
+5,No,No Change,Neutral,3,Oceania
+2,No,Decrease,Satisfied,1,Oceania
+2,No,Decrease,Neutral,4,Oceania
+4,No,Increase,Satisfied,3,Europe
+2,Yes,No Change,Unsatisfied,2,Oceania
+3,Yes,No Change,Neutral,2,North America
+5,Yes,Decrease,Unsatisfied,1,Europe
+4,Yes,Decrease,Neutral,3,Africa
+5,No,Decrease,Unsatisfied,1,Asia
+3,No,No Change,Unsatisfied,5,Asia
+2,Yes,No Change,Neutral,4,Oceania
+5,Yes,Decrease,Neutral,4,Oceania
+4,No,Decrease,Unsatisfied,3,Africa
+1,No,Increase,Unsatisfied,1,Africa
+4,Yes,Decrease,Satisfied,1,Africa
+2,No,Decrease,Satisfied,2,Oceania
+4,Yes,No Change,Neutral,5,Europe
+2,Yes,Increase,Unsatisfied,5,Africa
+4,No,Increase,Neutral,2,Oceania
+1,No,Increase,Satisfied,4,Africa
+2,Yes,No Change,Satisfied,4,Europe
+5,No,No Change,Neutral,5,Asia
+3,Yes,Increase,Unsatisfied,2,South America
+4,No,No Change,Neutral,5,South America
+2,No,Decrease,Unsatisfied,4,South America
+5,Yes,Decrease,Neutral,3,South America
+3,No,Increase,Neutral,4,Oceania
+5,No,Decrease,Unsatisfied,2,North America
+1,Yes,Increase,Unsatisfied,1,Europe
+1,Yes,Decrease,Neutral,5,Asia
+2,No,No Change,Unsatisfied,2,Oceania
+5,Yes,Increase,Satisfied,4,South America
+3,No,No Change,Satisfied,1,South America
+3,No,No Change,Satisfied,4,North America
+3,Yes,Increase,Unsatisfied,5,Europe
+1,No,Decrease,Satisfied,2,Asia
+4,No,No Change,Satisfied,5,South America
+1,Yes,No Change,Neutral,5,Oceania
+1,Yes,Decrease,Satisfied,1,Oceania
+5,No,Increase,Unsatisfied,4,Oceania
+2,Yes,Decrease,Unsatisfied,5,Oceania
+2,No,Increase,Satisfied,5,South America
+4,Yes,Increase,Unsatisfied,4,Asia
+2,No,Increase,Neutral,1,Africa
+3,Yes,No Change,Neutral,3,Africa
+5,Yes,Increase,Unsatisfied,3,Asia
+5,Yes,Increase,Neutral,1,Asia
+1,No,Increase,Satisfied,3,Europe
+3,Yes,No Change,Satisfied,2,Asia
+3,Yes,Decrease,Unsatisfied,4,Europe
+3,No,No Change,Neutral,2,Europe
+3,No,No Change,Satisfied,5,North America
+2,No,No Change,Satisfied,4,Asia
+4,Yes,Increase,Satisfied,3,Asia
+4,Yes,Decrease,Satisfied,1,Oceania
+3,Yes,Decrease,Satisfied,1,Asia
+5,No,Increase,Neutral,5,South America
+1,Yes,Increase,Satisfied,1,Africa
+3,Yes,Decrease,Unsatisfied,4,Asia
+4,Yes,Decrease,Neutral,2,Oceania
+5,No,Increase,Satisfied,4,Oceania
+4,Yes,Decrease,Unsatisfied,5,Africa
+1,Yes,Decrease,Neutral,3,Europe
+4,Yes,Increase,Satisfied,3,South America
+4,No,Increase,Unsatisfied,1,Asia
+5,No,Increase,Unsatisfied,5,Europe
+3,No,No Change,Satisfied,3,South America
+4,Yes,Decrease,Unsatisfied,1,Oceania
+4,Yes,Decrease,Neutral,4,Asia
+4,Yes,Increase,Satisfied,3,Europe
+5,Yes,Decrease,Satisfied,4,Oceania
+3,Yes,No Change,Neutral,1,Oceania
+4,No,Increase,Unsatisfied,3,South America
+4,No,Increase,Unsatisfied,3,Europe
+4,No,Increase,Neutral,3,North America
+2,No,Decrease,Neutral,2,Asia
+5,No,No Change,Neutral,3,Asia
+4,Yes,Increase,Unsatisfied,2,North America
+2,Yes,Increase,Neutral,3,Africa
+3,No,Decrease,Unsatisfied,1,Oceania
+3,Yes,No Change,Neutral,3,South America
+5,No,No Change,Unsatisfied,3,Africa
+5,Yes,No Change,Neutral,3,Europe
+2,Yes,No Change,Satisfied,1,Oceania
+5,Yes,Decrease,Satisfied,2,Africa
+1,No,No Change,Neutral,1,North America
+5,Yes,Increase,Satisfied,3,Europe
+5,Yes,No Change,Satisfied,3,Africa
+2,No,No Change,Neutral,3,Europe
+5,Yes,Decrease,Satisfied,4,Europe
+5,Yes,No Change,Unsatisfied,1,Europe
+2,Yes,Decrease,Neutral,3,Asia
+2,No,No Change,Neutral,2,Oceania
+3,Yes,Increase,Unsatisfied,4,Oceania
+1,Yes,No Change,Unsatisfied,3,North America
+4,No,No Change,Neutral,5,Europe
+5,No,No Change,Unsatisfied,3,Asia
+2,Yes,Increase,Neutral,3,Africa
+3,No,Decrease,Unsatisfied,1,South America
+1,No,No Change,Unsatisfied,3,Europe
+1,No,Decrease,Unsatisfied,1,Europe
+2,No,No Change,Satisfied,3,North America
+4,Yes,Decrease,Satisfied,4,North America
+3,Yes,No Change,Unsatisfied,4,Africa
+4,Yes,Increase,Neutral,3,Europe
+1,Yes,Decrease,Unsatisfied,2,North America
+2,Yes,Decrease,Unsatisfied,4,Europe
+1,No,Decrease,Unsatisfied,3,Africa
+4,Yes,Increase,Neutral,2,Asia
+3,Yes,No Change,Satisfied,1,South America
+3,No,No Change,Unsatisfied,2,Oceania
+1,Yes,No Change,Unsatisfied,4,Oceania
+3,No,No Change,Satisfied,4,Africa
+5,Yes,Decrease,Unsatisfied,1,Africa
+3,No,Increase,Unsatisfied,1,Africa
+2,No,No Change,Unsatisfied,2,Asia
+2,Yes,Increase,Neutral,2,North America
+4,Yes,No Change,Satisfied,1,Asia
+5,No,Increase,Satisfied,4,Asia
+5,No,Decrease,Unsatisfied,3,Oceania
+3,No,Decrease,Unsatisfied,1,South America
+1,Yes,Increase,Unsatisfied,2,South America
+5,No,No Change,Satisfied,3,North America
+2,No,No Change,Unsatisfied,4,South America
+5,Yes,Decrease,Neutral,2,South America
+5,Yes,Increase,Neutral,3,Oceania
+2,Yes,Decrease,Satisfied,3,Africa
+4,Yes,Decrease,Neutral,5,Oceania
+5,Yes,No Change,Neutral,3,Asia
+1,Yes,No Change,Neutral,5,Asia
+2,No,Increase,Neutral,1,Asia
+5,Yes,Decrease,Satisfied,4,South America
+1,Yes,Decrease,Neutral,4,Europe
+5,No,No Change,Satisfied,4,Oceania
+5,Yes,Increase,Neutral,5,South America
+1,No,Increase,Neutral,4,Oceania
+5,No,Increase,Neutral,5,Europe
+5,Yes,Increase,Unsatisfied,4,South America
+2,Yes,Decrease,Satisfied,2,South America
+5,Yes,Increase,Satisfied,1,Oceania
+2,Yes,Decrease,Satisfied,3,Europe
+3,Yes,No Change,Neutral,3,Africa
+2,No,Decrease,Satisfied,2,Africa
+4,Yes,Decrease,Unsatisfied,3,Europe
+1,Yes,Decrease,Satisfied,2,Africa
+1,No,Decrease,Satisfied,3,Europe
+1,No,Increase,Satisfied,5,Europe
+3,No,Increase,Neutral,1,North America
+1,No,Decrease,Satisfied,1,Asia
+4,Yes,Increase,Unsatisfied,5,Europe
+5,No,Decrease,Neutral,4,Africa
+1,No,Decrease,Satisfied,4,Europe
+3,No,Increase,Satisfied,3,North America
+4,No,Increase,Unsatisfied,1,South America
+4,Yes,No Change,Neutral,1,Oceania
+1,No,Increase,Satisfied,5,North America
+5,No,Increase,Neutral,4,North America
+2,Yes,Increase,Unsatisfied,1,Asia
+3,Yes,No Change,Satisfied,4,Europe
+1,Yes,Decrease,Neutral,5,Oceania
+1,No,Decrease,Neutral,1,South America
+1,No,No Change,Neutral,4,Asia
+2,No,No Change,Satisfied,4,North America
+3,Yes,Increase,Satisfied,5,Africa
+5,Yes,Increase,Neutral,5,North America
+1,Yes,No Change,Unsatisfied,1,South America
+5,No,No Change,Unsatisfied,2,Africa
+1,Yes,No Change,Unsatisfied,4,Africa
+2,Yes,Increase,Satisfied,5,Oceania
+3,Yes,No Change,Unsatisfied,1,Africa
+3,Yes,No Change,Unsatisfied,3,Europe
+5,No,No Change,Neutral,3,Europe
+5,Yes,No Change,Satisfied,3,Africa
+3,Yes,Increase,Neutral,1,Asia
+5,No,No Change,Neutral,3,Oceania
+2,Yes,Decrease,Satisfied,2,Africa
+1,Yes,Increase,Satisfied,3,Oceania
+2,No,Increase,Unsatisfied,3,South America
+2,Yes,No Change,Neutral,5,Africa
+3,Yes,Increase,Satisfied,4,Asia
+2,No,Increase,Satisfied,4,South America
+5,No,Decrease,Unsatisfied,4,Oceania
+5,Yes,No Change,Unsatisfied,5,North America
+2,Yes,No Change,Satisfied,3,Oceania
+3,No,Increase,Satisfied,4,Africa
+5,No,Increase,Neutral,1,North America
+2,No,No Change,Neutral,4,Oceania
+3,Yes,Decrease,Neutral,1,Europe
+2,Yes,Decrease,Satisfied,4,Asia
+5,Yes,No Change,Neutral,3,Oceania
+4,No,Decrease,Unsatisfied,3,Europe
+2,No,Decrease,Satisfied,5,North America
+3,Yes,Decrease,Satisfied,2,Oceania
+3,No,Increase,Satisfied,5,Africa
+1,Yes,No Change,Satisfied,4,South America
+3,Yes,Increase,Satisfied,5,Asia
+5,Yes,Increase,Satisfied,5,North America
+3,No,No Change,Neutral,5,South America
+2,Yes,No Change,Neutral,1,South America
+1,Yes,Decrease,Unsatisfied,3,South America
+4,Yes,Increase,Unsatisfied,1,Asia
+3,No,No Change,Satisfied,1,Oceania
+3,Yes,No Change,Neutral,5,Oceania
+4,No,Decrease,Unsatisfied,4,North America
+2,Yes,Decrease,Neutral,1,South America
+3,No,No Change,Unsatisfied,2,Europe
+1,Yes,Increase,Neutral,4,Asia
+1,No,Decrease,Neutral,1,Europe
+2,Yes,Increase,Neutral,3,Europe
+4,No,Decrease,Satisfied,1,Europe
+2,Yes,No Change,Neutral,3,Oceania
+1,No,Increase,Satisfied,3,Oceania
+4,Yes,Increase,Satisfied,5,Africa
+4,Yes,Increase,Unsatisfied,1,Europe
+2,Yes,Increase,Unsatisfied,1,Asia
+1,Yes,No Change,Neutral,4,South America
+4,Yes,No Change,Neutral,3,Oceania
+3,No,No Change,Unsatisfied,1,Africa
+5,No,Increase,Satisfied,2,Europe
+5,Yes,Increase,Neutral,3,North America
+1,Yes,No Change,Unsatisfied,5,South America
+3,No,No Change,Satisfied,5,South America
+3,Yes,Decrease,Satisfied,1,Africa
+5,No,Increase,Unsatisfied,1,South America
+3,Yes,Increase,Unsatisfied,2,North America
+1,No,No Change,Neutral,5,Oceania
+2,No,No Change,Unsatisfied,5,Oceania
+3,No,No Change,Neutral,1,South America
+2,Yes,Increase,Neutral,3,Oceania
+1,Yes,No Change,Neutral,1,Africa
+2,No,Decrease,Unsatisfied,3,Asia
+4,No,No Change,Unsatisfied,3,Europe
+2,No,No Change,Neutral,1,South America
+5,Yes,No Change,Unsatisfied,3,South America
+2,No,Decrease,Unsatisfied,2,North America
+5,Yes,Increase,Satisfied,4,Oceania
+1,No,Decrease,Neutral,1,North America
+3,Yes,Decrease,Satisfied,5,Europe
+1,No,Increase,Satisfied,4,Asia
+4,No,Decrease,Satisfied,3,Europe
+4,No,Increase,Satisfied,5,South America
+2,No,Decrease,Satisfied,3,Asia
+1,No,Increase,Satisfied,3,South America
+5,Yes,Decrease,Satisfied,4,Oceania
+3,No,Increase,Neutral,5,South America
+2,No,Decrease,Neutral,3,Africa
+1,Yes,No Change,Neutral,3,Oceania
+4,Yes,No Change,Unsatisfied,1,Africa
+2,Yes,Decrease,Unsatisfied,2,South America
+3,Yes,Increase,Neutral,3,Africa
+1,Yes,Increase,Satisfied,4,Oceania
+2,Yes,Decrease,Satisfied,5,Africa
+1,Yes,Increase,Satisfied,1,Africa
+4,Yes,Decrease,Satisfied,3,Asia
+3,Yes,Increase,Unsatisfied,2,Oceania
+2,No,Decrease,Unsatisfied,4,Oceania
+3,Yes,No Change,Neutral,2,North America
+4,Yes,No Change,Neutral,1,Asia
+4,Yes,Increase,Neutral,2,Africa
+5,Yes,Increase,Neutral,3,North America
+4,Yes,Decrease,Unsatisfied,3,North America
+2,No,Increase,Unsatisfied,2,South America
+4,No,Decrease,Satisfied,5,North America
+1,Yes,Decrease,Neutral,3,Africa
+4,Yes,No Change,Neutral,1,Asia
+5,No,Decrease,Unsatisfied,5,North America
+5,Yes,Increase,Satisfied,1,Africa
+2,Yes,Decrease,Satisfied,1,South America
+1,Yes,No Change,Satisfied,1,Africa
+3,Yes,Increase,Neutral,3,Oceania
+5,No,Increase,Unsatisfied,4,Asia
+3,No,Decrease,Unsatisfied,2,South America
+2,No,No Change,Satisfied,2,North America
+1,Yes,Decrease,Unsatisfied,1,Asia
+1,No,Increase,Satisfied,3,Oceania
+2,No,Increase,Unsatisfied,3,Africa
+2,Yes,No Change,Unsatisfied,4,Africa
+4,Yes,Decrease,Satisfied,1,Oceania
+2,No,No Change,Unsatisfied,3,Oceania
+2,Yes,Decrease,Satisfied,3,South America
+1,Yes,Increase,Unsatisfied,3,Asia
+4,No,Increase,Satisfied,1,Asia
+2,No,No Change,Satisfied,1,Europe
+5,Yes,Increase,Satisfied,3,Africa
+5,Yes,Increase,Neutral,1,North America
+5,Yes,Decrease,Unsatisfied,4,South America
+2,No,Increase,Unsatisfied,4,Africa
+2,Yes,Increase,Unsatisfied,2,South America
+5,Yes,No Change,Satisfied,2,Europe
+5,Yes,Decrease,Satisfied,4,South America
+3,Yes,No Change,Satisfied,1,South America
+1,Yes,No Change,Unsatisfied,4,North America
+3,Yes,Decrease,Neutral,3,South America
+2,Yes,No Change,Satisfied,2,Africa
+1,No,Decrease,Unsatisfied,3,Africa
+3,No,No Change,Neutral,5,Asia
+5,Yes,No Change,Neutral,1,Africa
+2,Yes,No Change,Neutral,1,Europe
+1,No,Decrease,Neutral,4,North America
+3,No,Increase,Satisfied,2,North America
+1,Yes,Increase,Unsatisfied,5,North America
+4,No,Decrease,Satisfied,2,Africa
+3,Yes,Decrease,Unsatisfied,5,Asia
+3,No,No Change,Unsatisfied,5,Africa
+1,No,No Change,Satisfied,3,South America
+4,Yes,No Change,Neutral,3,North America
+1,Yes,Increase,Unsatisfied,5,North America
+3,No,Increase,Satisfied,3,Africa
+4,Yes,Decrease,Unsatisfied,4,South America
+5,No,Increase,Unsatisfied,5,Oceania
+5,Yes,Decrease,Unsatisfied,2,Africa
+4,Yes,Decrease,Unsatisfied,2,Europe
+1,Yes,Increase,Unsatisfied,1,Africa
+2,No,Increase,Neutral,3,Africa
+4,Yes,No Change,Neutral,4,Asia
+4,No,Decrease,Unsatisfied,5,Oceania
+1,No,Increase,Unsatisfied,1,Africa
+3,No,Increase,Satisfied,4,Africa
+4,Yes,Increase,Unsatisfied,2,Oceania
+1,Yes,No Change,Satisfied,4,Africa
+5,No,Decrease,Unsatisfied,5,Oceania
+3,No,No Change,Unsatisfied,1,Europe
+4,Yes,Decrease,Neutral,3,South America
+4,Yes,Decrease,Unsatisfied,1,Asia
+4,No,No Change,Neutral,2,North America
+2,No,Decrease,Satisfied,4,Asia
+4,No,Decrease,Satisfied,1,Europe
+5,Yes,Decrease,Neutral,4,Africa
+3,Yes,Decrease,Unsatisfied,4,Africa
+4,No,Increase,Satisfied,5,Oceania
+3,Yes,No Change,Unsatisfied,5,Oceania
+4,No,Decrease,Satisfied,4,Europe
+3,Yes,No Change,Satisfied,2,Asia
+3,No,Decrease,Unsatisfied,5,Asia
+2,Yes,No Change,Satisfied,5,South America
+1,Yes,No Change,Satisfied,2,Oceania
+1,Yes,Decrease,Unsatisfied,2,Oceania
+1,Yes,Increase,Unsatisfied,1,South America
+3,No,Decrease,Unsatisfied,2,Africa
+4,No,Increase,Satisfied,3,Europe
+5,Yes,Increase,Satisfied,2,Asia
+4,No,Decrease,Satisfied,1,South America
+1,Yes,No Change,Satisfied,3,North America
+4,No,No Change,Unsatisfied,2,North America
+2,No,No Change,Neutral,5,South America
+4,Yes,Decrease,Neutral,1,Europe
+4,No,Increase,Satisfied,1,Asia
+3,No,No Change,Neutral,5,Oceania
+5,No,Increase,Satisfied,2,North America
+4,No,Increase,Unsatisfied,3,Asia
+2,Yes,No Change,Neutral,4,Europe
+4,Yes,Decrease,Unsatisfied,5,North America
+1,Yes,No Change,Satisfied,5,Asia
+1,No,Decrease,Neutral,2,Africa
+2,No,Decrease,Neutral,1,North America
+3,No,Increase,Neutral,1,Asia
+5,No,No Change,Neutral,1,Europe
+4,Yes,No Change,Unsatisfied,3,Europe
+4,Yes,No Change,Neutral,3,Europe
+4,Yes,Increase,Satisfied,4,North America
+4,No,No Change,Unsatisfied,5,Europe
+2,No,No Change,Satisfied,3,South America
+4,No,Decrease,Satisfied,5,Oceania
+4,Yes,Decrease,Unsatisfied,4,Europe
+4,Yes,No Change,Unsatisfied,2,Oceania
+5,No,No Change,Unsatisfied,2,Asia
+2,Yes,No Change,Neutral,3,Asia
+1,Yes,No Change,Neutral,3,Europe
+5,No,Decrease,Neutral,5,Oceania
+1,No,Increase,Satisfied,5,North America
+2,Yes,Increase,Satisfied,2,Africa
+4,No,No Change,Satisfied,2,Asia
+5,No,No Change,Satisfied,5,Europe
+2,Yes,Increase,Satisfied,5,Oceania
+5,No,Decrease,Unsatisfied,4,Oceania
+5,No,Decrease,Neutral,1,Asia
+1,No,Decrease,Unsatisfied,3,Africa
+1,Yes,Increase,Satisfied,4,Europe
+4,No,No Change,Neutral,2,Africa
+4,Yes,Decrease,Neutral,5,North America
+1,No,No Change,Satisfied,4,Europe
+4,No,Decrease,Satisfied,2,South America
+4,No,No Change,Unsatisfied,1,Europe
+1,Yes,Increase,Satisfied,1,Oceania
+4,No,Decrease,Satisfied,5,Europe
+5,Yes,No Change,Unsatisfied,5,Africa
+5,Yes,Decrease,Unsatisfied,2,Europe
+2,Yes,Decrease,Neutral,5,Africa
+2,No,Increase,Satisfied,5,Africa
+4,Yes,Increase,Satisfied,3,Oceania
+2,No,Decrease,Satisfied,3,Europe
+2,No,No Change,Satisfied,5,Europe
+4,Yes,Decrease,Unsatisfied,2,Europe
+5,Yes,No Change,Neutral,1,Africa
+3,Yes,Decrease,Neutral,4,Africa
+5,No,Increase,Unsatisfied,3,Africa
+5,No,No Change,Satisfied,2,Asia
+2,No,Decrease,Unsatisfied,5,North America
+3,No,Decrease,Neutral,1,Africa
+1,No,Decrease,Neutral,4,Oceania
+1,No,Decrease,Satisfied,2,North America
+3,No,Increase,Neutral,2,North America
+1,No,No Change,Unsatisfied,5,South America
+5,Yes,Decrease,Unsatisfied,5,North America
+2,No,Increase,Neutral,4,Europe
+2,Yes,Decrease,Satisfied,1,Oceania
+3,Yes,Decrease,Satisfied,1,North America
+3,Yes,Increase,Unsatisfied,2,South America
+5,No,Increase,Satisfied,4,Africa
+5,No,Increase,Unsatisfied,4,South America
+5,Yes,Decrease,Neutral,5,Africa
+1,Yes,Increase,Neutral,4,Africa
+4,Yes,Increase,Satisfied,1,Oceania
+5,Yes,Decrease,Neutral,5,South America
+5,No,No Change,Satisfied,4,South America
+5,Yes,Decrease,Unsatisfied,5,South America
+1,No,Increase,Unsatisfied,5,Oceania
+4,No,No Change,Neutral,5,South America
+5,No,Decrease,Satisfied,5,Europe
+5,Yes,No Change,Neutral,1,North America
+3,No,No Change,Neutral,4,Africa
+4,No,Increase,Neutral,2,Asia
+1,No,Decrease,Satisfied,3,Oceania
+2,Yes,Increase,Satisfied,2,Africa
+2,Yes,Decrease,Satisfied,5,Africa
+5,Yes,No Change,Unsatisfied,1,Africa
+2,No,Increase,Neutral,2,North America
+5,No,Decrease,Satisfied,5,Africa
+5,No,No Change,Neutral,3,Africa
+5,Yes,Increase,Neutral,4,South America
+2,Yes,No Change,Unsatisfied,1,Asia
+1,No,No Change,Unsatisfied,4,Africa
+3,Yes,Increase,Satisfied,4,Asia
+3,No,Decrease,Neutral,1,Asia
+5,No,Decrease,Satisfied,4,Oceania
+1,No,No Change,Satisfied,5,Asia
+5,No,Increase,Satisfied,3,Europe
+1,No,Increase,Neutral,5,South America
+1,Yes,Increase,Neutral,1,Africa
+3,Yes,Increase,Unsatisfied,3,Oceania
+1,Yes,Decrease,Unsatisfied,3,South America
+4,No,Increase,Unsatisfied,2,Asia
+4,No,Decrease,Neutral,1,Europe
+1,No,Decrease,Unsatisfied,2,Africa
+2,Yes,Increase,Satisfied,1,Europe
+2,No,Increase,Unsatisfied,2,Europe
+4,Yes,Decrease,Unsatisfied,5,North America
+5,Yes,No Change,Unsatisfied,3,Oceania
+3,No,Decrease,Unsatisfied,4,Oceania
+1,Yes,Decrease,Neutral,4,Africa
+2,Yes,Increase,Unsatisfied,2,Oceania
+5,No,Decrease,Satisfied,1,North America
+1,No,Decrease,Neutral,5,Oceania
+2,Yes,Increase,Neutral,3,Africa
+1,No,No Change,Neutral,2,Europe
+2,Yes,Decrease,Unsatisfied,5,North America
+5,Yes,No Change,Satisfied,1,North America
+5,Yes,Increase,Neutral,5,North America
+2,No,Decrease,Satisfied,4,Africa
+4,No,Decrease,Satisfied,3,Europe
+1,No,No Change,Satisfied,2,South America
+2,Yes,Increase,Unsatisfied,2,Africa
+4,No,No Change,Neutral,3,Europe
+2,No,No Change,Neutral,1,Oceania
+4,Yes,Increase,Unsatisfied,1,Africa
+3,No,Increase,Unsatisfied,5,North America
+5,Yes,Increase,Unsatisfied,1,Asia
+2,No,Decrease,Unsatisfied,3,Africa
+4,Yes,No Change,Unsatisfied,2,South America
+5,No,Decrease,Satisfied,2,Europe
+3,No,Decrease,Satisfied,2,North America
+2,No,Decrease,Unsatisfied,1,Africa
+1,Yes,No Change,Neutral,2,Europe
+5,No,No Change,Unsatisfied,1,Asia
+4,Yes,Decrease,Unsatisfied,3,Africa
+4,No,Increase,Neutral,5,South America
+5,No,Increase,Unsatisfied,2,Oceania
+4,Yes,Decrease,Unsatisfied,3,South America
+4,No,Decrease,Neutral,4,North America
+3,No,No Change,Unsatisfied,5,Oceania
+4,No,Increase,Unsatisfied,5,Africa
+4,Yes,Decrease,Satisfied,3,Oceania
+3,No,No Change,Neutral,2,Europe
+2,No,No Change,Neutral,3,Africa
+2,No,Increase,Satisfied,5,Africa
+2,No,Increase,Unsatisfied,4,South America
+1,No,Decrease,Neutral,5,Oceania
+2,No,Decrease,Unsatisfied,3,South America
+3,No,Increase,Unsatisfied,1,North America
+5,No,Decrease,Unsatisfied,5,Europe
+3,No,Decrease,Unsatisfied,2,South America
+4,No,No Change,Unsatisfied,3,Asia
+5,No,No Change,Satisfied,2,Africa
+5,No,Increase,Neutral,1,Africa
+5,Yes,Decrease,Neutral,3,Asia
+4,No,Increase,Neutral,5,Africa
+5,No,Increase,Unsatisfied,3,North America
+3,No,Decrease,Unsatisfied,3,Asia
+5,No,Decrease,Unsatisfied,4,South America
+5,Yes,Increase,Neutral,5,Africa
+5,No,Decrease,Neutral,5,Africa
+5,Yes,No Change,Satisfied,2,Europe
+4,Yes,Decrease,Neutral,4,Europe
+5,Yes,Decrease,Satisfied,3,North America
+4,Yes,No Change,Unsatisfied,5,Europe
+4,No,Decrease,Neutral,1,North America
+2,No,Decrease,Neutral,4,Oceania
+3,No,Increase,Satisfied,4,Asia
+3,No,Decrease,Satisfied,1,Oceania
+1,No,Decrease,Unsatisfied,1,Asia
+4,Yes,Decrease,Satisfied,5,Asia
+4,No,Decrease,Satisfied,1,Asia
+5,Yes,Increase,Satisfied,3,Europe
+1,No,No Change,Neutral,2,Oceania
+4,No,No Change,Satisfied,2,Oceania
+1,Yes,Increase,Satisfied,4,Oceania
+2,No,No Change,Neutral,4,Asia
+4,No,Increase,Satisfied,3,South America
+1,No,Decrease,Neutral,4,Africa
+2,Yes,Increase,Unsatisfied,3,Europe
+4,No,No Change,Unsatisfied,2,Europe
+4,No,No Change,Neutral,5,South America
+5,No,Decrease,Neutral,1,North America
+2,Yes,Increase,Satisfied,3,Africa
+4,No,Decrease,Unsatisfied,3,North America
+4,No,Increase,Satisfied,2,South America
+1,No,Decrease,Unsatisfied,3,Europe
+2,No,No Change,Unsatisfied,4,Oceania
+5,No,Decrease,Satisfied,3,Asia
+1,Yes,Decrease,Unsatisfied,4,Africa
+4,No,Increase,Neutral,5,Europe
+1,No,Decrease,Neutral,5,North America
+3,Yes,No Change,Unsatisfied,1,Europe
+2,No,Decrease,Satisfied,4,South America
+4,No,Increase,Satisfied,1,Oceania
+3,No,Decrease,Satisfied,2,Europe
+3,No,No Change,Neutral,3,Oceania
+5,No,Increase,Neutral,5,Africa
+1,No,Increase,Satisfied,3,South America
+3,Yes,Increase,Neutral,1,South America
+1,Yes,Increase,Satisfied,2,Asia
+3,No,No Change,Unsatisfied,5,Oceania
+2,No,No Change,Satisfied,2,Africa
+5,No,No Change,Satisfied,1,Europe
+5,No,Decrease,Neutral,2,Asia
+1,Yes,Decrease,Satisfied,1,Europe
+3,No,Increase,Unsatisfied,4,Asia
+3,Yes,Decrease,Neutral,2,South America
+4,Yes,No Change,Neutral,4,South America
+4,Yes,Decrease,Neutral,2,Oceania
+5,No,No Change,Neutral,3,Europe
+3,Yes,Increase,Unsatisfied,2,Europe
+3,No,Decrease,Neutral,3,Oceania
+5,Yes,Decrease,Satisfied,2,Oceania
+4,Yes,Increase,Unsatisfied,1,North America
+5,Yes,Decrease,Unsatisfied,2,Europe
+5,No,Increase,Neutral,3,Europe
+4,No,No Change,Unsatisfied,2,Asia
+1,No,Increase,Satisfied,2,North America
+4,No,No Change,Satisfied,1,South America
+4,Yes,Increase,Unsatisfied,3,Asia
+4,No,Decrease,Neutral,2,Asia
+4,No,No Change,Unsatisfied,4,Asia
+4,No,No Change,Unsatisfied,2,Africa
+2,Yes,No Change,Unsatisfied,3,Europe
+2,No,Decrease,Satisfied,4,North America
+1,No,Increase,Neutral,4,South America
+2,No,Increase,Unsatisfied,3,North America
+3,Yes,Increase,Neutral,1,South America
+4,No,Decrease,Neutral,3,North America
+3,Yes,Increase,Unsatisfied,5,South America
+1,No,Increase,Unsatisfied,4,Africa
+3,No,No Change,Neutral,5,North America
+2,No,Decrease,Unsatisfied,2,North America
+2,Yes,Decrease,Satisfied,3,Asia
+1,Yes,No Change,Neutral,3,Europe
+5,No,No Change,Unsatisfied,2,North America
+5,Yes,No Change,Satisfied,2,Asia
+1,Yes,Decrease,Unsatisfied,1,Oceania
+2,No,Decrease,Neutral,2,North America
+4,Yes,No Change,Neutral,4,North America
+3,No,Increase,Neutral,5,South America
+1,No,Decrease,Satisfied,3,Africa
+4,Yes,Decrease,Satisfied,2,Asia
+3,No,Increase,Neutral,4,Oceania
+3,No,No Change,Unsatisfied,2,Africa
+3,No,Increase,Neutral,2,Europe
+5,No,Increase,Neutral,3,Europe
+4,Yes,No Change,Neutral,1,Asia
+1,No,No Change,Satisfied,3,Oceania
+1,No,Increase,Neutral,3,North America
+2,Yes,No Change,Satisfied,2,Oceania
+3,No,Decrease,Neutral,4,Oceania
+3,No,No Change,Satisfied,5,Oceania
+1,No,Decrease,Satisfied,3,Asia
+1,No,Decrease,Unsatisfied,3,Asia
+2,No,Increase,Neutral,1,Asia
+1,Yes,Increase,Unsatisfied,2,North America
+5,Yes,Increase,Neutral,1,Oceania
+1,No,Increase,Neutral,3,Europe
+4,No,Decrease,Unsatisfied,4,South America
+2,No,Increase,Satisfied,2,North America
+2,Yes,Increase,Neutral,5,Oceania
+3,No,No Change,Unsatisfied,2,North America
+3,Yes,Decrease,Neutral,1,Asia
+1,No,Increase,Satisfied,2,South America
+3,Yes,Decrease,Neutral,2,South America
+2,No,No Change,Neutral,2,Europe
+4,No,Increase,Unsatisfied,1,Europe
+1,Yes,No Change,Neutral,3,Africa
+2,No,Decrease,Unsatisfied,2,Asia
+4,No,Decrease,Satisfied,2,Oceania
+5,Yes,Decrease,Satisfied,1,Oceania
+3,Yes,Decrease,Satisfied,4,Asia
+4,No,Decrease,Unsatisfied,3,Oceania
+3,No,No Change,Satisfied,3,Asia
+1,No,No Change,Satisfied,4,Africa
+5,No,Decrease,Unsatisfied,2,Africa
+2,No,Decrease,Satisfied,4,Oceania
+1,Yes,Decrease,Satisfied,5,North America
+3,Yes,No Change,Satisfied,2,Africa
+2,No,Increase,Neutral,3,Africa
+1,No,No Change,Unsatisfied,3,Europe
+3,Yes,Decrease,Unsatisfied,3,Oceania
+4,Yes,Increase,Satisfied,1,Africa
+1,Yes,No Change,Satisfied,1,Asia
+4,Yes,Decrease,Unsatisfied,1,South America
+2,Yes,Increase,Unsatisfied,2,Oceania
+2,No,Decrease,Satisfied,2,North America
+1,Yes,No Change,Satisfied,2,South America
+1,Yes,No Change,Unsatisfied,2,Africa
+5,Yes,Decrease,Satisfied,2,Europe
+3,No,No Change,Neutral,2,South America
+1,No,Decrease,Unsatisfied,4,Oceania
+2,No,Decrease,Satisfied,5,Asia
+3,No,No Change,Satisfied,2,Africa
+4,Yes,Decrease,Neutral,3,Oceania
+4,No,No Change,Unsatisfied,1,North America
+1,Yes,No Change,Neutral,3,South America
+3,No,Decrease,Satisfied,3,Oceania
+1,Yes,Decrease,Unsatisfied,3,Asia
+4,No,Decrease,Neutral,5,Europe
+3,No,Increase,Satisfied,1,Oceania
+4,Yes,Increase,Satisfied,5,North America
+1,Yes,No Change,Unsatisfied,4,South America
+5,No,Decrease,Unsatisfied,1,Europe
+1,No,Increase,Neutral,2,Europe
+4,No,No Change,Neutral,1,Asia
+1,Yes,Decrease,Unsatisfied,5,Africa
+1,Yes,Increase,Unsatisfied,1,Asia
+2,No,Increase,Satisfied,1,South America
+2,No,Increase,Satisfied,3,Oceania
+4,Yes,Decrease,Neutral,4,South America
+4,No,No Change,Satisfied,5,North America
+4,Yes,Increase,Neutral,3,Asia
+1,Yes,Decrease,Unsatisfied,4,Oceania
+2,Yes,Decrease,Neutral,5,Africa
+3,Yes,Increase,Unsatisfied,4,North America
+1,No,Increase,Satisfied,5,Asia
+2,Yes,No Change,Neutral,1,Africa
+1,Yes,Increase,Satisfied,5,Oceania
+5,Yes,Increase,Unsatisfied,2,South America
+1,No,Decrease,Neutral,3,Africa
+4,No,Decrease,Neutral,5,North America
+5,No,No Change,Satisfied,3,Africa
+4,No,Decrease,Satisfied,1,South America
+5,Yes,Decrease,Unsatisfied,2,Oceania
+3,No,Decrease,Neutral,4,Oceania
+1,Yes,No Change,Satisfied,4,Europe
+2,Yes,No Change,Satisfied,5,Oceania
+3,Yes,No Change,Satisfied,2,Europe
+4,Yes,Increase,Neutral,2,Africa
+4,Yes,Increase,Unsatisfied,4,Africa
+5,Yes,Increase,Satisfied,3,Oceania
+3,No,No Change,Unsatisfied,4,Oceania
+4,Yes,Increase,Neutral,2,Europe
+5,No,Increase,Unsatisfied,3,North America
+3,No,Increase,Neutral,2,Oceania
+1,Yes,Decrease,Neutral,1,Asia
+5,Yes,No Change,Satisfied,3,Africa
+1,No,Increase,Neutral,5,Africa
+2,No,No Change,Unsatisfied,2,Europe
+2,Yes,Decrease,Satisfied,1,Oceania
+4,Yes,No Change,Unsatisfied,2,Oceania
+4,Yes,Increase,Unsatisfied,1,South America
+5,No,Increase,Neutral,5,Africa
+5,No,No Change,Neutral,3,Asia
+2,Yes,Increase,Satisfied,3,South America
+3,Yes,Decrease,Neutral,5,Asia
+2,Yes,No Change,Unsatisfied,2,Oceania
+3,Yes,No Change,Neutral,5,North America
+3,No,Increase,Unsatisfied,3,South America
+3,Yes,Increase,Neutral,3,Asia
+4,Yes,Increase,Neutral,4,Oceania
+3,Yes,Decrease,Unsatisfied,3,Europe
+1,No,Increase,Neutral,2,South America
+4,No,No Change,Satisfied,2,North America
+3,No,Decrease,Neutral,1,North America
+4,No,Increase,Neutral,4,Asia
+4,No,Decrease,Unsatisfied,1,Oceania
+1,No,Increase,Unsatisfied,3,Asia
+4,Yes,No Change,Neutral,3,North America
+1,Yes,Decrease,Satisfied,3,Asia
+5,No,Decrease,Neutral,3,Africa
+1,Yes,No Change,Unsatisfied,2,Europe
+5,No,No Change,Satisfied,1,South America
+5,Yes,No Change,Unsatisfied,5,Africa
+2,No,Increase,Unsatisfied,2,Africa
+2,Yes,Decrease,Satisfied,2,North America
+5,Yes,Decrease,Satisfied,4,Oceania
+4,Yes,Decrease,Satisfied,1,South America
+1,No,Decrease,Satisfied,5,Oceania
+5,Yes,Decrease,Satisfied,3,North America
+5,No,No Change,Satisfied,2,North America
+1,Yes,Decrease,Satisfied,1,Asia
+3,Yes,Increase,Neutral,2,Asia
+4,Yes,Decrease,Unsatisfied,5,Oceania
+5,No,No Change,Satisfied,2,Africa
+1,No,Decrease,Satisfied,2,South America
+3,Yes,No Change,Satisfied,2,Oceania
+5,Yes,Increase,Unsatisfied,2,Asia
+3,Yes,Increase,Unsatisfied,1,Asia
+1,Yes,Increase,Satisfied,1,Africa
+4,No,No Change,Unsatisfied,4,Asia
+5,No,Decrease,Neutral,2,Oceania
+3,No,Increase,Unsatisfied,5,South America
+3,Yes,No Change,Unsatisfied,2,South America
+4,Yes,No Change,Satisfied,3,North America
+2,Yes,Decrease,Neutral,4,South America
+1,No,Decrease,Satisfied,5,Asia
+1,No,Decrease,Unsatisfied,5,North America
+1,No,Decrease,Neutral,4,Asia
+3,No,No Change,Satisfied,1,South America
+4,No,No Change,Neutral,1,Africa
+3,Yes,Increase,Unsatisfied,3,North America
+2,Yes,Decrease,Satisfied,5,Asia
+4,No,Increase,Neutral,1,North America
+3,Yes,No Change,Neutral,5,North America
+5,No,No Change,Unsatisfied,1,Oceania
+3,No,Decrease,Satisfied,4,Asia
+1,No,Increase,Satisfied,3,South America
+1,Yes,Increase,Satisfied,3,North America
+2,No,No Change,Unsatisfied,4,South America
+5,No,Increase,Unsatisfied,2,Europe
+4,Yes,Increase,Neutral,4,Africa
+3,No,No Change,Satisfied,4,Africa
+1,No,No Change,Neutral,5,Europe
+1,No,Decrease,Satisfied,3,Oceania
+2,Yes,No Change,Satisfied,4,Asia
+2,Yes,Decrease,Satisfied,5,Asia
+4,No,Increase,Unsatisfied,2,Africa
+2,No,No Change,Neutral,5,Oceania
+3,Yes,Decrease,Neutral,5,Oceania
+2,Yes,Increase,Neutral,4,North America
+3,Yes,No Change,Neutral,2,Oceania
+4,Yes,Increase,Unsatisfied,4,Oceania
+1,Yes,No Change,Unsatisfied,5,Oceania
+4,Yes,No Change,Neutral,5,North America
+2,No,No Change,Satisfied,4,Oceania
+4,No,Increase,Unsatisfied,3,South America
+5,No,No Change,Neutral,2,Oceania
+1,No,Decrease,Satisfied,1,North America
+1,Yes,No Change,Neutral,5,Europe
+2,No,No Change,Unsatisfied,1,North America
+3,No,No Change,Unsatisfied,5,North America
+1,Yes,No Change,Neutral,4,South America
+3,No,Decrease,Unsatisfied,3,Asia
+4,Yes,No Change,Neutral,2,South America
+1,No,No Change,Neutral,1,North America
+1,No,Decrease,Satisfied,3,Europe
+2,No,No Change,Unsatisfied,1,Africa
+5,No,No Change,Unsatisfied,3,South America
+5,Yes,Decrease,Unsatisfied,2,Oceania
+3,No,Decrease,Unsatisfied,4,Africa
+1,No,Increase,Satisfied,3,Europe
+4,No,No Change,Neutral,2,Asia
+2,Yes,Decrease,Neutral,3,Oceania
+5,Yes,Increase,Satisfied,5,North America
+4,No,Increase,Neutral,2,Africa
+3,Yes,Increase,Satisfied,2,Asia
+4,Yes,Increase,Neutral,3,Europe
+1,No,No Change,Neutral,1,Europe
+2,Yes,No Change,Unsatisfied,2,Oceania
+2,Yes,Increase,Satisfied,5,Africa
+5,No,Increase,Satisfied,1,Africa
+2,Yes,No Change,Satisfied,1,Africa
+2,Yes,No Change,Unsatisfied,5,Asia
+3,Yes,Increase,Neutral,4,Oceania
+3,Yes,No Change,Unsatisfied,2,South America
+3,No,No Change,Satisfied,3,North America
+2,Yes,Decrease,Unsatisfied,5,Africa
+4,No,Decrease,Unsatisfied,1,Europe
+1,Yes,No Change,Satisfied,2,South America
+3,No,Increase,Unsatisfied,2,Oceania
+4,Yes,Increase,Unsatisfied,1,Africa
+2,No,Increase,Unsatisfied,5,North America
+3,No,Increase,Unsatisfied,1,Europe
+5,Yes,No Change,Satisfied,5,Africa
+3,No,Decrease,Satisfied,4,South America
+3,No,Decrease,Unsatisfied,5,Europe
+5,No,Increase,Unsatisfied,4,Oceania
+3,No,No Change,Satisfied,3,South America
+4,No,Decrease,Unsatisfied,3,Europe
+1,Yes,No Change,Unsatisfied,5,Asia
+1,No,Decrease,Satisfied,5,Africa
+3,Yes,Decrease,Unsatisfied,2,Europe
+5,No,No Change,Satisfied,5,North America
+3,No,No Change,Unsatisfied,1,North America
+3,No,Decrease,Unsatisfied,3,Asia
+5,Yes,Decrease,Neutral,2,Africa
+2,No,Decrease,Unsatisfied,3,North America
+5,No,No Change,Satisfied,2,Oceania
+4,Yes,Decrease,Satisfied,2,Asia
+3,No,Decrease,Unsatisfied,1,North America
+5,Yes,Decrease,Unsatisfied,3,North America
+2,Yes,No Change,Neutral,4,Oceania
+2,Yes,No Change,Satisfied,3,Oceania
+5,Yes,No Change,Unsatisfied,2,Asia
+5,No,No Change,Neutral,4,South America
+1,Yes,Increase,Unsatisfied,4,Europe
+4,Yes,Increase,Unsatisfied,3,Europe
+5,Yes,Decrease,Satisfied,1,Europe
+1,Yes,Increase,Unsatisfied,4,Africa
+3,No,No Change,Unsatisfied,5,North America
+5,No,No Change,Unsatisfied,5,North America
+3,No,Increase,Neutral,2,Europe
+5,Yes,No Change,Unsatisfied,3,Africa
+4,No,Increase,Satisfied,3,Europe
+3,No,No Change,Unsatisfied,5,Africa
+5,Yes,Decrease,Unsatisfied,4,Asia
+2,No,No Change,Neutral,1,Asia
+5,No,Decrease,Neutral,2,North America
+4,Yes,No Change,Satisfied,3,Africa
+3,No,Decrease,Unsatisfied,1,Europe
+1,Yes,Decrease,Unsatisfied,1,South America
+1,No,No Change,Neutral,1,Africa
+5,No,No Change,Neutral,3,Europe
+3,Yes,Increase,Unsatisfied,1,Europe
+1,No,Increase,Satisfied,3,Oceania
+3,Yes,Increase,Unsatisfied,3,South America
+3,Yes,Decrease,Unsatisfied,4,Asia
+1,No,No Change,Satisfied,2,Oceania
+4,Yes,No Change,Unsatisfied,3,Oceania
+5,No,Decrease,Satisfied,3,South America
+4,No,Decrease,Unsatisfied,1,Asia
+2,Yes,Increase,Satisfied,5,South America
+2,No,Increase,Neutral,2,Europe
+2,No,Increase,Satisfied,1,South America
+3,No,No Change,Unsatisfied,5,Asia
+4,No,No Change,Unsatisfied,4,Asia
+5,No,Decrease,Unsatisfied,2,Asia
+3,No,Decrease,Neutral,2,Africa
+1,Yes,Increase,Satisfied,4,South America
+2,No,Decrease,Satisfied,1,Asia
+1,Yes,Decrease,Neutral,3,Asia
+5,No,No Change,Satisfied,2,North America
+2,No,Decrease,Unsatisfied,5,Africa
+5,Yes,No Change,Unsatisfied,4,Africa
+2,Yes,Increase,Unsatisfied,1,Asia
+2,No,No Change,Satisfied,4,South America
+5,No,Increase,Neutral,3,Africa
+2,Yes,Decrease,Unsatisfied,2,Africa
+1,No,No Change,Unsatisfied,5,North America
+4,No,Increase,Neutral,3,Africa
+2,Yes,No Change,Unsatisfied,3,Europe
+1,No,Decrease,Satisfied,1,Africa
+4,No,Decrease,Unsatisfied,3,North America
+4,Yes,Decrease,Unsatisfied,2,Asia
+4,No,Increase,Satisfied,5,Oceania
+1,Yes,Decrease,Unsatisfied,5,Europe
+5,No,No Change,Satisfied,3,North America
+3,Yes,No Change,Neutral,4,Africa
+2,No,Decrease,Neutral,4,Africa
+3,No,Increase,Neutral,4,Oceania
+4,Yes,No Change,Satisfied,4,Oceania
+4,Yes,No Change,Unsatisfied,2,Asia
+2,No,No Change,Unsatisfied,2,Europe
+3,Yes,Increase,Neutral,3,South America
+2,No,Decrease,Unsatisfied,2,Europe
+1,No,No Change,Unsatisfied,4,Africa
+2,No,Decrease,Satisfied,4,Oceania
+1,No,Decrease,Neutral,1,Oceania
+2,Yes,No Change,Satisfied,1,Asia
+3,No,Decrease,Neutral,1,Oceania
+2,Yes,Decrease,Unsatisfied,2,Africa
+4,Yes,Increase,Unsatisfied,2,North America
+3,No,No Change,Unsatisfied,5,Europe
+2,Yes,Decrease,Satisfied,2,North America
+2,Yes,Increase,Satisfied,2,Africa
+2,No,Decrease,Satisfied,2,Asia
+3,Yes,No Change,Unsatisfied,4,Oceania
+4,No,Increase,Satisfied,4,Oceania
+4,Yes,Decrease,Neutral,3,South America
+1,No,No Change,Satisfied,3,North America
+2,Yes,Decrease,Satisfied,5,Oceania
+3,Yes,Decrease,Unsatisfied,5,South America
+1,Yes,Decrease,Satisfied,4,Oceania
+3,No,Increase,Neutral,1,Africa
+5,No,No Change,Neutral,2,South America
+1,No,Decrease,Unsatisfied,2,South America
+3,No,Decrease,Satisfied,4,Asia
+5,Yes,Increase,Satisfied,5,Europe
+5,Yes,No Change,Satisfied,2,Asia
+5,Yes,Increase,Neutral,5,Asia
+3,No,Increase,Satisfied,2,North America
+4,Yes,Decrease,Unsatisfied,4,North America
+2,Yes,No Change,Unsatisfied,1,South America
+3,Yes,Decrease,Unsatisfied,2,North America
+4,No,No Change,Satisfied,2,North America
+5,No,Decrease,Unsatisfied,3,Asia
+4,No,Decrease,Satisfied,4,South America
+1,Yes,No Change,Neutral,5,Oceania
+1,Yes,Decrease,Unsatisfied,1,Europe
+2,Yes,No Change,Satisfied,5,South America
+4,No,Increase,Neutral,2,North America
+2,Yes,No Change,Neutral,5,North America
+5,No,No Change,Satisfied,3,North America
+4,No,Increase,Unsatisfied,2,Asia
+2,No,Increase,Satisfied,2,North America
+1,No,Decrease,Neutral,4,Asia
+1,Yes,No Change,Satisfied,1,North America
+5,No,Decrease,Unsatisfied,4,Africa
+2,No,Increase,Satisfied,5,North America
+2,No,No Change,Satisfied,4,Africa
+1,Yes,Decrease,Satisfied,3,Asia
+2,No,No Change,Unsatisfied,1,Oceania
+3,Yes,Decrease,Neutral,2,North America
+4,No,No Change,Unsatisfied,1,North America
+2,Yes,Decrease,Unsatisfied,1,Africa
+4,No,No Change,Unsatisfied,4,Europe
+3,Yes,Decrease,Neutral,2,Europe
+5,Yes,No Change,Satisfied,3,Oceania
+4,Yes,Decrease,Unsatisfied,2,Europe
+2,Yes,No Change,Satisfied,2,Europe
+5,Yes,No Change,Unsatisfied,2,North America
+3,Yes,Decrease,Neutral,4,North America
+5,No,No Change,Neutral,1,Europe
+3,Yes,Increase,Neutral,1,Oceania
+3,Yes,No Change,Satisfied,4,Asia
+3,Yes,No Change,Unsatisfied,2,North America
+3,Yes,Decrease,Neutral,2,South America
+4,No,No Change,Unsatisfied,4,Asia
+1,Yes,No Change,Unsatisfied,1,Asia
+3,Yes,Decrease,Satisfied,3,Oceania
+4,Yes,Decrease,Unsatisfied,3,South America
+1,Yes,Increase,Satisfied,4,Asia
+1,No,Increase,Unsatisfied,2,North America
+4,Yes,Increase,Unsatisfied,1,South America
+1,No,No Change,Satisfied,3,Africa
+2,Yes,No Change,Neutral,2,North America
+5,No,Increase,Unsatisfied,2,North America
+1,Yes,Increase,Unsatisfied,3,North America
+1,No,Decrease,Satisfied,1,Oceania
+4,No,Decrease,Neutral,3,Europe
+3,Yes,Decrease,Satisfied,4,South America
+4,No,No Change,Unsatisfied,4,Oceania
+1,Yes,No Change,Neutral,5,South America
+1,Yes,No Change,Neutral,1,Africa
+2,No,Increase,Unsatisfied,4,Europe
+5,No,No Change,Unsatisfied,1,Oceania
+1,No,No Change,Unsatisfied,2,North America
+3,Yes,Increase,Neutral,4,North America
+5,No,Increase,Satisfied,1,Asia
+2,Yes,Increase,Unsatisfied,2,Africa
+1,Yes,Decrease,Satisfied,1,Europe
+5,Yes,Decrease,Unsatisfied,5,North America
+5,Yes,Decrease,Satisfied,3,Oceania
+4,No,Decrease,Satisfied,3,Asia
+1,No,Decrease,Satisfied,1,North America
+3,Yes,Increase,Satisfied,1,Europe
+2,Yes,Increase,Satisfied,2,Asia
+5,No,Increase,Satisfied,5,North America
+1,No,Decrease,Neutral,2,Europe
+4,No,Decrease,Neutral,3,North America
+3,No,Increase,Unsatisfied,3,South America
+5,Yes,Decrease,Neutral,3,Africa
+5,No,Decrease,Unsatisfied,4,South America
+3,Yes,No Change,Unsatisfied,2,Oceania
+5,No,Decrease,Unsatisfied,3,Asia
+4,Yes,Decrease,Satisfied,4,North America
+1,No,Decrease,Neutral,5,Africa
+2,Yes,Decrease,Unsatisfied,2,Europe
+2,Yes,Increase,Satisfied,5,Oceania
+2,No,Increase,Unsatisfied,3,South America
+1,Yes,No Change,Neutral,2,Europe
+1,Yes,Decrease,Neutral,2,Oceania
+1,No,Decrease,Neutral,4,Oceania
+4,Yes,Decrease,Unsatisfied,5,Africa
+4,No,Decrease,Unsatisfied,1,Asia
+1,Yes,Increase,Neutral,1,Africa
+1,No,Increase,Unsatisfied,3,Africa
+1,Yes,Decrease,Satisfied,3,Oceania
+2,Yes,Decrease,Unsatisfied,2,Oceania
+5,No,Decrease,Neutral,1,South America
+2,Yes,Decrease,Neutral,3,Oceania
+5,Yes,Increase,Neutral,3,South America
+2,No,No Change,Unsatisfied,2,Asia
+5,No,No Change,Unsatisfied,3,Asia
+1,No,No Change,Satisfied,3,Asia
+3,Yes,Increase,Unsatisfied,2,Asia
+4,No,Decrease,Satisfied,4,North America
+3,Yes,Increase,Unsatisfied,4,North America
+3,Yes,No Change,Neutral,4,Oceania
+4,No,Decrease,Neutral,5,Europe
+2,Yes,No Change,Neutral,3,South America
+3,Yes,Increase,Satisfied,3,Asia
+4,Yes,Increase,Unsatisfied,1,Asia
+1,Yes,Increase,Neutral,5,South America
+4,No,No Change,Satisfied,4,Europe
+1,No,Increase,Unsatisfied,2,Africa
+3,No,Increase,Unsatisfied,2,North America
+1,No,Increase,Unsatisfied,2,South America
+3,No,No Change,Neutral,2,Africa
+2,No,Increase,Neutral,1,Africa
+3,Yes,Increase,Unsatisfied,5,Oceania
+4,No,Increase,Satisfied,3,Africa
+3,No,Decrease,Neutral,1,Asia
+2,No,Decrease,Neutral,5,North America
+2,Yes,No Change,Satisfied,3,South America
+1,No,Decrease,Unsatisfied,4,Asia
+3,No,No Change,Unsatisfied,1,Oceania
+1,No,Increase,Satisfied,4,North America
+1,Yes,Decrease,Unsatisfied,5,Europe
+5,No,Decrease,Satisfied,2,South America
+5,Yes,Decrease,Neutral,2,North America
+5,Yes,Increase,Neutral,1,Europe
+3,Yes,Increase,Neutral,1,Africa
+4,No,Decrease,Unsatisfied,1,North America
+5,No,No Change,Neutral,2,Asia
+3,Yes,Decrease,Unsatisfied,4,North America
+3,No,Increase,Neutral,3,Europe
+3,Yes,Increase,Satisfied,3,Asia
+5,No,No Change,Unsatisfied,3,Asia
+4,Yes,No Change,Neutral,5,Europe
+3,Yes,Increase,Neutral,3,Europe
+4,No,Decrease,Neutral,4,North America
+3,No,Increase,Unsatisfied,3,North America
+1,No,Increase,Neutral,2,North America
+5,No,No Change,Unsatisfied,2,Europe
+4,No,Decrease,Unsatisfied,4,North America
+5,Yes,Increase,Neutral,3,Europe
+4,Yes,No Change,Satisfied,1,North America
+3,Yes,Decrease,Neutral,1,Africa
+4,Yes,No Change,Satisfied,3,North America
+5,No,No Change,Unsatisfied,4,Oceania
+1,Yes,Decrease,Unsatisfied,5,South America
+4,Yes,Decrease,Satisfied,5,North America
+4,No,Decrease,Satisfied,4,Europe
+1,Yes,Decrease,Neutral,5,Asia
+4,No,No Change,Neutral,3,South America
+3,No,No Change,Unsatisfied,3,Europe
+3,Yes,Increase,Satisfied,4,Africa
+4,No,Decrease,Satisfied,3,Asia
+3,No,Decrease,Unsatisfied,3,Europe
+4,No,No Change,Neutral,3,Africa
+1,No,Decrease,Neutral,1,Asia
+5,Yes,Decrease,Neutral,4,Africa
+4,No,Decrease,Satisfied,3,Oceania
+4,Yes,No Change,Unsatisfied,2,North America
+3,Yes,No Change,Unsatisfied,4,South America
+5,No,Increase,Satisfied,2,North America
+5,Yes,Decrease,Satisfied,1,Oceania
+5,No,No Change,Satisfied,4,Europe
+5,Yes,Increase,Neutral,3,Asia
+3,Yes,Increase,Unsatisfied,1,Oceania
+4,Yes,No Change,Neutral,5,North America
+2,No,No Change,Satisfied,3,Europe
+2,Yes,Decrease,Neutral,1,Africa
+5,Yes,Decrease,Neutral,2,Asia
+5,No,No Change,Satisfied,2,South America
+2,No,No Change,Neutral,2,Asia
+2,No,No Change,Satisfied,2,Europe
+2,No,No Change,Unsatisfied,3,North America
+3,Yes,Decrease,Satisfied,2,Asia
+1,Yes,Increase,Neutral,5,North America
+1,Yes,No Change,Unsatisfied,1,South America
+4,No,Increase,Unsatisfied,5,South America
+1,Yes,Decrease,Satisfied,3,North America
+1,Yes,No Change,Satisfied,3,Asia
+4,Yes,No Change,Satisfied,2,Oceania
+3,No,No Change,Satisfied,4,North America
+5,No,Increase,Satisfied,2,North America
+1,No,Decrease,Neutral,4,South America
+2,No,Increase,Satisfied,1,Europe
+1,No,No Change,Satisfied,2,Africa
+1,Yes,Decrease,Neutral,4,Oceania
+2,No,No Change,Neutral,4,Asia
+3,Yes,Decrease,Unsatisfied,3,South America
+1,No,No Change,Satisfied,2,North America
+2,Yes,Decrease,Unsatisfied,4,Oceania
+4,Yes,Increase,Unsatisfied,4,South America
+1,No,No Change,Neutral,1,North America
+4,No,No Change,Unsatisfied,3,Oceania
+4,Yes,No Change,Neutral,2,Europe
+2,No,No Change,Neutral,1,South America
+1,Yes,Increase,Neutral,3,North America
+4,No,Increase,Satisfied,3,Africa
+1,No,Increase,Unsatisfied,4,Oceania
+4,No,No Change,Unsatisfied,5,North America
+2,Yes,Increase,Unsatisfied,4,Asia
+5,No,Increase,Neutral,4,Asia
+3,No,Decrease,Unsatisfied,2,Africa
+3,Yes,Decrease,Unsatisfied,2,Europe
+5,Yes,Increase,Satisfied,2,Africa
+1,No,No Change,Unsatisfied,3,Asia
+2,No,No Change,Neutral,4,South America
+1,Yes,Increase,Satisfied,4,Africa
+4,Yes,Decrease,Unsatisfied,4,Europe
+3,No,Decrease,Unsatisfied,4,South America
+1,Yes,Increase,Unsatisfied,2,South America
+4,No,Increase,Satisfied,3,Europe
+1,No,Increase,Unsatisfied,1,Asia
+4,No,Decrease,Satisfied,3,North America
+2,No,Increase,Satisfied,1,South America
+3,Yes,No Change,Unsatisfied,4,South America
+5,No,No Change,Neutral,4,North America
+4,No,Increase,Satisfied,4,Europe
+5,Yes,Increase,Satisfied,4,Africa
+1,No,No Change,Neutral,1,Africa
+5,Yes,Increase,Satisfied,4,Europe
+2,Yes,No Change,Unsatisfied,1,Oceania
+1,No,Increase,Satisfied,4,South America
+5,Yes,Increase,Neutral,5,Europe
+4,Yes,Decrease,Unsatisfied,2,Africa
+5,No,Decrease,Unsatisfied,1,Asia
+4,Yes,No Change,Neutral,3,South America
+3,Yes,No Change,Satisfied,3,South America
+3,Yes,Increase,Neutral,3,Oceania
+4,Yes,No Change,Satisfied,2,Africa
+1,Yes,Decrease,Satisfied,5,Oceania
+5,Yes,No Change,Unsatisfied,3,Oceania
+2,No,Decrease,Unsatisfied,3,Europe
+2,No,Increase,Neutral,4,Asia
+1,Yes,Decrease,Unsatisfied,2,Oceania
+4,No,No Change,Unsatisfied,4,North America
+4,No,Increase,Neutral,5,South America
+4,No,Decrease,Satisfied,1,Europe
+1,No,Decrease,Satisfied,2,Europe
+2,Yes,Decrease,Satisfied,1,Africa
+3,Yes,Increase,Satisfied,2,South America
+4,Yes,No Change,Satisfied,4,North America
+5,No,No Change,Unsatisfied,3,Asia
+4,Yes,Increase,Satisfied,4,Europe
+1,No,No Change,Neutral,4,Africa
+2,Yes,Decrease,Neutral,4,North America
+1,Yes,No Change,Unsatisfied,1,Oceania
+5,Yes,No Change,Satisfied,3,Asia
+2,No,Increase,Neutral,5,Africa
+2,No,Decrease,Unsatisfied,2,Asia
+1,No,No Change,Unsatisfied,1,Europe
+1,No,No Change,Unsatisfied,4,Africa
+4,Yes,Decrease,Neutral,4,Africa
+1,No,No Change,Neutral,3,Oceania
+2,No,No Change,Satisfied,2,Oceania
+3,No,Decrease,Unsatisfied,4,South America
+3,No,Decrease,Neutral,1,South America
+4,No,Increase,Satisfied,3,Asia
+4,Yes,Decrease,Neutral,2,South America
+4,Yes,Decrease,Unsatisfied,3,Europe
+3,Yes,No Change,Unsatisfied,2,Asia
+1,Yes,Decrease,Neutral,1,Europe
+5,No,No Change,Satisfied,1,South America
+5,No,No Change,Neutral,4,Oceania
+3,No,Increase,Neutral,1,South America
+1,Yes,Decrease,Neutral,4,Africa
+5,No,Decrease,Satisfied,3,South America
+2,Yes,No Change,Neutral,5,Europe
+4,No,No Change,Satisfied,5,North America
+4,No,No Change,Neutral,1,South America
+2,No,Increase,Neutral,4,Asia
+1,Yes,Increase,Neutral,3,Africa
+1,Yes,No Change,Unsatisfied,4,Asia
+5,No,No Change,Satisfied,4,North America
+2,No,No Change,Neutral,5,Europe
+5,Yes,Decrease,Satisfied,5,North America
+1,Yes,No Change,Unsatisfied,4,Africa
+4,No,Decrease,Neutral,5,Oceania
+2,Yes,Decrease,Satisfied,3,South America
+1,No,Decrease,Unsatisfied,5,Asia
+4,No,Increase,Satisfied,4,Asia
+3,Yes,Decrease,Neutral,4,South America
+2,Yes,No Change,Neutral,2,North America
+1,No,Decrease,Unsatisfied,1,Asia
+1,No,No Change,Neutral,4,South America
+2,No,Decrease,Neutral,4,South America
+2,No,Increase,Unsatisfied,1,Africa
+3,Yes,Increase,Unsatisfied,3,North America
+4,Yes,No Change,Neutral,2,Africa
+2,No,Increase,Unsatisfied,2,Oceania
+5,Yes,Increase,Neutral,5,Asia
+5,Yes,No Change,Satisfied,4,Oceania
+2,No,No Change,Unsatisfied,4,Oceania
+4,Yes,Decrease,Neutral,5,Oceania
+4,No,Increase,Satisfied,5,Europe
+3,Yes,Decrease,Unsatisfied,4,Oceania
+4,No,Increase,Neutral,4,Oceania
+1,No,Decrease,Neutral,3,Oceania
+3,Yes,No Change,Unsatisfied,4,North America
+3,No,Increase,Unsatisfied,4,South America
+2,Yes,Decrease,Satisfied,5,South America
+5,No,Increase,Neutral,2,Europe
+3,Yes,Decrease,Unsatisfied,3,Europe
+1,No,Decrease,Neutral,1,Oceania
+4,No,Increase,Satisfied,1,Oceania
+5,No,Increase,Satisfied,1,North America
+3,Yes,Increase,Unsatisfied,3,Asia
+2,Yes,No Change,Neutral,4,North America
+3,Yes,Increase,Satisfied,1,Europe
+5,No,Decrease,Satisfied,4,Africa
+5,Yes,Decrease,Neutral,1,Europe
+2,No,Decrease,Neutral,1,Africa
+1,No,Increase,Satisfied,3,Europe
+5,No,Decrease,Satisfied,2,Asia
+1,No,Increase,Unsatisfied,5,Oceania
+4,No,Increase,Unsatisfied,2,Africa
+5,No,Increase,Unsatisfied,5,Europe
+2,No,Decrease,Neutral,2,Africa
+2,Yes,No Change,Satisfied,3,Europe
+1,Yes,Increase,Unsatisfied,4,Europe
+5,Yes,Increase,Satisfied,5,Oceania
+3,No,Decrease,Unsatisfied,1,South America
+3,Yes,No Change,Satisfied,3,Oceania
+1,No,Increase,Satisfied,1,North America
+5,No,Decrease,Neutral,4,South America
+2,No,Decrease,Satisfied,3,Europe
+2,No,Increase,Unsatisfied,2,Oceania
+2,Yes,Decrease,Unsatisfied,4,North America
+1,Yes,No Change,Satisfied,5,North America
+1,No,Increase,Satisfied,2,Asia
+4,Yes,Decrease,Neutral,4,Africa
+5,No,No Change,Unsatisfied,3,South America
+1,Yes,Decrease,Satisfied,4,Europe
+3,Yes,Decrease,Neutral,5,Oceania
+3,Yes,No Change,Neutral,1,South America
+4,No,Increase,Unsatisfied,4,Oceania
+4,No,Decrease,Satisfied,1,South America
+4,Yes,Decrease,Unsatisfied,5,Oceania
+5,Yes,Decrease,Satisfied,3,Europe
+1,No,Decrease,Neutral,1,Asia
+3,No,Decrease,Unsatisfied,3,Asia
+3,No,No Change,Satisfied,1,Oceania
+3,Yes,Decrease,Unsatisfied,1,South America
+1,Yes,Increase,Satisfied,4,North America
+5,No,Increase,Neutral,2,Europe
+1,Yes,Increase,Unsatisfied,5,Asia
+2,Yes,Decrease,Satisfied,2,South America
+5,No,Decrease,Satisfied,3,North America
+1,Yes,Decrease,Unsatisfied,4,North America
+5,Yes,Increase,Satisfied,2,Africa
+2,No,No Change,Neutral,5,South America
+4,Yes,No Change,Satisfied,2,North America
+1,Yes,Decrease,Satisfied,4,Oceania
+5,No,Increase,Neutral,3,Asia
+4,No,Decrease,Unsatisfied,4,Asia
+5,No,Increase,Unsatisfied,4,Asia
+4,Yes,No Change,Unsatisfied,1,North America
+3,No,Decrease,Unsatisfied,3,North America
+1,Yes,Decrease,Unsatisfied,4,South America
+5,Yes,No Change,Unsatisfied,1,Asia
+2,No,No Change,Satisfied,2,Europe
+4,No,Increase,Neutral,3,South America
+3,Yes,Decrease,Neutral,4,Oceania
+1,No,Increase,Satisfied,1,Africa
+4,Yes,Decrease,Unsatisfied,2,Asia
+5,Yes,Increase,Unsatisfied,2,Asia
+4,Yes,Decrease,Satisfied,5,Asia
+3,No,No Change,Satisfied,3,Africa
+1,Yes,Increase,Neutral,1,Africa
+2,Yes,Decrease,Neutral,2,Asia
+4,No,Increase,Neutral,5,South America
+2,No,Decrease,Unsatisfied,1,North America
+2,No,Increase,Neutral,4,South America
+5,No,No Change,Satisfied,1,Oceania
+2,No,Increase,Neutral,1,South America
+4,Yes,Increase,Neutral,1,North America
+4,Yes,Increase,Unsatisfied,4,Oceania
+2,No,Increase,Unsatisfied,2,Europe
+1,Yes,Increase,Satisfied,5,South America
+5,Yes,Increase,Unsatisfied,4,South America
+4,Yes,No Change,Unsatisfied,2,Oceania
+5,Yes,Decrease,Unsatisfied,2,Asia
+3,No,Increase,Neutral,2,North America
+4,No,Increase,Neutral,5,Asia
+4,Yes,No Change,Neutral,2,North America
+5,Yes,Increase,Neutral,2,Oceania
+4,Yes,Decrease,Satisfied,5,Europe
+1,No,Increase,Neutral,5,South America
+1,No,Increase,Satisfied,3,Europe
+3,Yes,Increase,Unsatisfied,4,North America
+5,Yes,No Change,Unsatisfied,1,Asia
+3,Yes,No Change,Neutral,2,North America
+4,Yes,Decrease,Neutral,1,North America
+1,Yes,No Change,Satisfied,4,Africa
+4,No,No Change,Neutral,3,South America
+1,Yes,No Change,Unsatisfied,4,Africa
+1,Yes,Increase,Neutral,4,South America
+3,Yes,Decrease,Unsatisfied,1,Asia
+1,No,No Change,Neutral,5,Africa
+4,Yes,No Change,Satisfied,1,Oceania
+2,Yes,No Change,Neutral,2,Oceania
+2,Yes,No Change,Satisfied,5,Europe
+4,Yes,Increase,Unsatisfied,2,South America
+2,No,Increase,Unsatisfied,2,Asia
+4,No,No Change,Neutral,1,Africa
+1,No,No Change,Unsatisfied,3,Europe
+4,Yes,Increase,Satisfied,5,North America
+1,No,Decrease,Satisfied,4,Asia
+5,Yes,Increase,Neutral,3,North America
+5,Yes,Increase,Satisfied,1,Europe
+5,No,Decrease,Neutral,5,Europe
+5,Yes,No Change,Unsatisfied,5,South America
+2,Yes,Decrease,Neutral,4,Africa
+5,Yes,No Change,Unsatisfied,2,South America
+4,No,Increase,Satisfied,1,Asia
+3,No,No Change,Satisfied,3,South America
+4,No,Increase,Neutral,2,South America
+5,No,Increase,Unsatisfied,4,Africa
+1,Yes,No Change,Unsatisfied,1,North America
+1,No,Increase,Neutral,1,Europe
+4,No,No Change,Unsatisfied,2,South America
+2,No,Increase,Unsatisfied,3,Asia
+2,Yes,No Change,Neutral,1,Africa
+1,Yes,No Change,Unsatisfied,1,Africa
+4,No,Increase,Satisfied,3,Asia
+4,No,Decrease,Unsatisfied,1,Africa
+3,Yes,No Change,Neutral,1,Oceania
+4,Yes,No Change,Unsatisfied,4,Europe
+2,Yes,No Change,Unsatisfied,5,Africa
+4,Yes,Decrease,Satisfied,4,Europe
+5,No,Increase,Neutral,3,Africa
+3,No,No Change,Unsatisfied,4,South America
+1,No,No Change,Satisfied,3,North America
+5,No,No Change,Satisfied,1,Africa
+3,No,Increase,Unsatisfied,4,Africa
+3,Yes,Increase,Unsatisfied,4,Oceania
+5,No,No Change,Satisfied,5,Africa
+2,Yes,Decrease,Neutral,5,Oceania
+4,No,No Change,Neutral,4,South America
+5,Yes,Increase,Unsatisfied,4,Africa
+3,No,Decrease,Unsatisfied,4,North America
+2,No,Increase,Satisfied,1,Oceania
+5,No,No Change,Neutral,1,Asia
+3,Yes,Increase,Neutral,5,Asia
+4,No,No Change,Unsatisfied,4,Africa
+2,No,No Change,Neutral,2,Asia
+3,No,No Change,Unsatisfied,1,Europe
+5,No,No Change,Neutral,3,South America
+1,Yes,No Change,Satisfied,2,North America
+4,No,No Change,Unsatisfied,1,Asia
+4,Yes,Decrease,Neutral,1,Africa
+1,Yes,No Change,Neutral,4,Africa
+5,Yes,No Change,Unsatisfied,3,Europe
+1,Yes,Decrease,Satisfied,2,South America
+5,Yes,Decrease,Satisfied,4,Africa
+4,Yes,No Change,Satisfied,1,Europe
+1,No,No Change,Satisfied,4,Africa
+5,Yes,Decrease,Satisfied,3,Europe
+2,No,No Change,Satisfied,2,Asia
+3,Yes,Increase,Neutral,4,South America
+1,No,Increase,Unsatisfied,5,Africa
+4,Yes,Decrease,Neutral,1,Europe
+1,Yes,Increase,Satisfied,1,Oceania
+1,No,Decrease,Satisfied,5,Asia
+1,Yes,Increase,Satisfied,1,Asia
+5,No,Increase,Neutral,2,Asia
+3,No,Increase,Satisfied,5,Europe
+3,No,Decrease,Neutral,3,Africa
+4,Yes,Increase,Neutral,4,North America
+3,Yes,Decrease,Satisfied,5,Oceania
+5,No,No Change,Unsatisfied,5,Europe
+2,No,Increase,Unsatisfied,5,South America
+4,Yes,Decrease,Satisfied,3,Oceania
+3,No,Decrease,Neutral,5,Africa
+2,Yes,No Change,Neutral,3,Asia
+3,Yes,No Change,Neutral,2,Europe
+1,Yes,No Change,Satisfied,3,South America
+1,Yes,Increase,Unsatisfied,2,Europe
+1,Yes,Increase,Satisfied,1,South America
+5,Yes,Decrease,Satisfied,2,Oceania
+3,No,No Change,Unsatisfied,4,South America
+1,Yes,No Change,Satisfied,5,Oceania
+3,Yes,Increase,Neutral,5,South America
+2,Yes,Decrease,Neutral,5,Africa
+4,No,Increase,Satisfied,4,Asia
+1,Yes,Decrease,Satisfied,3,Africa
+4,No,Decrease,Satisfied,3,Oceania
+5,Yes,Decrease,Satisfied,2,Oceania
+2,No,Decrease,Unsatisfied,2,Africa
+4,No,Increase,Satisfied,5,Oceania
+5,Yes,Decrease,Neutral,1,Asia
+1,Yes,Increase,Neutral,3,Oceania
+1,No,Increase,Unsatisfied,4,Europe
+4,No,Decrease,Neutral,2,Asia
+4,Yes,No Change,Neutral,3,Asia
+2,Yes,Increase,Unsatisfied,5,Europe
+3,Yes,Decrease,Satisfied,3,North America
+1,No,No Change,Unsatisfied,3,North America
+4,No,Decrease,Unsatisfied,1,North America
+3,No,Increase,Neutral,4,South America
+1,Yes,Increase,Satisfied,5,Europe
+1,Yes,Decrease,Satisfied,5,Oceania
+2,Yes,Increase,Neutral,1,Oceania
+2,No,Decrease,Neutral,5,North America
+2,Yes,No Change,Neutral,1,Oceania
+4,Yes,Decrease,Unsatisfied,5,South America
+2,Yes,No Change,Satisfied,2,North America
+2,Yes,Increase,Satisfied,5,Europe
+2,Yes,No Change,Unsatisfied,3,North America
+4,Yes,No Change,Unsatisfied,2,Africa
+1,Yes,Increase,Satisfied,5,Oceania
+3,No,No Change,Satisfied,5,Africa
+3,No,Increase,Neutral,1,Asia
+1,Yes,Decrease,Neutral,1,Oceania
+4,Yes,No Change,Neutral,2,Europe
+5,Yes,Decrease,Neutral,2,North America
+1,No,Increase,Neutral,4,North America
+3,No,Increase,Neutral,3,Africa
+3,No,Increase,Neutral,3,Asia
+1,No,Increase,Satisfied,1,North America
+5,Yes,No Change,Unsatisfied,3,North America
+2,No,Decrease,Neutral,5,North America
+1,No,Decrease,Satisfied,2,Europe
+3,No,Increase,Satisfied,5,Oceania
+1,No,Increase,Unsatisfied,4,Europe
+5,Yes,No Change,Neutral,4,Asia
+1,No,Increase,Satisfied,1,Africa
+3,Yes,Increase,Unsatisfied,3,Europe
+2,No,Increase,Neutral,3,Africa
+2,Yes,Decrease,Neutral,3,Asia
+2,No,Decrease,Neutral,5,Europe
+2,Yes,Increase,Neutral,1,Europe
+2,No,No Change,Unsatisfied,2,North America
+2,No,Increase,Unsatisfied,1,Europe
+1,Yes,Increase,Satisfied,4,Europe
+4,No,Decrease,Neutral,3,Asia
+1,Yes,No Change,Neutral,3,Europe
+1,Yes,No Change,Neutral,5,North America
+3,No,No Change,Neutral,4,Africa
+3,No,Decrease,Unsatisfied,1,Asia
+3,Yes,No Change,Unsatisfied,5,Europe
+5,Yes,Increase,Satisfied,1,Oceania
+1,No,Increase,Satisfied,4,South America
+4,No,Decrease,Neutral,3,Asia
+3,No,Increase,Neutral,3,North America
+1,No,No Change,Unsatisfied,1,South America
+5,No,No Change,Unsatisfied,1,Oceania
+5,Yes,No Change,Satisfied,1,Africa
+2,No,Decrease,Neutral,1,Asia
+2,No,Increase,Neutral,2,North America
+4,Yes,Decrease,Satisfied,2,Africa
+2,No,Increase,Unsatisfied,1,Oceania
+1,Yes,Increase,Neutral,2,Europe
+1,Yes,Decrease,Unsatisfied,1,Europe
+4,Yes,Increase,Neutral,3,Africa
+3,Yes,Decrease,Unsatisfied,2,Africa
+1,Yes,Increase,Neutral,2,Africa
+2,No,Decrease,Neutral,1,Africa
+3,Yes,Decrease,Unsatisfied,4,North America
+3,No,Increase,Satisfied,1,Oceania
+1,No,Decrease,Unsatisfied,2,Asia
+4,No,Decrease,Unsatisfied,2,Europe
+3,No,Increase,Unsatisfied,2,North America
+1,No,Increase,Unsatisfied,1,South America
+5,No,No Change,Neutral,4,Europe
+2,No,Increase,Unsatisfied,2,North America
+1,No,No Change,Unsatisfied,5,South America
+1,Yes,No Change,Satisfied,4,Asia
+5,No,Decrease,Neutral,4,Africa
+2,No,No Change,Neutral,4,Africa
+3,No,No Change,Unsatisfied,2,Africa
+4,Yes,No Change,Neutral,1,Europe
+5,No,Increase,Satisfied,2,Oceania
+5,No,Increase,Unsatisfied,5,North America
+3,No,No Change,Satisfied,3,North America
+5,No,Increase,Unsatisfied,3,North America
+4,Yes,Decrease,Unsatisfied,2,Europe
+3,Yes,Increase,Satisfied,5,North America
+1,No,Decrease,Satisfied,5,South America
+3,Yes,No Change,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,4,Europe
+5,No,No Change,Satisfied,1,Asia
+1,No,Increase,Satisfied,5,Asia
+4,Yes,Increase,Neutral,4,Europe
+4,Yes,Decrease,Neutral,1,Oceania
+4,No,Increase,Neutral,4,Europe
+2,No,Decrease,Unsatisfied,2,North America
+2,No,No Change,Unsatisfied,2,North America
+3,Yes,Decrease,Neutral,1,Africa
+5,No,Decrease,Satisfied,3,Africa
+4,Yes,No Change,Unsatisfied,3,Europe
+3,No,No Change,Satisfied,2,Europe
+2,No,Increase,Satisfied,2,South America
+3,No,Decrease,Neutral,5,Asia
+2,No,Decrease,Satisfied,3,Europe
+4,No,Decrease,Unsatisfied,5,Africa
+5,Yes,Decrease,Satisfied,2,Africa
+1,No,Increase,Neutral,5,Europe
+5,Yes,Increase,Neutral,5,South America
+2,Yes,No Change,Unsatisfied,5,South America
+1,Yes,Decrease,Unsatisfied,2,Asia
+1,Yes,Decrease,Neutral,3,North America
+4,No,Increase,Satisfied,5,Asia
+1,No,Decrease,Neutral,4,Asia
+4,No,No Change,Unsatisfied,4,South America
+4,No,No Change,Unsatisfied,5,Africa
+4,No,Increase,Neutral,3,Europe
+4,Yes,Decrease,Neutral,5,South America
+3,No,Decrease,Neutral,3,Oceania
+4,Yes,Increase,Unsatisfied,1,Europe
+5,Yes,Decrease,Neutral,3,North America
+1,Yes,No Change,Neutral,1,Oceania
+5,No,No Change,Neutral,2,South America
+5,Yes,No Change,Satisfied,1,Oceania
+1,No,No Change,Unsatisfied,2,Europe
+5,No,Decrease,Satisfied,5,North America
+5,Yes,No Change,Unsatisfied,3,Oceania
+4,No,No Change,Satisfied,2,Asia
+1,No,Decrease,Satisfied,3,South America
+1,Yes,Decrease,Neutral,4,Europe
+1,No,Decrease,Neutral,4,Europe
+5,No,No Change,Satisfied,5,Asia
+4,Yes,Increase,Satisfied,5,Europe
+5,No,Increase,Neutral,2,Oceania
+5,No,No Change,Unsatisfied,4,South America
+1,No,Decrease,Neutral,4,Asia
+3,Yes,Decrease,Unsatisfied,2,Africa
+3,Yes,Decrease,Unsatisfied,3,North America
+2,No,Increase,Neutral,3,North America
+3,Yes,No Change,Neutral,1,Africa
+4,No,Increase,Unsatisfied,2,North America
+3,Yes,Increase,Unsatisfied,5,Europe
+4,No,Increase,Unsatisfied,4,Africa
+4,No,No Change,Satisfied,4,Europe
+5,No,Increase,Satisfied,5,North America
+1,Yes,No Change,Satisfied,2,North America
+1,Yes,Decrease,Satisfied,5,Oceania
+2,Yes,Increase,Satisfied,3,South America
+4,Yes,Decrease,Unsatisfied,1,Oceania
+3,Yes,Decrease,Satisfied,1,Europe
+4,No,Increase,Neutral,4,Oceania
+2,No,No Change,Satisfied,3,Europe
+4,No,No Change,Unsatisfied,4,Oceania
+1,Yes,Decrease,Neutral,3,Asia
+1,No,Decrease,Satisfied,1,South America
+1,No,Decrease,Neutral,4,Europe
+5,No,Increase,Satisfied,2,Europe
+2,No,Decrease,Unsatisfied,2,North America
+5,Yes,Increase,Satisfied,3,Europe
+3,No,Decrease,Unsatisfied,3,Europe
+1,Yes,Decrease,Satisfied,5,Oceania
+2,No,No Change,Neutral,3,North America
+5,Yes,Increase,Neutral,3,Africa
+4,Yes,Increase,Satisfied,3,Europe
+2,Yes,Decrease,Neutral,4,Africa
+3,Yes,Decrease,Satisfied,2,Oceania
+1,Yes,Increase,Satisfied,1,North America
+2,No,Increase,Unsatisfied,4,Asia
+4,Yes,No Change,Neutral,3,Asia
+3,Yes,No Change,Unsatisfied,1,North America
+4,No,Increase,Unsatisfied,4,Oceania
+3,No,Decrease,Satisfied,1,Africa
+5,No,Increase,Satisfied,5,Africa
+2,Yes,Decrease,Satisfied,4,Oceania
+3,Yes,Increase,Unsatisfied,4,Asia
+2,No,Increase,Satisfied,3,Oceania
+4,No,Increase,Neutral,3,South America
+4,Yes,No Change,Satisfied,2,Africa
+4,No,Decrease,Neutral,2,North America
+3,No,No Change,Unsatisfied,2,Africa
+4,No,Increase,Unsatisfied,5,South America
+5,No,Increase,Neutral,2,Europe
+4,Yes,Decrease,Neutral,3,Oceania
+5,No,No Change,Unsatisfied,2,South America
+4,No,Increase,Neutral,4,Europe
+3,No,No Change,Neutral,3,Oceania
+2,No,Increase,Neutral,4,North America
+2,No,No Change,Satisfied,3,North America
+5,Yes,Increase,Satisfied,5,Africa
+5,Yes,Increase,Neutral,2,North America
+2,No,Decrease,Unsatisfied,1,Asia
+1,No,No Change,Unsatisfied,5,Africa
+5,Yes,No Change,Neutral,5,Asia
+4,No,No Change,Neutral,3,Asia
+5,Yes,Decrease,Unsatisfied,3,Asia
+1,Yes,Increase,Satisfied,3,North America
+5,No,Increase,Unsatisfied,1,South America
+1,No,Increase,Satisfied,4,Asia
+5,No,Increase,Unsatisfied,4,South America
+1,Yes,No Change,Unsatisfied,5,Africa
+2,Yes,Decrease,Neutral,3,Africa
+5,Yes,Decrease,Unsatisfied,2,Oceania
+3,No,Decrease,Unsatisfied,1,Africa
+5,No,Decrease,Satisfied,2,Africa
+4,Yes,Increase,Neutral,3,Europe
+5,Yes,Increase,Neutral,5,Asia
+3,No,No Change,Neutral,2,South America
+4,No,Decrease,Unsatisfied,1,North America
+1,No,Decrease,Satisfied,4,South America
+1,Yes,Decrease,Satisfied,5,Africa
+1,Yes,Decrease,Unsatisfied,2,Asia
+2,No,Decrease,Unsatisfied,4,South America
+1,Yes,No Change,Unsatisfied,2,North America
+1,No,No Change,Unsatisfied,2,Oceania
+2,Yes,No Change,Satisfied,1,Europe
+2,No,Decrease,Satisfied,2,Africa
+1,Yes,Decrease,Unsatisfied,5,South America
+1,Yes,Increase,Unsatisfied,4,Asia
+1,No,Decrease,Satisfied,1,Europe
+4,Yes,Increase,Satisfied,2,Oceania
+3,No,Increase,Unsatisfied,1,Africa
+3,No,Increase,Unsatisfied,3,Oceania
+4,No,No Change,Unsatisfied,2,South America
+2,Yes,No Change,Neutral,1,Africa
+1,No,No Change,Neutral,3,Europe
+2,Yes,Increase,Unsatisfied,3,South America
+1,Yes,No Change,Unsatisfied,2,Oceania
+5,Yes,Increase,Neutral,2,Asia
+4,Yes,No Change,Satisfied,4,Oceania
+2,No,Increase,Unsatisfied,3,Europe
+3,No,Increase,Unsatisfied,2,Oceania
+4,No,Increase,Neutral,3,Asia
+3,No,Decrease,Unsatisfied,4,Africa
+3,Yes,No Change,Unsatisfied,5,South America
+5,Yes,Increase,Unsatisfied,5,Asia
+3,No,Increase,Neutral,3,Asia
+5,Yes,Decrease,Satisfied,4,Africa
+2,Yes,Decrease,Neutral,5,Oceania
+2,Yes,Increase,Satisfied,3,Oceania
+5,Yes,Increase,Neutral,3,Africa
+3,No,Decrease,Neutral,5,Europe
+2,No,Decrease,Satisfied,3,Africa
+5,No,Increase,Unsatisfied,5,Asia
+1,No,No Change,Satisfied,2,Africa
+2,No,No Change,Neutral,4,Europe
+5,No,Increase,Neutral,3,Africa
+4,No,Increase,Satisfied,5,Asia
+1,Yes,Increase,Unsatisfied,3,Africa
+2,Yes,Increase,Satisfied,5,Oceania
+2,No,No Change,Satisfied,3,Africa
+5,Yes,Decrease,Satisfied,3,Asia
+2,Yes,Increase,Neutral,5,Oceania
+5,Yes,Decrease,Neutral,1,Asia
+1,Yes,Decrease,Satisfied,1,Africa
+4,No,Increase,Satisfied,1,Oceania
+5,Yes,Increase,Unsatisfied,4,Asia
+1,Yes,No Change,Unsatisfied,5,Asia

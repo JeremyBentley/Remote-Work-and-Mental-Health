@@ -1,0 +1,22 @@
+Job_Role,Stress_Level,Good,Average,Poor,Total
+Data Scientist,High,74,87,81,242
+Data Scientist,Low,74,75,81,230
+Data Scientist,Medium,75,77,72,224
+Designer,High,73,82,97,252
+Designer,Low,86,91,82,259
+Designer,Medium,80,67,65,212
+HR,High,77,68,82,227
+HR,Low,82,88,71,241
+HR,Medium,75,75,98,248
+Marketing,High,77,71,77,225
+Marketing,Low,90,64,67,221
+Marketing,Medium,80,77,80,237
+Project Manager,High,75,87,91,253
+Project Manager,Low,73,71,84,228
+Project Manager,Medium,89,86,82,257
+Sales,High,86,92,75,253
+Sales,Low,72,79,90,241
+Sales,Medium,96,65,78,239
+Software Engineer,High,79,74,81,234
+Software Engineer,Low,87,68,70,225
+Software Engineer,Medium,87,84,81,252

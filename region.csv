@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Region,High,Low,Medium,Total
 Africa,310,282,268,860
 Asia,252,281,296,829
@@ -5,3 +6,12 @@ Europe,298,261,281,840
 North America,256,266,255,777
 Oceania,282,291,294,867
 South America,288,264,275,827
+=======
+Region,High,Low,Medium,Total
+Africa,310,282,268,860
+Asia,252,281,296,829
+Europe,298,261,281,840
+North America,256,266,255,777
+Oceania,282,291,294,867
+South America,288,264,275,827
+>>>>>>> ce2276f45c45f6a6b4473c0b77e105e7995fd828
